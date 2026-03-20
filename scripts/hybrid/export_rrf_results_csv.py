@@ -18,7 +18,7 @@ import json
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from scripts.hybrid.rrf import run_rrf  # type: ignore
+from scripts.hybrid.search_rrf import run_rrf  # type: ignore
 from scripts.semantic.search_faiss import (  # type: ignore
     build_chunks_sqlite_if_missing,
     chunks_sqlite_path_for,

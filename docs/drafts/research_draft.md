@@ -164,8 +164,8 @@ Representative run commands are embedded in script headers and include:
 - `python -m scripts.bm25.search_bm25 --config config.json --q "..."`
 - `python -m scripts.semantic.embed_chunks --chunks ... --normalize --overwrite`
 - `python -m scripts.semantic.build_faiss --run_dir data/embeddings/bge_mean_norm --overwrite`
-- `python -m scripts.hybrid.rrf --q "..." --config config.json --run_dir ... --chunks ...`
-- `python -m scripts.hybrid.cross_encoder_rerank --q "..." --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"`
+- `python -m scripts.hybrid.search_rrf --q "..." --config config.json --run_dir ... --chunks ...`
+- `python -m scripts.hybrid.search_cross_encoder_rerank --q "..." --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"`
 - `python tests/eval_ir_metrics.py -i <scored_csv> -o <eval_dir>`
 
 Runtime context:

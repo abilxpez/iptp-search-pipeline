@@ -3,7 +3,7 @@ Hybrid RRF search over BM25 + FAISS results.
 
 Example:
 
-python -m scripts.hybrid.rrf \
+python -m scripts.hybrid.search_rrf \
   --q "temporary protected status" \
   --config config.json \
   --run_dir data/embeddings/bge_mean_norm \
@@ -12,7 +12,7 @@ python -m scripts.hybrid.rrf \
 
 alternative:
 
-python -m scripts.hybrid.rrf \
+python -m scripts.hybrid.search_rrf \
   --q "temporary protected status" \
   --config config.json \
   --run_dir data/embeddings/bge_mean_norm \

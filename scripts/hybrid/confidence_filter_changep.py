@@ -36,8 +36,8 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from scripts.hybrid.cross_encoder_rerank import run_cross_encoder  # type: ignore
-from scripts.hybrid.rrf import RRFHit  # type: ignore
+from scripts.hybrid.search_cross_encoder_rerank import run_cross_encoder  # type: ignore
+from scripts.hybrid.search_rrf import RRFHit  # type: ignore
 
 
 def confidence_filter(

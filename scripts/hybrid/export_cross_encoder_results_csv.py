@@ -28,7 +28,7 @@ import json
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from scripts.hybrid.cross_encoder_rerank import run_cross_encoder  # type: ignore
+from scripts.hybrid.search_cross_encoder_rerank import run_cross_encoder  # type: ignore
 from scripts.semantic.search_faiss import (  # type: ignore
     build_chunks_sqlite_if_missing,
     chunks_sqlite_path_for,

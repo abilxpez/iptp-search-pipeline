@@ -228,8 +228,8 @@ python -m scripts.bm25.search_bm25 --config config.json --q "temporary protected
 python -m scripts.semantic.embed_chunks --chunks data/sample_100/chunks/chunks.jsonl --normalize --overwrite
 python -m scripts.semantic.build_faiss --run_dir data/embeddings/bge_mean_norm --overwrite
 
-python -m scripts.hybrid.rrf --q "temporary protected status" --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl
-python -m scripts.hybrid.cross_encoder_rerank --q "temporary protected status" --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"
+python -m scripts.hybrid.search_rrf --q "temporary protected status" --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl
+python -m scripts.hybrid.search_cross_encoder_rerank --q "temporary protected status" --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"
 ```
 
 Environment note:

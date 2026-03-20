@@ -3,12 +3,12 @@ Cross-encoder rerank on top of BM25 + FAISS RRF fusion.
 
 Example:
 
-python -m scripts.hybrid.cross_encoder_rerank \
+python -m scripts.hybrid.search_cross_encoder_rerank \
     --q "temporary protected status" \
     --auto_rrf \
     --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"
 
-python -m scripts.hybrid.cross_encoder_rerank \
+python -m scripts.hybrid.search_cross_encoder_rerank \
     --q "temporary protected status" \
     --chunks data/sample_100/chunks/chunks.jsonl \
     --auto_rrf \
@@ -42,7 +42,7 @@ from scripts.semantic.search_faiss import (  # type: ignore
     open_sqlite,
 )
 from scripts.bm25.search_bm25 import format_excerpt  # type: ignore
-from scripts.hybrid.rrf import RRFHit, run_rrf  # type: ignore
+from scripts.hybrid.search_rrf import RRFHit, run_rrf  # type: ignore
 
 
 def parse_args() -> argparse.Namespace:

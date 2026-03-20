@@ -783,6 +783,21 @@ Convert current findings into a concrete ablation roadmap:
 Current config anchor:
 1. `config.json`
 
+Local (gitignored) config required for AWS-backed data steps:
+1. Create `config.local.json` in repo root.
+2. Use placeholders like below and replace with your own values:
+```json
+{
+  "aws": {
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "documents_bucket": "<documents-bucket>",
+    "profile": "<aws-profile-optional>",
+    "region": "<aws-region-optional>"
+  }
+}
+```
+3. `config.local.json` is ignored by git and is auto-merged with `config.json` at runtime.
+
 Current pipeline commands:
 ```bash
 # Environment
@@ -806,11 +821,11 @@ python -m scripts.semantic.search_faiss --q "temporary protected status" --run_d
 python -m scripts.semantic.export_faiss_results_csv --queries data/text/queries.txt --out data/text/faiss_results.csv
 
 # Stage 3: RRF
-python -m scripts.hybrid.rrf --q "temporary protected status" --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl
+python -m scripts.hybrid.search_rrf --q "temporary protected status" --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl
 python -m scripts.hybrid.export_rrf_results_csv --queries data/text/queries.txt --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl --out data/text/results/rrf_results.csv
 
 # Stage 4: Cross-encoder rerank
-python -m scripts.hybrid.cross_encoder_rerank --q "temporary protected status" --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"
+python -m scripts.hybrid.search_cross_encoder_rerank --q "temporary protected status" --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"
 python -m scripts.hybrid.export_cross_encoder_results_csv --queries data/text/queries.txt --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2" --out data/text/results/cross_encoder_results.csv
 ```
 

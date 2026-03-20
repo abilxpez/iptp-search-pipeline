@@ -196,10 +196,10 @@ python -m scripts.semantic.embed_chunks --chunks data/sample_100/chunks/chunks.j
 python -m scripts.semantic.build_faiss --run_dir data/embeddings/bge_mean_norm --overwrite
 
 # Stage 3: RRF
-python -m scripts.hybrid.rrf --q "temporary protected status" --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl
+python -m scripts.hybrid.search_rrf --q "temporary protected status" --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl
 
 # Stage 4: Cross-encoder rerank
-python -m scripts.hybrid.cross_encoder_rerank --q "temporary protected status" --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"
+python -m scripts.hybrid.search_cross_encoder_rerank --q "temporary protected status" --auto_rrf --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2"
 ```
 
 Current evaluation command style:
