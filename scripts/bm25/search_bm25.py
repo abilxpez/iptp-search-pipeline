@@ -88,7 +88,14 @@ def seek_jsonl_line_by_offset(path: Path, offset: int) -> Dict[str, Any]:
         line = f.readline()
         if not line:
             raise RuntimeError(f"Failed to read JSONL line at offset {offset} in {path}")
-        return json.loads(line.decode("utf-8"))
+        try:
+            return json.loads(line.decode("utf-8"))
+        except json.JSONDecodeError as e:
+            raise RuntimeError(
+                f"Invalid JSON at offset {offset} in {path}. "
+                "BM25 offsets are likely stale relative to chunks.jsonl. "
+                "Rebuild BM25 artifacts with: python -m scripts.bm25.build_bm25 --config config.json"
+            ) from e
 
 
 def format_snippet(text: str, max_chars: int = 220) -> str:

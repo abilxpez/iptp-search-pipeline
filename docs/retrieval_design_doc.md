@@ -785,8 +785,11 @@ Current config anchor:
 
 Current pipeline commands:
 ```bash
+# Environment
+conda activate iptp
+
 # Step 0: data assembly and preprocessing
-python -m scripts.get_data.assemble_policies --config config.json --backup-prefix "$BACKUP_PREFIX" --documents-bucket "$DOCUMENTS_BUCKET"
+python -m scripts.get_data.assemble_policies --config config.json
 python -m scripts.get_data.download_documents --config config.json
 python -m scripts.get_data.extract_pages --config config.json
 python -m scripts.get_data.chunk_pages --config config.json
