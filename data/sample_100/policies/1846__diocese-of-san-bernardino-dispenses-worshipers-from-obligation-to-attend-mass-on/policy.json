@@ -1,0 +1,62 @@
+{
+  "page_ptr_id": 1846,
+  "title": "Diocese of San Bernardino dispenses worshipers from obligation to attend mass on Sundays",
+  "slug": "diocese-of-san-bernardino-dispenses-worshipers-from-obligation-to-attend-mass-on-sundays",
+  "url_path": "/home/policies/diocese-of-san-bernardino-dispenses-worshipers-from-obligation-to-attend-mass-on-sundays/",
+  "live": false,
+  "announced_date": "2025-07-08",
+  "effective_date": "2025-07-08",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"dwxxe\">The Diocese of San Bernardino, Bishop Alberto Rojas, issued a decree dispensing members from their obligation to attend mass due to rising fears of immigration enforcement. Such an action is rare and reserved for extenuating circumstances, such as the pandemic. Bishop Rojas is at least the second Diocese in the United States to issue such a decree in light of increasing immigration enforcement by the Trump administration.</p><p data-block-key=\"dr7fm\"></p><p data-block-key=\"763cc\">Trump 2.0 [ID #</p>",
+  "description_text": "The Diocese of San Bernardino, Bishop Alberto Rojas, issued a decree dispensing members from their obligation to attend mass due to rising fears of immigration enforcement. Such an action is rare and reserved for extenuating circumstances, such as the pandemic. Bishop Rojas is at least the second Diocese in the United States to issue such a decree in light of increasing immigration enforcement by the Trump administration.\n\nTrump 2.0 [ID #",
+  "search_document": "action San attend rising Bernardino, by Trump a members at dispensing #1846] mass increasing is 2025.07.10 L.A.-Area Bishop Excuses Faithful From Mass Over Fear of Immigration Raids - New York Times States in Rojas, [ID pandemic. UNPUB Diocese of San Bernardino dispenses worshipers from obligation to attend mass on Sundays second light 2.0 extenuating Bishop due for from of rare to and enforcement. decree obligation issued as their Such fears issue the The immigration an administration.Trump United circumstances, least such Rojas Diocese enforcement reserved Alberto",
+  "filters": {
+    "administrative_actions": [],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother"
+      }
+    ],
+    "agencies": [],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [],
+    "commentary": [
+      {
+        "policydocument_id": 6629,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2025-07-10",
+        "display_title": null,
+        "link_title": null,
+        "link": "https://www.nytimes.com/2025/07/10/us/california-san-bernardino-bishop-mass-church-ice-raids.html",
+        "description_html": "",
+        "wagtaildoc_id": 16304,
+        "wagtaildoc_file": "documents/2025.07.10_L.A.-Area_Bishop_Excuses_Faithful_From_Mass_Over_Fear_of_Immigration_Raids_.pdf",
+        "wagtaildoc_title": "2025.07.10 L.A.-Area Bishop Excuses Faithful From Mass Over Fear of Immigration Raids",
+        "file_size": 2088297,
+        "file_hash": "583df83cef2f62e27afd4e314d6fffcd603460f2",
+        "slug": "20250710-la-area-bishop-excuses-faithful-from-mass"
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.871863Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

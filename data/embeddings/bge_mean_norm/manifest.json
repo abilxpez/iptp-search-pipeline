@@ -1,0 +1,68 @@
+{
+  "created_ts": "2026-03-03T21:43:59",
+  "run_dir": "data/embeddings/bge_mean_norm",
+  "chunks_source": "data/sample_100/chunks/chunks.jsonl",
+  "chunks_source_size": 17883937,
+  "config": {
+    "empty_replacement": ".",
+    "max_length": 256,
+    "seed": null,
+    "normalize": true,
+    "model_name": "BAAI/bge-base-en-v1.5",
+    "empty_policy": "replace",
+    "trust_remote_code": false,
+    "pooling": "mean"
+  },
+  "dim": 768,
+  "shards": [
+    {
+      "idx": 0,
+      "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000000.npy",
+      "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000000.jsonl",
+      "count": 1000
+    },
+    {
+      "idx": 1,
+      "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000001.npy",
+      "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000001.jsonl",
+      "count": 1000
+    },
+    {
+      "idx": 2,
+      "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000002.npy",
+      "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000002.jsonl",
+      "count": 1000
+    },
+    {
+      "idx": 3,
+      "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000003.npy",
+      "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000003.jsonl",
+      "count": 1000
+    },
+    {
+      "idx": 4,
+      "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000004.npy",
+      "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000004.jsonl",
+      "count": 147
+    }
+  ],
+  "total_embedded": 4147,
+  "faiss": {
+    "created_ts": "2026-03-03T21:56:37",
+    "index_type": "hnsw_flat",
+    "metric": "ip",
+    "dim": 768,
+    "ntotal_indexed": 4147,
+    "meta_path": "faiss/build_faiss_meta.json",
+    "index_path": "faiss/index.faiss",
+    "mapping_path": "faiss/row_to_chunk_id.jsonl",
+    "params": {
+      "m": 32,
+      "ef_construction": 200,
+      "ef_search": 64
+    },
+    "num_shards_total": 5,
+    "num_shards_indexed": 5,
+    "num_shards_skipped": 0
+  }
+}

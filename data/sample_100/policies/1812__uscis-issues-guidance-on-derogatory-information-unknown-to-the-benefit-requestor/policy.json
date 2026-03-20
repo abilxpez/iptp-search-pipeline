@@ -1,0 +1,86 @@
+{
+  "page_ptr_id": 1812,
+  "title": "USCIS issues guidance on derogatory information unknown to the benefit requestor",
+  "slug": "uscis-issues-guidance-on-derogatory-information-unknown-to-the-benefit-requestor",
+  "url_path": "/home/policies/uscis-issues-guidance-on-derogatory-information-unknown-to-the-benefit-requestor/",
+  "live": false,
+  "announced_date": "2025-06-12",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"do8pa\">USCIS issued policy guidance in the USCIS Policy Manual to address how and when USCIS may or may not disclose derogatory information before issuing an adverse decision to benefit requestors. The policy provides that when USCIS intends to make an adverse decision based on derogatory information of which a benefit requestor seems to be unaware, USCIS will generally disclose the information in a detailed description, if permissible. If not permissible, such as for some third agency records and some third-party information, USCIS may elicit the same or substantially similar information from the benefit requestor in response to a request for evidence or through interview testimony.</p><p data-block-key=\"4vqd\">Trump 2.0 [ID #1812]</p>",
+  "description_text": "USCIS issued policy guidance in the USCIS Policy Manual to address how and when USCIS may or may not disclose derogatory information before issuing an adverse decision to benefit requestors. The policy provides that when USCIS intends to make an adverse decision based on derogatory information of which a benefit requestor seems to be unaware, USCIS will generally disclose the information in a detailed description, if permissible. If not permissible, such as for some third agency records and some third-party information, USCIS may elicit the same or substantially similar information from the benefit requestor in response to a request for evidence or through interview testimony.\n\nTrump 2.0 [ID #1812]",
+  "search_document": "which permissible. address a requestors. such based requestor in on substantially similar not from disclose If seems third information, response some benefit request unaware, elicit that records third-party evidence [ID how an be Manual The detailed 2.0 provides issuing intends may through Agency Directive of testimony.Trump and agency before or issued USCIS U.S. Citizenship and Immigration Services interview derogatory adverse information policy decision USCIS - Derogatory Information Unknown to the Benefit Requestor if permissible, to generally for description, same make guidance the when as #1812] USCIS issues guidance on derogatory information unknown to the benefit requestor will Policy",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-2"
+      },
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-3"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6478,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-06-12",
+        "display_title": null,
+        "link_title": "USCIS - Derogatory Information Unknown to the Benefit Requestor",
+        "link": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20250612-DerogatoryInformation.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 16148,
+        "wagtaildoc_file": "documents/2025.06.12_USCIS_-_Derogatory_Information_Unknown_to_the_Benefit_Requestor.pdf",
+        "wagtaildoc_title": "2025.06.12 USCIS - Derogatory Information Unknown to the Benefit Requestor",
+        "file_size": 314741,
+        "file_hash": "8201c07991ec7e835a859644037979f1b546345b",
+        "slug": "20250612-uscis-derogatory-information-unknown-to-t"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.894824Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "page_ptr_id": 636,
+  "title": "Reports that President will attempt to void birthright citizenship for children of undocumented parents via Executive Order",
+  "slug": "reports-that-president-will-attempt-to-void-birthright-citizenship-for-children-of-undocumented-parents-via-executive-order",
+  "url_path": "/home/policies/reports-that-president-will-attempt-to-void-birthright-citizenship-for-children-of-undocumented-parents-via-executive-order/",
+  "live": true,
+  "announced_date": "2018-10-30",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>Numerous press reports that President Trump is planning to use an executive order to end birthright citizenship for children of undocumented parents without constitutional or statutory amendement. [ID #636]</p>",
+  "description_text": "Numerous press reports that President Trump is planning to use an executive order to end birthright citizenship for children of undocumented parents without constitutional or statutory amendement. [ID #636]",
+  "search_document": "[ID President parents or without amendement. Reports that President will attempt to void birthright citizenship for children of undocumented parents via Executive Order citizenship Other planning Department of State Citizenship Evidence press constitutional Press Report--NPR of children birthright executive undocumented an reports statutory for is Presidential Orders order use 14th Amendment of the United States Constitution that #636] end Trump to Numerous",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Presidential Orders",
+        "slug": "presidential-orders"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-5"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1454,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-10-30",
+        "display_title": "Press Report--NPR",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1903,
+        "wagtaildoc_file": "documents/NPR_article_about_Trump_voiding_birthright_citizenship.pdf",
+        "wagtaildoc_title": "Press Report--NPR",
+        "file_size": 1019467,
+        "file_hash": "fba817a9f737e72abb3e2d9d2d66f6c4fc84249c",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1456,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "1968-07-09",
+        "display_title": "14th Amendment of the United States Constitution",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 196,
+        "wagtaildoc_file": "documents/14th_Amendment.pdf",
+        "wagtaildoc_title": "14th Amendment of the United States Constitution",
+        "file_size": 183531,
+        "file_hash": "801433fab5df28c99b2abf8c0bc03b0448763260",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1455,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2018-03-28",
+        "display_title": "Department of State Citizenship Evidence",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 2812,
+        "wagtaildoc_file": "documents/USDOS_Website_Citizenship_Evidence.pdf",
+        "wagtaildoc_title": "Department of State Citizenship Evidence",
+        "file_size": 55360,
+        "file_hash": "63622dc03b29968a5c84930f20094bc73adc0a78",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 776,
+      "title": "State Department aims to limit 'birth tourism' with new visa rule",
+      "slug": "state-dept-aims-to-limit-birth-tourism-with-new-visa-rule",
+      "announced_date": "2020-01-24",
+      "effective_date": "2020-01-24",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.657438Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

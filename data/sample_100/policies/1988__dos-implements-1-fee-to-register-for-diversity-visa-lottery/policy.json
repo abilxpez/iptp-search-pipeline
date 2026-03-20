@@ -1,0 +1,99 @@
+{
+  "page_ptr_id": 1988,
+  "title": "DOS implements $1 fee for Diversity Visa Lottery",
+  "slug": "dos-implements-1-fee-to-register-for-diversity-visa-lottery",
+  "url_path": "/home/policies/dos-implements-1-fee-to-register-for-diversity-visa-lottery/",
+  "live": true,
+  "announced_date": "2025-09-16",
+  "effective_date": "2025-09-16",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"ezbfi\">The Department of State (DOS) issued a final rule establishing a $1 fee to enter the Diversity Visa Lottery. Previously, there was no cost. The new fee will take effect on October 16, 2025, and will be payable at registration. The $1 fee is in addition to a $330 application fee paid by lottery winners who apply for a Diversity Visa. DOS predicts that the new fee will bring in $25 million annually.</p><p data-block-key=\"8ggak\">Trump 2.0 [#1988]</p>",
+  "description_text": "The Department of State (DOS) issued a final rule establishing a $1 fee to enter the Diversity Visa Lottery. Previously, there was no cost. The new fee will take effect on October 16, 2025, and will be payable at registration. The $1 fee is in addition to a $330 application fee paid by lottery winners who apply for a Diversity Visa. DOS predicts that the new fee will bring in $25 million annually.\n\nTrump 2.0 [#1988]",
+  "search_document": "effect apply 2.0 fee by enter Visa. no Previously, for the Visa take $330 Federal Register final rule implementing $1 registration fee. Bureau of Consular Affairs 16, establishing who annually.Trump $25 The in at registration. paid predicts Department payable State diversity [#1988] and a October addition Lottery. Other DOS implements $1 fee for Diversity Visa Lottery issued DOS bring of 2025.09.16 DOS implements $1 fee for Diversity Visa Lottery registration application lottery diversity visa that CA Rule Diversity to rule be (DOS) new was there million will final is 2025, cost. $1 on winners",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Diversity",
+        "slug": "diversity"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      },
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7241,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-09-16",
+        "display_title": null,
+        "link_title": "2025.09.16 DOS implements $1 fee for Diversity Visa Lottery registration",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2025-09-16/pdf/2025-17851.pdf",
+        "description_html": "<p data-block-key=\"8lhru\">Federal Register final rule implementing $1 registration fee.</p>",
+        "wagtaildoc_id": 16856,
+        "wagtaildoc_file": "documents/2025.09.16_DOS_implements_1_fee_for_Diversity_Visa_Lottery_registration.pdf",
+        "wagtaildoc_title": "2025.09.16 DOS implements $1 fee for Diversity Visa Lottery registration",
+        "file_size": 244645,
+        "file_hash": "1a604c6d3a433745ed7240a1b730cdb82e9b88d2",
+        "slug": "20250916-dos-implements-1-fee-for-diversity-visa-l"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1016,
+      "title": "USCIS issues final rule increasing fees",
+      "slug": "uscis-issues-final-rule-increasing-its-fees",
+      "announced_date": "2020-08-03",
+      "effective_date": "2020-10-02",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 1247,
+      "title": "EOIR Director issues policy memo on fees and fee waivers",
+      "slug": "eoir-director-issues-policy-memo-fees-and-fee-waivers",
+      "announced_date": "2020-12-18",
+      "effective_date": "2020-12-18",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.776502Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "page_ptr_id": 1878,
+  "title": "DOL issues guidance requiring work-authorization verification for Employment and Training Administration (ETA) grant programs",
+  "slug": "dol-issues-guidance",
+  "url_path": "/home/policies/dol-issues-guidance/",
+  "live": true,
+  "announced_date": "2025-07-10",
+  "effective_date": "2025-07-10",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"uc50s\">The Department of Labor issued guidance that clarifies work-authorization verification for grant programs administered by the Employment and Training Administration (ETA). The guidance clarifies that all participant-level services are considered “federal public benefits” under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). Thus, grantees must verify work authorization for all participants prior to delivering services. The guidance applies particularly to programs under the Workforce Innovation and Opportunity Act for adults, dislocated workers, and youth.</p><p data-block-key=\"4k5id\">Trump 2.0 [ID #1878]</p>",
+  "description_text": "The Department of Labor issued guidance that clarifies work-authorization verification for grant programs administered by the Employment and Training Administration (ETA). The guidance clarifies that all participant-level services are considered “federal public benefits” under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). Thus, grantees must verify work authorization for all participants prior to delivering services. The guidance applies particularly to programs under the Workforce Innovation and Opportunity Act for adults, dislocated workers, and youth.\n\nTrump 2.0 [ID #1878]",
+  "search_document": "verification Innovation services Responsibility of must all applies Workforce programs guidance Training authorization participant-level #1878] (ETA). under prior Opportunity particularly grantees “federal administered Agency Directive Personal grant public benefits Employment Administration issued benefits” services. by The work-authorization verify dislocated Other [ID Work clarifies delivering Act Employment Verification considered Department to (PRWORA). workers, are and participants that public Reconciliation adults, Labor 1996 the Thus, DOL issues guidance requiring work-authorization verification for Employment and Training Administration (ETA) grant programs for 2.0 work youth.Trump",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Employment Verification",
+        "slug": "employment-verification"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Labor",
+        "department_slug": "department-of-labor",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-3"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6744,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-07-10",
+        "display_title": null,
+        "link_title": null,
+        "link": "https://www.dol.gov/sites/dolgov/files/ETA/advisories/TEGL/2023/TEGL%2010-23%20Change%202/TEGL%2010-23%20Change%202.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 16401,
+        "wagtaildoc_file": "documents/2025.07.10_DOL_Guidance_Letter_NO._10-23.pdf",
+        "wagtaildoc_title": "2025.07.10 DOL: Guidance Letter NO. 10-23.pdf",
+        "file_size": 297292,
+        "file_hash": "d16098ce5fc47fc761013f30366a3cd83cdf3f95",
+        "slug": "-33"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1845,
+      "title": "HHS issues notice excluding undocumented immigrants from additional federal benefits",
+      "slug": "department-of-health-and-human-services-announces-termination-of-migrant-eligibility-for-federal-social-programs",
+      "announced_date": "2025-07-14",
+      "effective_date": "2025-07-14",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1645,
+      "title": "HUD signs Memorandum of Understanding with DHS to prevent undocumented noncitizens from using federal housing programs",
+      "slug": "hud-signs-memorandum-of-understanding-with-dhs-to-prevent-undocumented-noncitizens-from-using-federal-housing-programs",
+      "announced_date": "2025-03-24",
+      "effective_date": "2025-03-24",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.868957Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

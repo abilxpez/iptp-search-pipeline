@@ -1,0 +1,90 @@
+{
+  "page_ptr_id": 1721,
+  "title": "ORR proposes revisions to forms for services provided to unaccompanied children",
+  "slug": "orr-proposes-revisions-to-forms-pertaining-to-services-provided-to-unaccompanied-children",
+  "url_path": "/home/policies/orr-proposes-revisions-to-forms-pertaining-to-services-provided-to-unaccompanied-children/",
+  "live": true,
+  "announced_date": "2025-04-29",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"30yuy\">The Office of Refugee Resettlement (ORR) published a notice inviting public comments on proposed revisions to several forms that allow the Unaccompanied Alien Children (UAC) Program to continue providing statutorily mandated services to unaccompanied children in ORR care. ORR explains that it has “undertaken a reorganization of its information collections to promote operational efficiency.” Under this reorganization, ORR proposes to discontinue the use of 6 forms created for the case management system, the UC Path, which was never implemented, transfer 10 forms to new information collections associated with Assessments and Home Studies/Post Release Services, and make form-specific revisions to the five remaining forms.</p><p data-block-key=\"58fj4\">Comments are due by May 29, 2025.</p><p data-block-key=\"4hb59\">Trump 2.0 [ID #1721]</p>",
+  "description_text": "The Office of Refugee Resettlement (ORR) published a notice inviting public comments on proposed revisions to several forms that allow the Unaccompanied Alien Children (UAC) Program to continue providing statutorily mandated services to unaccompanied children in ORR care. ORR explains that it has “undertaken a reorganization of its information collections to promote operational efficiency.” Under this reorganization, ORR proposes to discontinue the use of 6 forms created for the case management system, the UC Path, which was never implemented, transfer 10 forms to new information collections associated with Assessments and Home Studies/Post Release Services, and make form-specific revisions to the five remaining forms.\n\nComments are due by May 29, 2025.\n\nTrump 2.0 [ID #1721]",
+  "search_document": "Forms and Information Collection allow system, public forms which associated new providing information 29, Resettlement statutorily promote revisions are Office of Refugee Resettlement Alien that The case children mandated reorganization, services Assessments ORR created published Path, 6 Studies/Post this transfer proposed Under Services, UC #1721] operational notice May collections make comments discontinue for ORR: Submission for OMB Review - Services Provided to UAC Unaccompanied inviting forms.Comments remaining its reorganization Refugee has Home by unaccompanied use continue and on (ORR) it (UAC) “undertaken Minors 2025.Trump efficiency.” the 2.0 ORR: Supporting Statement of to a proposes Release management implemented, several five ORR proposes revisions to forms for services provided to unaccompanied children explains Children in [ID Office 10 due with was form-specific care. never Program",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Minors",
+        "slug": "minors"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Health & Human Services",
+        "department_slug": "health-human-services",
+        "agency": "Office of Refugee Resettlement",
+        "agency_slug": "office-of-refugee-resettlement"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6128,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-04-14",
+        "display_title": null,
+        "link_title": "ORR: Supporting Statement",
+        "link": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-0970-004",
+        "description_html": "",
+        "wagtaildoc_id": 15844,
+        "wagtaildoc_file": "documents/2025.04.14_ORR_-_Supporting_Statement.pdf",
+        "wagtaildoc_title": "2025.04.14 ORR: Supporting Statement",
+        "file_size": 367855,
+        "file_hash": "296bffd44166d9753cbc1ab5f9e819fbaade5539",
+        "slug": "20250414-orr-supporting-statement"
+      },
+      {
+        "policydocument_id": 6127,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-04-29",
+        "display_title": null,
+        "link_title": "ORR: Submission for OMB Review - Services Provided to UAC",
+        "link": "https://www.federalregister.gov/documents/2025/04/29/2025-07372/submission-for-office-of-management-and-budget-review-services-provided-to-unaccompanied-alien",
+        "description_html": "",
+        "wagtaildoc_id": 15843,
+        "wagtaildoc_file": "documents/2025.04.29_ORR_-_Submission_for_OMB_-_Services_Provided_to_UAC.pdf",
+        "wagtaildoc_title": "2025.04.29 ORR: Submission for OMB Review - Services Provided to UAC",
+        "file_size": 327373,
+        "file_hash": "e328bb7474e2c1c970e67d660585f7f29847e4b4",
+        "slug": "20250429-orr-submission-for-omb-review-services-pr"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.945261Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "page_ptr_id": 791,
+  "title": "Commerce Department announces addition of citizenship question to 2020 Census",
+  "slug": "commerce-department-announces-addition-of-citizenship-question-to-2020-us-census",
+  "url_path": "/home/policies/commerce-department-announces-addition-of-citizenship-question-to-2020-us-census/",
+  "live": true,
+  "announced_date": "2018-03-26",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"0jnn3\">On December 12, 2017, DOJ requested that the Census Bureau reinstate a citizenship question on the decennial census to provide census block level citizenship voting age population (&quot;CV AP&quot;) data that are not currently available from government survey data. On March 26, 2018, the Department of Commerce approved DOJ&#x27;s request and directed the Census Bureau to reinstate the citizenship question on the 2020 census short form (which every household will receive)</p><p data-block-key=\"am342\">[ID #791]</p>",
+  "description_text": "On December 12, 2017, DOJ requested that the Census Bureau reinstate a citizenship question on the decennial census to provide census block level citizenship voting age population (\"CV AP\") data that are not currently available from government survey data. On March 26, 2018, the Department of Commerce approved DOJ's request and directed the Census Bureau to reinstate the citizenship question on the 2020 census short form (which every household will receive)\n\n[ID #791]",
+  "search_document": "reinstate December survey 2017, available Commerce 2019.06.27 Department of Commerce v. New York data 26, DOJ&#x27;s census provide approved Bureau population currently the receive)[ID Reinstatement of a Citizenship Question on the 2020 Decennial Census Questionnaire Change in Practice level 12, will citizenship short On July 11, 2019, the federal government announced it would not include a citizenship question on the 2020 Census. March to a Department not AP&quot;) directed Census every decennial data. There are two census questionaires: a long form and a short form. The short form is sent to every household and the long form is sent to 1 in 6 households. The short form census has not had a question about citizenship since 1950 (which asked &quot;If foreign born- is he naturalized?&quot;. Since 1950, the short form census questionaire has not included any questions about citizenship. The long form questionaire has had questions about citizenship up until 2010. from request question that 2020 and household On June 27, 2019, the U.S. Supreme Court affirmed the New York district court&#x27;s injunction blocking the addition of the citizenship question to the 2020 U.S. Census on APA grounds. Department of Commerce v. New York, SCOTUS 18-966.  California and Maryland district courts had also ruled against the government. See California v. Ross (N.D. Cal.), Case No. 3:18-cv-01865; Kravitz v. U.S. Dept. of Commerce (D. Maryland), Case No. 8:18-cv-01041. **Litigation is listed for informational purposes and is not comprehensive. For the current status of legal challenges, check other sources.** NPR Report are Other government DOJ #791] age (&quot;CV Data and Reports 2018, (which on On requested voting Commerce Department announces addition of citizenship question to 2020 Census form block REVIEWED of",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      },
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-5"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      },
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-6"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Rescinded",
+        "slug": "rescinded"
+      },
+      {
+        "title": "Enjoined/Vacated",
+        "slug": "enjoined"
+      },
+      {
+        "title": "In Litigation",
+        "slug": "in-litigation"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1777,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-03-26",
+        "display_title": "Reinstatement of a Citizenship Question on the 2020 Decennial Census Questionnaire",
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 749,
+        "wagtaildoc_file": "documents/Department_of_Commerce_Citizenship_Question.pdf",
+        "wagtaildoc_title": "Reinstatement of a Citizenship Question on the 2020 Decennial Census Questionnaire",
+        "file_size": 11671616,
+        "file_hash": "118b8e4c5cc0d3287949133814a9ec80fa0e3ed4",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1778,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2018-03-27",
+        "display_title": "NPR Report",
+        "link_title": null,
+        "link": "https://www.npr.org/2018/03/27/597436512/fact-check-has-citizenship-been-a-standard-census-question",
+        "description_html": "<p data-block-key=\"kc6gk\">There are two census questionaires: a long form and a short form. The short form is sent to every household and the long form is sent to 1 in 6 households. The short form census has not had a question about citizenship since 1950 (which asked &quot;If foreign born- is he naturalized?&quot;. Since 1950, the short form census questionaire has not included any questions about citizenship. The long form questionaire has had questions about citizenship up until 2010.</p>",
+        "wagtaildoc_id": 1901,
+        "wagtaildoc_file": "documents/NPR_-_Citizenship_Question_Census.pdf",
+        "wagtaildoc_title": "NPR Report",
+        "file_size": 2021937,
+        "file_hash": "be36aedf835ee7a2ae567b3d203051cd6a61f3b5",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1779,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-06-27",
+        "display_title": "2019.06.27 Department of Commerce v. New York",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"06wnv\">On June 27, 2019, the U.S. Supreme Court affirmed the New York district court&#x27;s injunction blocking the addition of the citizenship question to the 2020 U.S. Census on APA grounds. Department of Commerce v. New York, SCOTUS 18-966.  California and Maryland district courts had also ruled against the government. See California v. Ross (N.D. Cal.), Case No. 3:18-cv-01865; Kravitz v. U.S. Dept. of Commerce (D. Maryland), Case No. 8:18-cv-01041.<br/><br/> **Litigation is listed for informational purposes and is not comprehensive. For the current status of legal challenges, check other sources.**</p>",
+        "wagtaildoc_id": 11768,
+        "wagtaildoc_file": "documents/2019.06.27_Department_of_Commerce_v._New_York.pdf",
+        "wagtaildoc_title": "2019.06.27 Department of Commerce v. New York",
+        "file_size": 576351,
+        "file_hash": "df831397e5c231792c6a2df0191fe038b1929152",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1780,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-07-11",
+        "display_title": "",
+        "link_title": null,
+        "link": "https://abcnews.go.com/Politics/trump-expected-end-fight-add-citizenship-question-census/story?id=64262805",
+        "description_html": "<p data-block-key=\"zx7cv\">On July 11, 2019, the federal government announced it would not include a citizenship question on the 2020 Census.</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 943,
+      "title": "DHS to share records with Census Bureau to produce citizenship data for 2020 Census",
+      "slug": "census-bureau-seeks-dhs-citizenship-data",
+      "announced_date": "2019-03-07",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    },
+    {
+      "page_ptr_id": 1025,
+      "title": "POTUS issues memorandum excluding undocumented immigrants from apportionment base",
+      "slug": "potus-issues-memorandum-excluding-undocumented-immigrants-apportionment-base",
+      "announced_date": "2020-07-21",
+      "effective_date": "2020-07-21",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.807920Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

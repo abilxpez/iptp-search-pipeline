@@ -1,0 +1,74 @@
+{
+  "page_ptr_id": 1279,
+  "title": "Presidential Memorandum calls for listing Antifa as a terrorist organization and inadmissibility of Antifa associates",
+  "slug": "presidential-memorandum-calls-listing-antifa-terrorist-organization-and-inadmissibility-antifa-associates",
+  "url_path": "/home/policies/presidential-memorandum-calls-listing-antifa-terrorist-organization-and-inadmissibility-antifa-associates/",
+  "live": true,
+  "announced_date": "2021-01-05",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"69nv8\">The Presidential Memorandum on Inadmissibility of Persons Affiliated with Antifa Based on Organized Criminal Activity calls for the Secretary of State &quot;to assess whether to classify Antifa as a terrorist organization under [8 U.S.C. § 1182(a)(3)(B)(vi),&quot; and &quot;to consider listing Antifa in 9 FAM 302.5-4(B)(2)(U)<i> Aliens Who Are Members of an Identified Criminal Organization</i>.&quot; [ID# 1279]</p>",
+  "description_text": "The Presidential Memorandum on Inadmissibility of Persons Affiliated with Antifa Based on Organized Criminal Activity calls for the Secretary of State \"to assess whether to classify Antifa as a terrorist organization under [8 U.S.C. § 1182(a)(3)(B)(vi),\" and \"to consider listing Antifa in 9 FAM 302.5-4(B)(2)(U) Aliens Who Are Members of an Identified Criminal Organization.\" [ID# 1279]",
+  "search_document": "Persons Inadmissibility Criminal a Other and [8 Based of 9 FAM Presidential § [ID# Presidential Orders Affiliated Identified 1182(a)(3)(B)(vi),&quot; Memorandum on Inadmissibility of Persons Affiliated with Antifa Based on Organized Criminal Activity with The organization terrorist Memorandum under Members classify calls 302.5-4(B)(2)(U) Aliens an Secretary whether assess Organization.&quot; for U.S.C. Presidential Memorandum calls for listing Antifa as a terrorist organization and inadmissibility of Antifa associates Organized on the Antifa Activity &quot;to consider listing Antifa 1279] as Who to Are in State",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Presidential Orders",
+        "slug": "presidential-orders"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 3249,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2021-01-05",
+        "display_title": null,
+        "link_title": "Memorandum on Inadmissibility of Persons Affiliated with Antifa Based on Organized Criminal Activity",
+        "link": "https://www.whitehouse.gov/presidential-actions/memorandum-inadmissibility-persons-affiliated-antifa-based-organized-criminal-activity/",
+        "description_html": "",
+        "wagtaildoc_id": 13226,
+        "wagtaildoc_file": "documents/2021.01.05_Memorandum_on_Inadmissibility_of_Persons_Affiliated_with_Antifa.pdf",
+        "wagtaildoc_title": "Memorandum on Inadmissibility of Persons Affiliated with Antifa Based on Organized Criminal Activity",
+        "file_size": 846213,
+        "file_hash": "fe18cb827d6be099b4ebdb366cac1e6bc50e0090",
+        "slug": "memorandum-on-inadmissibility-of-persons-affiliate"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.887393Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "page_ptr_id": 671,
+  "title": "National Visa Center no longer accepts inquiries by mail",
+  "slug": "national-visa-center-no-longer-accepts-inquiries-by-mail",
+  "url_path": "/home/policies/national-visa-center-no-longer-accepts-inquiries-by-mail/",
+  "live": true,
+  "announced_date": "2020-05-04",
+  "effective_date": "2020-06-01",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>As of June 1, 2020, the National Visa Center will only accept inquiries electronically submitted through the Public Inquiry Form webpage. [ID #671]</p>",
+  "description_text": "As of June 1, 2020, the National Visa Center will only accept inquiries electronically submitted through the Public Inquiry Form webpage. [ID #671]",
+  "search_document": "NVC will no longer respond to mail inquiries National Visa Center no longer accepts inquiries by mail [ID customer service Inquiry only June Special Immigrant 1, through will As Form #671] CA Visa Employment-Based National submitted 2020, Change in Practice the Center Family-Based accept webpage. of electronically Bureau of Consular Affairs Public inquiries",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Employment-Based",
+        "slug": "employment-based-2"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Family-Based",
+        "slug": "family-based-2"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Special Immigrant",
+        "slug": "special-immigrant"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1529,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-05-04",
+        "display_title": "NVC will no longer respond to mail inquiries",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1914,
+        "wagtaildoc_file": "documents/NVC_will_no_longer_respond_to_mail_inquiries.pdf",
+        "wagtaildoc_title": "NVC will no longer respond to mail inquiries",
+        "file_size": 167226,
+        "file_hash": "070afc5b706059c1747eed5e7ed6df61d7022a13",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.653641Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

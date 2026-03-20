@@ -1,0 +1,131 @@
+{
+  "page_ptr_id": 717,
+  "title": "POTUS issues Presidential Proclamation, removing Chad from Travel Ban",
+  "slug": "presidential-proclamation-removes-chad-from-travel-ban",
+  "url_path": "/home/policies/presidential-proclamation-removes-chad-from-travel-ban/",
+  "live": true,
+  "announced_date": "2018-04-10",
+  "effective_date": "2018-04-13",
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"yn5az\">Presidential Proclamation removes Chad from the restrictions and limitations of Presidential Proclamation 9645, which had limited Chad nationals seeking to enter the United States on non-immigrant tourist and immigrant visas. [ID #717]</p>",
+  "description_text": "Presidential Proclamation removes Chad from the restrictions and limitations of Presidential Proclamation 9645, which had limited Chad nationals seeking to enter the United States on non-immigrant tourist and immigrant visas. [ID #717]",
+  "search_document": "non-immigrant immigrant #717] REVIEWED Sept. 2017 Presidential Proclamation 9645 [ID had from and extreme vetting States Proclamation CA nationals limited to limitations Chad tourist seeking Biden administration revocation of The 2017 Presidential Proclamation 9645 setting out restrictions and limitations on certain foreign nationals, including those from Chad seeking to enter the United States was upheld by the U.S. Supreme Court in June 2018, after two previous attempts at a similar ban were struck down by the courts. POTUS issues Presidential Proclamation, removing Chad from Travel Ban enter Bureau of Consular Affairs 212(f) Presidential Presidential Proclamation : Maintaining Enhanced Vetting Capabilities and Processes for Detecting Attempted Entry into the United States by Terrorists or Other Public-Safety Threats removes which muslim ban travel ban Visitor This Biden administration policy revokes in its entirety the Trump-era policy identified in this entry.On January 20, 2021, President Biden issued a presidential proclamation lifting two nationality-based travel bans issued by the Trump administration: the 2017 travel ban affecting nationals of Iran, Libya, North Korea, Somalia, Syria, Venezuela, and Yemen, and the 2020 ban affecting nationals of Eritrea, Kyrgyzstan, Myanmar (Burma), Nigeria, Sudan, and Tanzania. The order removing Chad from the list of banned nationalities was revoked as part of the elimination of related orders. restrictions 9645, United the on Presidential Orders visas.",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Presidential Orders",
+        "slug": "presidential-orders"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Visitor",
+        "slug": "visitor"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 3674,
+        "document_type": "Biden Administration Action",
+        "document_type_slug": "biden-administration-policy",
+        "date": "2021-01-20",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"ujo25\">This Biden administration policy revokes in its entirety the Trump-era policy identified in this entry.</p><p data-block-key=\"7j3tv\">On January 20, 2021, President Biden issued a presidential proclamation lifting two nationality-based travel bans issued by the Trump administration: the 2017 travel ban affecting nationals of Iran, Libya, North Korea, Somalia, Syria, Venezuela, and Yemen, and the 2020 ban affecting nationals of Eritrea, Kyrgyzstan, Myanmar (Burma), Nigeria, Sudan, and Tanzania. The order removing Chad from the list of banned nationalities was revoked as part of the elimination of related orders.</p><p data-block-key=\"ftdhj\"></p>",
+        "wagtaildoc_id": 13679,
+        "wagtaildoc_file": "documents/rescind_1_VOzGzv7.pdf",
+        "wagtaildoc_title": "Proclamation on Ending Discriminatory Bans on Entry to the United States.",
+        "file_size": 285770,
+        "file_hash": "472697b534d58041ed0ac7637908551deeb70759",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1616,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-04-10",
+        "display_title": "Presidential Proclamation : Maintaining Enhanced Vetting Capabilities and Processes for Detecting Attempted Entry into the United States by Terrorists or Other Public-Safety Threats",
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 2089,
+        "wagtaildoc_file": "documents/Presidential_proclamation_removing_restrictions_from_Chad.pdf",
+        "wagtaildoc_title": "Presidential Proclamation : Maintaining Enhanced Vetting Capabilities and Processes for Detecting Attempted Entry into the United States by Terrorists or Other Public-Safety Threats",
+        "file_size": 633500,
+        "file_hash": "08d98b37a933af75a6cecdc875222df5c1e40b19",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1617,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2017-09-24",
+        "display_title": "Sept. 2017 Presidential Proclamation 9645",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"2xnsi\">The 2017 Presidential Proclamation 9645 setting out restrictions and limitations on certain foreign nationals, including those from Chad seeking to enter the United States was upheld by the U.S. Supreme Court in June 2018, after two previous attempts at a similar ban were struck down by the courts.</p>",
+        "wagtaildoc_id": 2087,
+        "wagtaildoc_file": "documents/Presidential_Proclamation_Enhancing_Vetting_Capabilities_and_Processes_for_Det_KtxKr65.pdf",
+        "wagtaildoc_title": "Sept. 2017 Presidential Proclamation 9645",
+        "file_size": 138746,
+        "file_hash": "b79205219955218f82d9198527fc7e44de54e60b",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 698,
+      "title": "POTUS issues Presidential Proclamation 9645, restricting visas as part of travel ban Executive Order 13780",
+      "slug": "presidential-proclamation-restricts-visas-as-part-of-travel-ban-executive-order-13780",
+      "announced_date": "2017-09-24",
+      "effective_date": "2017-12-08",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 774,
+      "title": "POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",
+      "slug": "trump-administration-adds-six-new-countries-to-travel-ban",
+      "announced_date": "2020-01-31",
+      "effective_date": "2020-02-21",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.831049Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

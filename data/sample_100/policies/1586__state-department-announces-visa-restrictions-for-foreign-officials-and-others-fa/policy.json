@@ -1,0 +1,114 @@
+{
+  "page_ptr_id": 1586,
+  "title": "State Department Announces Visa Restrictions for Foreign Officials and Others \"Facilitating Illegal Migration\"",
+  "slug": "state-department-announces-visa-restrictions-for-foreign-officials-and-others-facilitating-illegal-migration",
+  "url_path": "/home/policies/state-department-announces-visa-restrictions-for-foreign-officials-and-others-facilitating-illegal-migration/",
+  "live": true,
+  "announced_date": "2025-03-05",
+  "effective_date": "2025-03-05",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"7kswm\">Secretary of State Rubio announced that DOS would institute visa restrictions for &quot;foreign government officials, including immigration and customs officials, airport and port authority officials, and others believed to be responsible for knowingly facilitating illegal immigration to the United States.&quot; Restrictions may also apply to government officials&#x27; family members.</p><p data-block-key=\"918eb\">These changes are based on Section 212(a)(3)(C) of the Immigration and Nationality Act (the &quot;foreign policy&quot; grounds for inadmissibility), and the restrictions are designed to &quot;complement [the State Department&#x27;s] existing 3C policy, expanded in 2024, pertaining to private sector actors who knowingly provide transportation and travel services designed primarily for illegal aliens traveling to the United States.&quot;</p><p data-block-key=\"55o95\">Trump 2.0 [ID #1586]</p>",
+  "description_text": "Secretary of State Rubio announced that DOS would institute visa restrictions for \"foreign government officials, including immigration and customs officials, airport and port authority officials, and others believed to be responsible for knowingly facilitating illegal immigration to the United States.\" Restrictions may also apply to government officials' family members.\n\nThese changes are based on Section 212(a)(3)(C) of the Immigration and Nationality Act (the \"foreign policy\" grounds for inadmissibility), and the restrictions are designed to \"complement [the State Department's] existing 3C policy, expanded in 2024, pertaining to private sector actors who knowingly provide transportation and travel services designed primarily for illegal aliens traveling to the United States.\"\n\nTrump 2.0 [ID #1586]",
+  "search_document": "State Department Announces Visa Restrictions for Foreign Officials and Others \"Facilitating Illegal Migration\" States.&quot;Trump Secretary [the responsible also apply Announcement of a Visa Restriction Policy Targeting Foreign Officials and Others Facilitating Illegal Migration into the United States Full press statement. actors aliens be knowingly illegal inadmissibility), Bureau of Consular Affairs restrictions existing for grounds would State Restrictions private in visa processing officials&#x27; government the &quot;complement provide sector 212(a)(3)(C) Department&#x27;s] Act policy&quot; members.These on primarily Section officials, travel Agency Directive of (the visa CA [ID may facilitating #1586] pertaining family are transportation foreign policy based institute Rubio Other airport United visa sanctions immigration expanded States.&quot; services who 3C Immigration policy, customs 2024, to announced including changes others believed traveling and designed 2.0 port DOS authority &quot;foreign that Nationality",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-3"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      },
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 5439,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-03-05",
+        "display_title": null,
+        "link_title": "Announcement of a Visa Restriction Policy Targeting Foreign Officials and Others Facilitating Illegal Migration into the United States",
+        "link": "https://www.state.gov/announcement-of-a-visa-restriction-policy-targeting-foreign-officials-and-others-facilitating-illegal-migration-into-the-united-states/",
+        "description_html": "<p data-block-key=\"tscvp\">Full press statement.</p>",
+        "wagtaildoc_id": 15304,
+        "wagtaildoc_file": "documents/Announcement_of_a_Visa_Restriction_Policy.pdf",
+        "wagtaildoc_title": "03.05.25 Announcement of a Visa Restriction Policy Targeting Foreign Officials and Others Facilitating Illegal Migration into the United States",
+        "file_size": 77070,
+        "file_hash": "66d486aa7929c0c3ea4276a943dfe4df07157bdb",
+        "slug": "030525-announcement-of-a-visa-restriction-policy-t"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1453,
+      "title": "Report: POTUS orders visa sanctions and travel ban on certain Colombian nationals",
+      "slug": "report-potus-orders-closure-of-visa-processing-section-at-us-embassy-in-colombia",
+      "announced_date": "2025-01-26",
+      "effective_date": "2025-01-26",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1521,
+      "title": "§4 of EO 14203 imposes entry restrictions on ICC-affiliated individuals",
+      "slug": "trump-issues-executive-order-sanctioning-international-criminal-court-icc",
+      "announced_date": "2025-02-06",
+      "effective_date": "2025-02-06",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1573,
+      "title": "DOS expands existing visa restriction policy for individuals linked to Cuban labor export program to apply to Cuban overseas medical missions",
+      "slug": "dos-expands-visa-restrictions-policy-for-individuals-linked-to-cuban-labor-export-program",
+      "announced_date": "2025-02-25",
+      "effective_date": "2025-02-25",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.708172Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

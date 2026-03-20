@@ -1,0 +1,90 @@
+{
+  "page_ptr_id": 1101,
+  "title": "DOS proposes rule ending \"B-1 in lieu of H\" policy",
+  "slug": "dhs-proposes-rule-ending-b-1-lieu-h-policy",
+  "url_path": "/home/policies/dhs-proposes-rule-ending-b-1-lieu-h-policy/",
+  "live": true,
+  "announced_date": "2020-10-21",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"hp7j4\">DOS issues a notice of proposed rulemaking that would eliminate B-1 visas for certain individuals classifiable as H-1B or H-3 nonimmigrants. Currently, certain persons classifiable as H-1B or H-3 nonimmigrants can instead receive a B-1 visa, referred to as the &quot;B-1 in lieu of H&quot; policy. DOS asserts that the change will provide &quot;greater clarity regarding the Department&#x27;s policy and interpretation of the law&quot; and better align the issuance of visas with their intended purposes. [ID #1101]</p>",
+  "description_text": "DOS issues a notice of proposed rulemaking that would eliminate B-1 visas for certain individuals classifiable as H-1B or H-3 nonimmigrants. Currently, certain persons classifiable as H-1B or H-3 nonimmigrants can instead receive a B-1 visa, referred to as the \"B-1 in lieu of H\" policy. DOS asserts that the change will provide \"greater clarity regarding the Department's policy and interpretation of the law\" and better align the issuance of visas with their intended purposes. [ID #1101]",
+  "search_document": "notice clarity with their certain &quot;greater Rule Bureau of Consular Affairs receive regarding provide issuance asserts instead classifiable as the would B-1 will H&quot; lieu b-1 for to DOS proposes rule ending \"B-1 in lieu of H\" policy a eliminate nonimmigrants Notice of Proposed Rulemaking for Temporary Visitors for Business or Pleasure Department&#x27;s visa, Currently, visas policy. persons in align &quot;B-1 individuals that and or #1101] h-3 Visitor issues CA rulemaking law&quot; [ID intended H-1B DOS h-1b proposed can policy referred purposes. buy american and hire american H-3 interpretation REVIEWED change nonimmigrants. Employment-Based better of",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Employment-Based",
+        "slug": "employment-based"
+      },
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Visitor",
+        "slug": "visitor"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2567,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-10-21",
+        "display_title": "Notice of Proposed Rulemaking for Temporary Visitors for Business or Pleasure",
+        "link_title": "Notice of Proposed Rulemaking for Temporary Visitors for Business or Pleasure",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2020-10-21/pdf/2020-21975.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 12695,
+        "wagtaildoc_file": "documents/2020.10.21_Notice_of_Proposed_Rulemaking_on_Temporary_Visitors_for_Business_or_92HLQ7l.pdf",
+        "wagtaildoc_title": "NPRM: Visas: Temporary Visitors for Business or Pleasure",
+        "file_size": 323909,
+        "file_hash": "ecc0a60954f4f376ae163be442ea15a4e04aded1",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 471,
+      "title": "POTUS issues \"Buy American and Hire American\" EO 13788, calling for H-1B reform proposals",
+      "slug": "buy-american-and-hire-american-eo-calls-for-h-1b-reform-proposals",
+      "announced_date": "2017-04-18",
+      "effective_date": "2017-04-18",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.819259Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

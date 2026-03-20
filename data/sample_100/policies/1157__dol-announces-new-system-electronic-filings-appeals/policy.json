@@ -1,0 +1,90 @@
+{
+  "page_ptr_id": 1157,
+  "title": "DOL announces new system for electronic filings of appeals",
+  "slug": "dol-announces-new-system-electronic-filings-appeals",
+  "url_path": "/home/policies/dol-announces-new-system-electronic-filings-appeals/",
+  "live": true,
+  "announced_date": "2020-11-10",
+  "effective_date": "2020-12-07",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>DOL announced that it is launching a new eFile/eServe System (EFS) on December 7, 2020 for electronic filings in proceedings before the Administrative Review Board (ARB), Benefits Review Board (BRB), Employee Compensation Appeals Board (ECAB), Office of Administrative Law Judges (OALJ), and Board of Alien Labor Certification Appeals (BALCA).</p><p>[ID #1157]</p>",
+  "description_text": "DOL announced that it is launching a new eFile/eServe System (EFS) on December 7, 2020 for electronic filings in proceedings before the Administrative Review Board (ARB), Benefits Review Board (BRB), Employee Compensation Appeals Board (ECAB), Office of Administrative Law Judges (OALJ), and Board of Alien Labor Certification Appeals (BALCA).\n\n[ID #1157]",
+  "search_document": "#1157] (OALJ), Compensation before it Certification in eFile/eServe Labor new and (ARB), (ECAB), Other Judges DOL announces new system for electronic filings of appeals launching filings Office Forms and Information Collection announced 2020 Alien of 7, on Employee System Law electronic (BRB), DOL for is proceedings that Employment-Based December Change in Practice the Benefits Appeals (BALCA).[ID Administrative Board Review (EFS) a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      },
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Employment-Based",
+        "slug": "employment-based"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Employment-Based",
+        "slug": "employment-based-2"
+      },
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Labor",
+        "department_slug": "department-of-labor",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-3"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2819,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-11-10",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 12862,
+        "wagtaildoc_file": "documents/2020.11.10_eFile_and_eServe_EFS___U.S._Department_of_Labor.pdf",
+        "wagtaildoc_title": "DOL announces new electronic filing system",
+        "file_size": 177571,
+        "file_hash": "8088ee81198d1ec34c92904b4ac595cafbfd7b2d",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.841746Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

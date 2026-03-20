@@ -1,0 +1,176 @@
+{
+  "page_ptr_id": 802,
+  "title": "USCIS renews matching programs in five states to detect benefits fraud",
+  "slug": "dhs-announces-that-it-will-re-launch-programs-to-pursue-benefits-fraud",
+  "url_path": "/home/policies/dhs-announces-that-it-will-re-launch-programs-to-pursue-benefits-fraud/",
+  "live": true,
+  "announced_date": "2019-05-17",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>USCIS announces that it will reestablish computer matching programs between DHS and five states: New York, Massachusetts, New Jersey, Texas and California to &quot;verify the immigration status of non-U.S. citizens who apply for federal benefits.&quot; State Departments of Labor in NY, MA, NJ, and TX will match against DHS–USCIS data to verify the immigration status of non-U.S. citizens who apply for federal benefits under the Unemployment Compensation programs that each state administers. The California Department of Healthcare Services will match against DHS-USCIS data to verify the immigrant status of non-U.S. citizens who apply for federal benefits under the Medicaid program.</p><p></p><p>The program will continue for 18 months and may be extended for an additional 12 months.</p>",
+  "description_text": "USCIS announces that it will reestablish computer matching programs between DHS and five states: New York, Massachusetts, New Jersey, Texas and California to \"verify the immigration status of non-U.S. citizens who apply for federal benefits.\" State Departments of Labor in NY, MA, NJ, and TX will match against DHS–USCIS data to verify the immigration status of non-U.S. citizens who apply for federal benefits under the Unemployment Compensation programs that each state administers. The California Department of Healthcare Services will match against DHS-USCIS data to verify the immigrant status of non-U.S. citizens who apply for federal benefits under the Medicaid program.\n\nThe program will continue for 18 months and may be extended for an additional 12 months.",
+  "search_document": "The current effective date of this program is June 17, 2019 to December 16, 2020. NY, 18 USCIS it non-U.S. Labor who and Massachusetts, reestablish administers. federal The match NJ, months. Healthcare DHS Privacy Office Computer Matching Agreements Annual Report (Aug. 2020) Massachusetts benefits between an Texas &quot;verify for 12 USCIS renews matching programs in five states to detect benefits fraud California apply State will DHS-USCIS that five continue data immigrant Medicaid State & Local Entities programs New Jersey New York MA, months be Data and Reports under Jersey, Compensation extended immigration in citizens DHS–USCIS New program.The Services of S&L Department against benefits.&quot; announces verify York, DHS public benefits state Departments states: U.S. Citizenship and Immigration Services TX additional each computer Unemployment the matching status Each of the renewed programs had an \"initial execution date\" in 2009. This is detailed in the DHS Privacy Office Annual Report, published Aug. 14, 2020. For execution dates, see pages 11 (New York, January 16, 2009), 14 (New Jersey, January 16, 2009, though an earlier agreement dates from January 2005), 15 (Massachusetts, January 16, 2009), 16 (Texas, June 8, 2009), and 17 (California, June 18, 2009). program to may",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-2"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      },
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "State & Local Entities",
+        "agency_slug": "state-local-entities"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1803,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-05-17",
+        "display_title": "New York",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 801,
+        "wagtaildoc_file": "documents/DHS_Benefits_Matching_Program_-_NY.pdf",
+        "wagtaildoc_title": "New York",
+        "file_size": 274553,
+        "file_hash": "91c730df41f8118cf47d92d40a73d4ec58f16a3a",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1804,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-05-17",
+        "display_title": "Massachusetts",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 799,
+        "wagtaildoc_file": "documents/DHS_Benefits_Matching_Program_-_MA.pdf",
+        "wagtaildoc_title": "Massachusetts",
+        "file_size": 280441,
+        "file_hash": "4b9f10d8a26d2b4cf9b4dd7a7c0bbb54f152e677",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1805,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-05-17",
+        "display_title": "New Jersey",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 800,
+        "wagtaildoc_file": "documents/DHS_Benefits_Matching_Program_-_NJ.pdf",
+        "wagtaildoc_title": "New Jersey",
+        "file_size": 280514,
+        "file_hash": "d5445e5ef78fdf2aca0535c893a87a763c79867d",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1806,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-05-17",
+        "display_title": "Texas",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 802,
+        "wagtaildoc_file": "documents/DHS_Benefits_Matching_Program_-_TX.pdf",
+        "wagtaildoc_title": "Texas",
+        "file_size": 280819,
+        "file_hash": "4331b686b1bc33d02819b02217662b913a0d5b68",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1807,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-05-17",
+        "display_title": "California",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1440,
+        "wagtaildoc_file": "documents/DHS_Benefits_Matching_Program_-_CA.pdf",
+        "wagtaildoc_title": "California",
+        "file_size": 280244,
+        "file_hash": "aca23bffd919e85c7c6dac6649bb0030fdc3a15b",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1808,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2009-01-16",
+        "display_title": "DHS Privacy Office Computer Matching Agreements Annual Report (Aug. 2020)",
+        "link_title": "",
+        "link": "",
+        "description_html": "Each of the renewed programs had an \"initial execution date\" in 2009. This is detailed in the DHS Privacy Office Annual Report, published Aug. 14, 2020. For execution dates, see pages 11 (New York, January 16, 2009), 14 (New Jersey, January 16, 2009, though an earlier agreement dates from January 2005), 15 (Massachusetts, January 16, 2009), 16 (Texas, June 8, 2009), and 17 (California, June 18, 2009).",
+        "wagtaildoc_id": 12425,
+        "wagtaildoc_file": "documents/final_2019_cma_annual_report.pdf",
+        "wagtaildoc_title": "DHS Privacy Office Computer Matching Agreements Annual Report (Aug. 2020)",
+        "file_size": 616498,
+        "file_hash": "4ebb61e69fb3cd85314394c94f248251560283df",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1809,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-06-17",
+        "display_title": "",
+        "link_title": "",
+        "link": "",
+        "description_html": "The current effective date of this program is June 17, 2019 to December 16, 2020.",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.962756Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

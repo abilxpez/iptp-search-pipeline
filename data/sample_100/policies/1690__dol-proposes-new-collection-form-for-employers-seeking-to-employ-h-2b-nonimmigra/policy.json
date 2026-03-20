@@ -1,0 +1,106 @@
+{
+  "page_ptr_id": 1690,
+  "title": "DOL proposes new collection form for employers seeking to employ H-2B nonimmigrant workers",
+  "slug": "dol-proposes-new-collection-form-for-employers-seeking-to-employ-h-2b-nonimmigrant-workers",
+  "url_path": "/home/policies/dol-proposes-new-collection-form-for-employers-seeking-to-employ-h-2b-nonimmigrant-workers/",
+  "live": false,
+  "announced_date": "2025-04-18",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"qnrko\">DOL issued a notice of availability and request for comments on proposed information collection for new attestation form required under the 12/2/24 DOL and DHS temporary final rule increasing the number of H-2B visas available in fiscal year 2025. The information collection request includes a new form, Attestation for Employers Seeking to Employ H–2B Nonimmigrant Workers.</p><p data-block-key=\"67k1d\">Comments are due by May 19, 2025.</p>",
+  "description_text": "DOL issued a notice of availability and request for comments on proposed information collection for new attestation form required under the 12/2/24 DOL and DHS temporary final rule increasing the number of H-2B visas available in fiscal year 2025. The information collection request includes a new form, Attestation for Employers Seeking to Employ H–2B Nonimmigrant Workers.\n\nComments are due by May 19, 2025.",
+  "search_document": "12/2/24 Nonimmigrant number Forms and Information Collection issued DHS temporary #1690] final Other by form, DOL fiscal and new on information 2025.Comments availability H-2B are the 2025.Trump Employ support The 2.0 of Workers.&quot; a seeks collection request Seeking proposed in [ID notice available DOL - Agency Information Collection Activities; Submission for OMB Review; Comment Request; Attestation for Employers Seeking To Employ H–2B Nonimmigrant Workers visas increasing May &quot;Attestation UNPUB: DOL proposes new form for employers seeking to employ H-2B nonimmigrant workers due year comments rule for Employers to 19,",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-6"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Labor",
+        "department_slug": "department-of-labor",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-3"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 5951,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2024-12-02",
+        "display_title": null,
+        "link_title": null,
+        "link": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-1205-003",
+        "description_html": "",
+        "wagtaildoc_id": 15753,
+        "wagtaildoc_file": "documents/2024.12.02_DOL_-_Attestation_for_Employers_Form.pdf",
+        "wagtaildoc_title": "2024.12.02 DOL - Attestation for Employers Form",
+        "file_size": 769605,
+        "file_hash": "ed785b15db59d059e33fe9a56a586ff9e4e57007",
+        "slug": "20241202-dol-attestation-for-employers-form"
+      },
+      {
+        "policydocument_id": 5950,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-04-07",
+        "display_title": null,
+        "link_title": null,
+        "link": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-1205-003",
+        "description_html": "",
+        "wagtaildoc_id": 15752,
+        "wagtaildoc_file": "documents/2025.04.07_DOL_-_Supporting_Statement.pdf",
+        "wagtaildoc_title": "2025.04.07 DOL - Supporting Statement",
+        "file_size": 330219,
+        "file_hash": "c6e98d3e59ee87ea31aa25d690a89bb1a23d025d",
+        "slug": "20250407-dol-supporting-statement"
+      },
+      {
+        "policydocument_id": 5949,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-04-18",
+        "display_title": null,
+        "link_title": "DOL - Agency Information Collection Activities; Submission for OMB Review; Comment Request; Attestation for Employers Seeking To Employ H–2B Nonimmigrant Workers",
+        "link": "https://www.federalregister.gov/documents/2025/04/18/2025-06730/agency-information-collection-activities-submission-for-omb-review-comment-request-attestation-for",
+        "description_html": "",
+        "wagtaildoc_id": 15751,
+        "wagtaildoc_file": "documents/2025.04.18_DOL_-_Agency_Information_Collection_Activities.pdf",
+        "wagtaildoc_title": "2025.04.18 DOL - Agency Information Collection Activities; Submission for OMB Review; Comment Request; Attestation for Employers Seeking To Employ H–2B Nonimmigrant Workers",
+        "file_size": 118520,
+        "file_hash": "3cafa22a6530c4a291eecaffd3c40bd445316e00",
+        "slug": "20250418-dol-agency-information-collection-activit"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.849333Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "page_ptr_id": 232,
+  "title": "EOIR issues guidance on adjustment of status eligibility for certain Liberians under the NDAA",
+  "slug": "eoir-issues-guidance-on-adjustment-of-status-eligibility-for-certain-liberian-nationals-and-their-families-under-the-ndaa",
+  "url_path": "/home/policies/eoir-issues-guidance-on-adjustment-of-status-eligibility-for-certain-liberian-nationals-and-their-families-under-the-ndaa/",
+  "live": true,
+  "announced_date": "2020-01-13",
+  "effective_date": "2020-01-13",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>Through Policy Memo 20-06, EOIR provides guidance on how the National Defense Authorization Act -- which contains a new eligibility program for adjustment of status for certain Liberian nationals and their immediate family members -- impacts on applicants&#x27; removability and other issues that may arise in immigration proceedings.</p><p></p><p>[ID #232]</p>",
+  "description_text": "Through Policy Memo 20-06, EOIR provides guidance on how the National Defense Authorization Act -- which contains a new eligibility program for adjustment of status for certain Liberian nationals and their immediate family members -- impacts on applicants' removability and other issues that may arise in immigration proceedings.\n\n[ID #232]",
+  "search_document": "how Liberian provides nationals which issues arise immigration 20-06, in proceedings.[ID deferred action new and immediate Other National Policy Executive Office for Immigration Review Section 7611 of the National Defense Authorization Act of 2020, Public Law 116-92 ded eligibility members contains their of on Memo applicants&#x27; Act other removability PM 20-06: Section 7611 of the National Defense Authorization Act of 2020, Public Law 116-92 EOIR issues guidance on adjustment of status eligibility for certain Liberians under the NDAA for #232] liberia Agency Directive certain Authorization that -- guidance adjustment EOIR Defense family the program status impacts Through may a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother"
+      },
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 593,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-01-13",
+        "display_title": "Section 7611 of the National Defense Authorization Act of 2020, Public Law 116-92",
+        "link_title": "PM 20-06: Section 7611 of the National Defense Authorization Act of 2020, Public Law 116-92",
+        "link": "https://www.justice.gov/eoir/page/file/1234156/download",
+        "description_html": "",
+        "wagtaildoc_id": 1140,
+        "wagtaildoc_file": "documents/EOIR_Nat._Defense_Authorization_Act_memo.pdf",
+        "wagtaildoc_title": "Section 7611 of the National Defense Authorization Act of 2020, Public Law 116-92",
+        "file_size": 304613,
+        "file_hash": "c3aaefd9f604d450e8f3880eb003a68db1f9b4d2",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.852992Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

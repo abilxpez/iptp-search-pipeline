@@ -1,0 +1,135 @@
+{
+  "page_ptr_id": 1142,
+  "title": "USCIS updates policy on applying discretion in adjudications",
+  "slug": "uscis-updates-policy-applying-discretion-adjudications",
+  "url_path": "/home/policies/uscis-updates-policy-applying-discretion-adjudications/",
+  "live": true,
+  "announced_date": "2020-07-15",
+  "effective_date": "2020-07-15",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>USCIS issues policy guidance in the USCIS Policy Manual regarding the discretionary analysis required in the adjudication of certain benefit requests, including certain applications for employment authorization. [ID #1142]</p>",
+  "description_text": "USCIS issues policy guidance in the USCIS Policy Manual regarding the discretionary analysis required in the adjudication of certain benefit requests, including certain applications for employment authorization. [ID #1142]",
+  "search_document": "[ID discretionary Manual USCIS updates policy on applying discretion in adjudications USCIS issues including analysis for required Chapter 10.15 of the Adjudicator’s Field Manual refers the adjudicator to precedent case law relevant to the topic at hand in applying discretion in adjudications. in #1142] Agency Directive certain authorization. guidance Policy the regarding applications adjudication policy of requests, employment benefit",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2786,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-07-15",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 12827,
+        "wagtaildoc_file": "documents/2020.7.15_Applying_Discretion_in_USCIS_Adjudications.pdf",
+        "wagtaildoc_title": "Applying Discretion in USCIS Adjudications",
+        "file_size": 837140,
+        "file_hash": "caaf862a6fe0f7467b36b6687dd748a848cc3e44",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2787,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-07-15",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 12828,
+        "wagtaildoc_file": "documents/2020.7.15_Chapter_5_-_Discretion__USCIS.pdf",
+        "wagtaildoc_title": "Volume 10: Employment Authorization, Part A, Employment Authorization Policies and Procedures, Chapter 5, Discretion",
+        "file_size": 154874,
+        "file_hash": "e91b9d3576a147fb8a8c3d6122d6a8a87a136a2d",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2788,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-07-15",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 12829,
+        "wagtaildoc_file": "documents/2020.7.15_Chapter_8_-_Discretionary_Analysis__USCIS.pdf",
+        "wagtaildoc_title": "Volume 1: General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis",
+        "file_size": 278143,
+        "file_hash": "1a20559b889e9a22a46f16fcad0a2a04a5a44a2a",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2789,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p>Chapter 10.15 of the Adjudicator’s Field Manual refers the adjudicator to precedent case law relevant to the topic at hand in applying discretion in adjudications.</p>",
+        "wagtaildoc_id": 12879,
+        "wagtaildoc_file": "documents/Screen_Shot_2020-11-16_at_3.10.26_PM.png",
+        "wagtaildoc_title": "Chapter 10.15 of the Adjudicator’s Field Manual",
+        "file_size": 177908,
+        "file_hash": "e946f2b9d81a1e1c0b76b73e331341149fc12efb",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 2840,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2020-08-13",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 12880,
+        "wagtaildoc_file": "documents/20081434.pdf",
+        "wagtaildoc_title": "American Immigration Lawyers Ass'n and American Immigration Council: Opposition to Changes to USCIS Policy Manual, Applying Discretion in USCIS Adjudications",
+        "file_size": 650581,
+        "file_hash": "f9de115627bc8005b77251c637557aa0777a5eb3",
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1175,
+      "title": "USCIS updates Policy Manual guidance on discretionary factors considered for adjustment of status",
+      "slug": "uscis-updates-policy-manual-guidance-discretionary-factors-considered-adjustment-status",
+      "announced_date": "2020-11-17",
+      "effective_date": "2020-11-17",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.834378Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

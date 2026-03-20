@@ -1,0 +1,49 @@
+{
+  "created_ts": "2026-03-03T21:56:37",
+  "run_dir": "data/embeddings/bge_mean_norm",
+  "manifest_path": "data/embeddings/bge_mean_norm/manifest.json",
+  "embedding_config_fingerprint": {
+    "empty_replacement": ".",
+    "max_length": 256,
+    "seed": null,
+    "normalize": true,
+    "model_name": "BAAI/bge-base-en-v1.5",
+    "empty_policy": "replace",
+    "trust_remote_code": false,
+    "pooling": "mean"
+  },
+  "index": {
+    "index_type": "hnsw_flat",
+    "metric": "ip",
+    "dim": 768,
+    "params": {
+      "m": 32,
+      "ef_construction": 200,
+      "ef_search": 64
+    },
+    "ntotal": 4147
+  },
+  "counts": {
+    "total_vectors_manifest": 4147,
+    "total_vectors_indexed": 4147,
+    "coverage_pct": 100.0,
+    "num_shards_total": 5,
+    "num_shards_indexed": 5,
+    "num_shards_skipped": 0
+  },
+  "artifacts": {
+    "index_path": "faiss/index.faiss",
+    "mapping_path": "faiss/row_to_chunk_id.jsonl"
+  },
+  "shards": {
+    "indexed_shard_indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "skipped_shard_indices": [],
+    "skipped_shards": []
+  }
+}

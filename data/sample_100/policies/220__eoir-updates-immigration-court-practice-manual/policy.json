@@ -1,0 +1,84 @@
+{
+  "page_ptr_id": 220,
+  "title": "EOIR adds new courts' information to Immigration Court Practice Manual",
+  "slug": "eoir-updates-immigration-court-practice-manual",
+  "url_path": "/home/policies/eoir-updates-immigration-court-practice-manual/",
+  "live": true,
+  "announced_date": "2019-09-26",
+  "effective_date": "2019-09-26",
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"ayba0\">EOIR updates the Immigration Court Practice Manual to include the contact information for new courts in Louisville and Sacramento. The updates are reflected in Appendix A (Immigration Court Addresses) and the Table of Changes at the end of the manual.</p><p data-block-key=\"bgj3m\"></p><p data-block-key=\"segjl\">[ID #220]</p>",
+  "description_text": "EOIR updates the Immigration Court Practice Manual to include the contact information for new courts in Louisville and Sacramento. The updates are reflected in Appendix A (Immigration Court Addresses) and the Table of Changes at the end of the manual.\n\n[ID #220]",
+  "search_document": "Immigration Court Practice Manual Update information Appendix Louisville include in courts Practice immigration court end and Executive Office for Immigration Review at Manual are Addresses) Court updates The Data and Reports Immigration Court Practice Manual Update - September 26, 2019 the Immigration Table manual.[ID EOIR adds new courts' information to Immigration Court Practice Manual reflected EOIR new (Immigration A Changes Sacramento. for to #220] contact of",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Replaced",
+        "slug": "replaced"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 563,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-09-26",
+        "display_title": "Immigration Court Practice Manual Update - September 26, 2019",
+        "link_title": "Immigration Court Practice Manual Update",
+        "link": "https://www.justice.gov/eoir/page/file/1258536/download",
+        "description_html": "",
+        "wagtaildoc_id": 2493,
+        "wagtaildoc_file": "documents/Updated_Immigration_Court_Practice_Manual.pdf",
+        "wagtaildoc_title": "Immigration Court Practice Manual Update - September 26, 2019",
+        "file_size": 2936388,
+        "file_hash": "1bfd0ebe6f85e955135cf754d3d4ea32b2462ccb",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 212,
+      "title": "EOIR opens immigration court in Sacramento",
+      "slug": "eoir-to-open-immigration-court-in-sacramento-ca",
+      "announced_date": "2019-08-13",
+      "effective_date": "2019-09-03",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:41.007938Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "page_ptr_id": 675,
+  "title": "POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals",
+  "slug": "executive-order-instructs-agencies-to-enhance-screening-of-certain-foreign-nationals",
+  "url_path": "/home/policies/executive-order-instructs-agencies-to-enhance-screening-of-certain-foreign-nationals/",
+  "live": true,
+  "announced_date": "2017-03-06",
+  "effective_date": "2017-03-16",
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"3pvxq\">Presidential Executive Order 13780 suspends for 90 days the entry of nationals from Iran, Libya, Somalia, Sudan, Syria and Yemen and directs the Secretary of State and Secretary of Homeland Security to enhance the screening and vetting of foreign nationals applying for visas and all other immigration benefits to &quot;rigorously enforce all existing grounds of inadmissibility.&quot; EO also directs agency heads to issue new rules relating to grounds of inadmissibility and compliance and to more rigorously review applications for visas and other immigration benefits. [ID #675]</p>",
+  "description_text": "Presidential Executive Order 13780 suspends for 90 days the entry of nationals from Iran, Libya, Somalia, Sudan, Syria and Yemen and directs the Secretary of State and Secretary of Homeland Security to enhance the screening and vetting of foreign nationals applying for visas and all other immigration benefits to \"rigorously enforce all existing grounds of inadmissibility.\" EO also directs agency heads to issue new rules relating to grounds of inadmissibility and compliance and to more rigorously review applications for visas and other immigration benefits. [ID #675]",
+  "search_document": "Executive POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals Yemen Somalia, Secretary enforce more review [ID State President Trump issues Presidential Proclamation 9645, extending the travel ban indefinitely. For more details, please see Associated or Derivative Policies, below. and This Biden administration policy revokes in its entirety the Trump-era policy identified in this entry.On January 20, 2021, President Biden issued a presidential proclamation lifting two nationality-based travel bans issued by the Trump administration: the 2017 travel ban affecting nationals of Iran, Libya, North Korea, Somalia, Syria, Venezuela, and Yemen, and the 2020 ban affecting nationals of Eritrea, Kyrgyzstan, Myanmar (Burma), Nigeria, Sudan, and Tanzania.The proclamation charges DOS with creating a plan for immigrant visas denied under the ban to be reconsidered and ensuring that visa applicants are not prejudiced by prior denials under the bans if they re-apply for a visa. also 13780 relating EO immigration Executive Order 13780: Protecting the Nation From Foreign Terrorist Entry Into the United States Biden administration revocation Iran, #675] Bureau of Consular Affairs vetting enhance Customs and Border Protection benefits all new directs rigorously CBP applications screening grounds REVIEWED rules entry Order suspends Sudan, days inadmissibility.&quot; existing from USCIS for Security applying 90 Syria CA nationals to &quot;rigorously Libya, issue foreign of Proclamation on Ending Discriminatory Bans on Entry to The United States inadmissibility Presidential heads visas compliance U.S. Citizenship and Immigration Services Homeland agency the benefits. Presidential Orders other",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Presidential Orders",
+        "slug": "presidential-orders"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-3"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Customs and Border Protection",
+        "agency_slug": "customs-and-border-protection"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      },
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 3328,
+        "document_type": "Biden Administration Action",
+        "document_type_slug": "biden-administration-policy",
+        "date": "2021-01-20",
+        "display_title": null,
+        "link_title": "Proclamation on Ending Discriminatory Bans on Entry to The United States",
+        "link": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/",
+        "description_html": "<p data-block-key=\"fxps3\">This Biden administration policy revokes in its entirety the Trump-era policy identified in this entry.</p><p data-block-key=\"qi86y\">On January 20, 2021, President Biden issued a presidential proclamation lifting two nationality-based travel bans issued by the Trump administration: the 2017 travel ban affecting nationals of Iran, Libya, North Korea, Somalia, Syria, Venezuela, and Yemen, and the 2020 ban affecting nationals of Eritrea, Kyrgyzstan, Myanmar (Burma), Nigeria, Sudan, and Tanzania.</p><p data-block-key=\"g4nia\">The proclamation charges DOS with creating a plan for immigrant visas denied under the ban to be reconsidered and ensuring that visa applicants are not prejudiced by prior denials under the bans if they re-apply for a visa.</p>",
+        "wagtaildoc_id": 13310,
+        "wagtaildoc_file": "documents/rescind_1.pdf",
+        "wagtaildoc_title": "Proclamation on Ending Discriminatory Bans on Entry to the United States.",
+        "file_size": 285770,
+        "file_hash": "472697b534d58041ed0ac7637908551deeb70759",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1537,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2017-03-06",
+        "display_title": "Executive Order 13780: Protecting the Nation From Foreign Terrorist Entry Into the United States",
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 2237,
+        "wagtaildoc_file": "documents/Revised_Travel_Ban.pdf",
+        "wagtaildoc_title": "Executive Order 13780: Protecting the Nation From Foreign Terrorist Entry Into the United States",
+        "file_size": 202448,
+        "file_hash": "e896e82eaca07c85355426d214ba262bad60580e",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1538,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2017-09-24",
+        "display_title": "",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"959oy\">President Trump issues Presidential Proclamation 9645, extending the travel ban indefinitely. For more details, please see Associated or Derivative Policies, below.</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 677,
+      "title": "DOS issues guidance for issuing visas under EO 13780 (Travel Ban 2)",
+      "slug": "dos-issues-guidance-for-issuing-visas-under-eo-13780-travel-ban-2",
+      "announced_date": "2017-03-10",
+      "effective_date": "2017-03-17",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 689,
+      "title": "DOS issues vetting standards for countries under EO 13780 Travel Ban",
+      "slug": "dos-issues-vetting-standards-for-countries-under-eo-13780-travel-ban",
+      "announced_date": "2017-07-12",
+      "effective_date": "2017-07-12",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    },
+    {
+      "page_ptr_id": 690,
+      "title": "DOS issues expanded definition of \"close familial relationship\" under EO 13780",
+      "slug": "dos-issues-expanded-definition-of-close-familial-relationship-under-eo-13780",
+      "announced_date": "2017-07-14",
+      "effective_date": "2017-07-14",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    },
+    {
+      "page_ptr_id": 728,
+      "title": "DOS advises it is processing visas according to Travel Ban post-Supreme Court decision",
+      "slug": "dos-advises-it-is-processing-visas-according-to-travel-ban-post-supreme-court-decision",
+      "announced_date": "2018-07-01",
+      "effective_date": "2018-06-26",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 698,
+      "title": "POTUS issues Presidential Proclamation 9645, restricting visas as part of travel ban Executive Order 13780",
+      "slug": "presidential-proclamation-restricts-visas-as-part-of-travel-ban-executive-order-13780",
+      "announced_date": "2017-09-24",
+      "effective_date": "2017-12-08",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 7,
+      "title": "POTUS issues EO 13769, implementing travel ban and limiting refugee admissions",
+      "slug": "president-trump-reduces-refugee-admissions-to-50000-for-fiscal-year-2017",
+      "announced_date": "2017-01-27",
+      "effective_date": "2017-01-27",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 31,
+      "title": "USCIS announces additional extreme vetting measures for \"following-to-join\" refugees",
+      "slug": "uscis-announces-additional-extreme-vetting-measures-for-following-to-join-refugees",
+      "announced_date": "2018-02-01",
+      "effective_date": "2018-02-01",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    },
+    {
+      "page_ptr_id": 1038,
+      "title": "DHS proposes rule to expand biometric data collection",
+      "slug": "dhs-proposes-rule-expand-biometric-collection",
+      "announced_date": "2020-09-11",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 1315,
+      "title": "USCIS requires biometrics for all applicants submitting Form I-539, Application to Extend/Change Nonimmigrant Status",
+      "slug": "uscis-requires-biometrics-all-applicants-submitting-form-i-539-application-extendchange-nonimmigrant-status",
+      "announced_date": "2019-02-11",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.923189Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

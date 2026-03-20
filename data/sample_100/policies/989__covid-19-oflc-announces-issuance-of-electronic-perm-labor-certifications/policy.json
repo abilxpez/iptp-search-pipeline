@@ -1,0 +1,129 @@
+{
+  "page_ptr_id": 989,
+  "title": "COVID-19: OFLC announces issuance of electronic PERM labor certifications",
+  "slug": "covid-19-oflc-announces-issuance-of-electronic-perm-labor-certifications",
+  "url_path": "/home/policies/covid-19-oflc-announces-issuance-of-electronic-perm-labor-certifications/",
+  "live": true,
+  "announced_date": "2020-03-24",
+  "effective_date": "2020-03-25",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p data-block-key=\"7alum\">COVID-19: Due to the pandemic, the DOL Office of Foreign Labor Certification (OFLC) will begin issuing electronic PERM labor certification documents to employers beginning March 25, 2020 through June 30.</p><p data-block-key=\"f6ucg\">[ID #989]</p>",
+  "description_text": "COVID-19: Due to the pandemic, the DOL Office of Foreign Labor Certification (OFLC) will begin issuing electronic PERM labor certification documents to employers beginning March 25, 2020 through June 30.\n\n[ID #989]",
+  "search_document": "covid-19 On September 25, 2020, OFLC announced it will permanently adopt the electronic issuance of PERM labor certifications to employers (and their authorized attorneys or agents). certification pandemic, (OFLC) DOL to NAFSA - OFLC to Issue Electronic PERM Labor Certifications in Response to COVID-19 employers COVID-19: OFLC announces issuance of electronic PERM labor certifications 25, COVID-19: On June 16, 2020, OFLC announced it will continue issuing the certification documents electronically through September 30, 2020. the 2020 of Due through begin Office issuing electronic OFLC extends use of electronic PERM labor certifications Labor will Foreign 30.[ID Other September 25, 2020 OFLC announces permanent issuance of electronic PERM labor certifications OFLC Announces Issuance of Electronic PERM Labor Certifications in Response to the Impact of the COVID-19 Pandemic documents Change in Practice PERM June coronavirus, covid labor Certification March NAFSA - OFLC to Issue Electronic PERM Labor Certifications in Response to COVID-19 | NAFSA #989] U.S. Citizenship and Immigration Services beginning USCIS",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-6"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      },
+      {
+        "department": "Department of Labor",
+        "department_slug": "department-of-labor",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-3"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2289,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-03-24",
+        "display_title": "OFLC Announces Issuance of Electronic PERM Labor Certifications in Response to the Impact of the COVID-19 Pandemic",
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 976,
+        "wagtaildoc_file": "documents/DOL_Foreign_Labor_Certification.pdf",
+        "wagtaildoc_title": "OFLC Announces Issuance of Electronic PERM Labor Certifications in Response to the Impact of the COVID-19 Pandemic",
+        "file_size": 1039499,
+        "file_hash": "4200523d58ccdb2709e42f229c09311cad7afb94",
+        "slug": "oflc-announces-issuance-of-electronic-perm-labor-c"
+      },
+      {
+        "policydocument_id": 2290,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2020-06-16",
+        "display_title": "OFLC extends use of electronic PERM labor certifications",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"97h3k\">On June 16, 2020, OFLC announced it will continue issuing the certification documents electronically through September 30, 2020.</p>",
+        "wagtaildoc_id": 1926,
+        "wagtaildoc_file": "documents/OFLC_Announces_Extension_of_Issuance_of_Electronic_PERM_Labor_Certifications.pdf",
+        "wagtaildoc_title": "OFLC extends use of electronic PERM labor certifications",
+        "file_size": 758374,
+        "file_hash": "a67420be33a29ec8010ff00166dad7c89cd199e2",
+        "slug": "oflc-extends-use-of-electronic-perm-labor-certific"
+      },
+      {
+        "policydocument_id": 4231,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2020-09-25",
+        "display_title": null,
+        "link_title": "September 25, 2020 OFLC announces permanent issuance of electronic PERM labor certifications",
+        "link": "https://www.dol.gov/agencies/eta/foreign-labor/news",
+        "description_html": "<p data-block-key=\"76yu6\">On September 25, 2020, OFLC announced it will permanently adopt the electronic issuance of PERM labor certifications to employers (and their authorized attorneys or agents).</p>",
+        "wagtaildoc_id": 14105,
+        "wagtaildoc_file": "documents/9.25.20_OFLC_Announces_Permanent_Issuance_of_Electronic_PERM_Labor_Certifications.pdf",
+        "wagtaildoc_title": "OFLC announces permanent issuance of electronic PERM labor certifications",
+        "file_size": 55177,
+        "file_hash": "49328a8d49f3029b7379dd3ac6261a297c603f80",
+        "slug": "oflc-announces-permanent-issuance-of-electronic-pe"
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 2291,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2020-06-17",
+        "display_title": "NAFSA - OFLC to Issue Electronic PERM Labor Certifications in Response to COVID-19 | NAFSA",
+        "link_title": "NAFSA - OFLC to Issue Electronic PERM Labor Certifications in Response to COVID-19",
+        "link": "https://www.nafsa.org/regulatory-information/oflc-issue-electronic-perm-labor-certifications-response-covid-19",
+        "description_html": "",
+        "wagtaildoc_id": 11910,
+        "wagtaildoc_file": "documents/NAFSA_-_OFLC_to_Issue_Electronic_PERM_Labor_Certifications_in_Response_to_COVI_OJYhxVn.pdf",
+        "wagtaildoc_title": "NAFSA - OFLC to Issue Electronic PERM Labor Certifications in Response to COVID-19 | NAFSA",
+        "file_size": 245934,
+        "file_hash": "695d4a48e5f9b4f72f333eed5e8351feec99ca78",
+        "slug": "nafsa-oflc-to-issue-electronic-perm-labor-certific"
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.676456Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

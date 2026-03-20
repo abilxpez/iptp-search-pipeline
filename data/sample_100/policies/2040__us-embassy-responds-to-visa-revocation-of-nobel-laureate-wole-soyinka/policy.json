@@ -1,0 +1,111 @@
+{
+  "page_ptr_id": 2040,
+  "title": "Nobel Laureate Wole Soyinka's Visa Revoked",
+  "slug": "us-embassy-responds-to-visa-revocation-of-nobel-laureate-wole-soyinka",
+  "url_path": "/home/policies/us-embassy-responds-to-visa-revocation-of-nobel-laureate-wole-soyinka/",
+  "live": true,
+  "announced_date": "2025-10-31",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"sl008\">The Department of State revoked the B1/B2 visa of Nigerian Nobel laureate Wole Soyinka, who said he had been informed by the U.S. Consulate on October 23 that “additional information” had emerged, prompting the cancellation of his visa under 22 CFR  § 41.122.  The U.S. Embassy in Lagos, Nigeria, stated that visas are privileges, not rights, and can be revoked at any time under U.S. law, while declining to discuss individual cases for confidentiality reasons.</p>",
+  "description_text": "The Department of State revoked the B1/B2 visa of Nigerian Nobel laureate Wole Soyinka, who said he had been informed by the U.S. Consulate on October 23 that “additional information” had emerged, prompting the cancellation of his visa under 22 CFR § 41.122. The U.S. Embassy in Lagos, Nigeria, stated that visas are privileges, not rights, and can be revoked at any time under U.S. law, while declining to discuss individual cases for confidentiality reasons.",
+  "search_document": " § cases can by Bureau of Consular Affairs under are he who The State said individual for informed 23 stated Consulate not Department revoked Wole had be on Visitor while rights, “additional CFR 22 cancellation the discuss Embassy that of October emerged, U.S. visas Nigerian CA declining Adjudication and been law, Nobel b-1/2 41.122. in prompting privileges, at Soyinka, reasons. confidentiality his laureate Nigeria, any Nobel Laureate Wole Soyinka's Visa Revoked to information” B1/B2 Lagos, 2025.10.31 Daily Post - Wole Soyinka: U.S embassy clears air on visa revocation visa time",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Adjudication",
+        "slug": "adjudication"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Visitor",
+        "slug": "visitor"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7572,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": "2025.10.31 Daily Post - Wole Soyinka: U.S embassy clears air on visa revocation",
+        "link": "https://dailypost.ng/2025/10/31/wole-soyinka-u-s-embassy-clears-air-on-visa-revocation/",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20251031-daily-post-wole-soyinka-us-embassy-clears"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1414,
+      "title": "EO 14161 §§ 2(a) and 3(a) direct maximum vetting of all noncitizens seeking admission to U.S. and those in the U.S.",
+      "slug": "potus-issues-executive-order-directing-maximum-vetting-of-all-non-citizens-seeking-admission-to-the-us",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1593,
+      "title": "State Department launches \"Catch and Revoke\" initiative to revoke visas of students engaged in \"pro-Hamas\" activity",
+      "slug": "reported-state-department-plans-to-use-ai-to-revoke-visas-of-students-engaged-in-pro-hamas-activity",
+      "announced_date": "2025-03-06",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1657,
+      "title": "DOS directive instructs consular officers to review all student-visa applicants' social media for terrorism-related inadmissibility",
+      "slug": "dos-directive-instructs-consular-officers-to-review-all-visa-applicants-social-media-for-evidence-of-advocating-for-or-sympathizing-with-a-terrorist-organization",
+      "announced_date": "2025-03-25",
+      "effective_date": "2025-03-25",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1780,
+      "title": "DOS announces visa revocations for Chinese students and scrutiny of future visa applications from China and Hong Kong",
+      "slug": "dos-announces-visa-revocations-for-chinese-students-and-additional-scrutiny-for-future-visa-applications-from-china-and-hong-kong",
+      "announced_date": "2025-05-28",
+      "effective_date": "2025-05-28",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.980897Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

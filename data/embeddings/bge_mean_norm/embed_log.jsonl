@@ -1,0 +1,13 @@
+{"ts": "2026-03-03T21:43:59", "type": "MANIFEST_CREATED", "path": "data/embeddings/bge_mean_norm/manifest.json"}
+{"ts": "2026-03-03T21:44:01", "type": "MANIFEST_UPDATED", "path": "data/embeddings/bge_mean_norm/manifest.json"}
+{"ts": "2026-03-03T21:44:25", "type": "MANIFEST_UPDATED", "path": "data/embeddings/bge_mean_norm/manifest.json"}
+{"ts": "2026-03-03T21:44:25", "type": "SHARD_WRITTEN", "shard_idx": 0, "count": 1000, "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000000.npy", "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000000.jsonl", "total_embedded": 1000, "dim": 768}
+{"ts": "2026-03-03T21:44:49", "type": "MANIFEST_UPDATED", "path": "data/embeddings/bge_mean_norm/manifest.json"}
+{"ts": "2026-03-03T21:44:49", "type": "SHARD_WRITTEN", "shard_idx": 1, "count": 1000, "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000001.npy", "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000001.jsonl", "total_embedded": 2000, "dim": 768}
+{"ts": "2026-03-03T21:45:13", "type": "MANIFEST_UPDATED", "path": "data/embeddings/bge_mean_norm/manifest.json"}
+{"ts": "2026-03-03T21:45:13", "type": "SHARD_WRITTEN", "shard_idx": 2, "count": 1000, "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000002.npy", "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000002.jsonl", "total_embedded": 3000, "dim": 768}
+{"ts": "2026-03-03T21:45:38", "type": "MANIFEST_UPDATED", "path": "data/embeddings/bge_mean_norm/manifest.json"}
+{"ts": "2026-03-03T21:45:38", "type": "SHARD_WRITTEN", "shard_idx": 3, "count": 1000, "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000003.npy", "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000003.jsonl", "total_embedded": 4000, "dim": 768}
+{"ts": "2026-03-03T21:45:43", "type": "MANIFEST_UPDATED", "path": "data/embeddings/bge_mean_norm/manifest.json"}
+{"ts": "2026-03-03T21:45:43", "type": "SHARD_WRITTEN", "shard_idx": 4, "count": 147, "vec_path": "data/embeddings/bge_mean_norm/shards/embeddings_000004.npy", "ids_path": "data/embeddings/bge_mean_norm/ids/chunk_ids_000004.jsonl", "total_embedded": 4147, "dim": 768}
+{"ts": "2026-03-03T21:45:43", "type": "RUN_END", "chunks_path": "data/sample_100/chunks/chunks.jsonl", "run_dir": "data/embeddings/bge_mean_norm", "total_read": 4147, "total_new_embedded": 4147, "total_skipped_resume": 0, "total_dupe_in_file": 0, "total_embedded_manifest": 4147}

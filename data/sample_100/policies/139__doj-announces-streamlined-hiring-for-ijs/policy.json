@@ -1,0 +1,91 @@
+{
+  "page_ptr_id": 139,
+  "title": "DOJ announces \"streamlined\" IJ hiring",
+  "slug": "doj-announces-streamlined-hiring-for-ijs",
+  "url_path": "/home/policies/doj-announces-streamlined-hiring-for-ijs/",
+  "live": true,
+  "announced_date": "2017-04-11",
+  "effective_date": "2017-04-11",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>Attorney General Sessions announces the implementation of a &quot;streamlined hiring plan&quot; for IJs, which is expected to maintain the current level of vetting but will shorten the hiring timeline. This change is meant to reflect &quot;the dire need&quot; to reduce the immigration court backlogs.</p><p></p><p>[ID #139]</p>",
+  "description_text": "Attorney General Sessions announces the implementation of a \"streamlined hiring plan\" for IJs, which is expected to maintain the current level of vetting but will shorten the hiring timeline. This change is meant to reflect \"the dire need\" to reduce the immigration court backlogs.\n\n[ID #139]",
+  "search_document": "but In a June 2017 report, GAO found that \"from 2011 to August 2016, EOIR took an average of more than 2 years — 742 days — to hire new immigration judges. According to EOIR officials, this time period included a 3-year hiring freeze from January 2011 through February 2014 that prolonged the hiring process. When we only included hires initiated after the hiring freeze ended in February 2014, we found that EOIR took an average of 647 days to hire an immigration judge.\" &quot;the Attorney General Jeff Sessions Delivers Remarks Announcing the Department of Justice’s Renewed Commitment to Criminal Immigration Enforcement Attorney which hiring need&quot; backlogs.[ID immigration IJs, Immigration Courts: Actions Needed to Reduce Case Backlog and Address Long-Standing Management and Operational Challenges DOJ announces \"streamlined\" IJ hiring maintain dire Executive Office for Immigration Review General ij hiring timeline. &quot;streamlined #139] GAO June 2017 Report: Immigration Courts - Actions Needed to Reduce Case Backlog and Address Long-Standing Management and Operational Challenges shorten plan&quot; of change expected current DOJ Press Release: Attorney General Jeff Sessions Delivers Remarks Announcing the Department of Justice’s Renewed Commitment to Criminal Immigration Enforcement announces implementation level for is will reflect vetting court This meant EOIR Change in Practice the Sessions reduce to a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 369,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2017-04-11",
+        "display_title": "DOJ Press Release: Attorney General Jeff Sessions Delivers Remarks Announcing the Department of Justice’s Renewed Commitment to Criminal Immigration Enforcement",
+        "link_title": "Attorney General Jeff Sessions Delivers Remarks Announcing the Department of Justice’s Renewed Commitment to Criminal Immigration Enforcement",
+        "link": "https://www.justice.gov/opa/speech/attorney-general-jeff-sessions-delivers-remarks-announcing-department-justice-s-renewed",
+        "description_html": "",
+        "wagtaildoc_id": 1427,
+        "wagtaildoc_file": "documents/Attorney_General_Jeff_Sessions_Delivers_Remarks_Announcing_the_Department_of_J_J66meWk.pdf",
+        "wagtaildoc_title": "DOJ Press Release: Attorney General Jeff Sessions Delivers Remarks Announcing the Department of Justice’s Renewed Commitment to Criminal Immigration Enforcement",
+        "file_size": 73935,
+        "file_hash": "f15b528b09460a899bae08a97af722da5851ccf5",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 370,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2017-06-01",
+        "display_title": "GAO June 2017 Report: Immigration Courts - Actions Needed to Reduce Case Backlog and Address Long-Standing Management and Operational Challenges",
+        "link_title": "Immigration Courts: Actions Needed to Reduce Case Backlog and Address Long-Standing Management and Operational Challenges",
+        "link": "https://www.gao.gov/assets/690/685022.pdf",
+        "description_html": "In a June 2017 report, GAO found that \"from 2011 to August 2016, EOIR took an average of more than 2 years — 742 days — to hire new immigration judges. According to EOIR officials, this time period included a 3-year hiring freeze from January 2011 through February 2014 that prolonged the hiring process. When we only included hires initiated after the hiring freeze ended in February 2014, we found that EOIR took an average of 647 days to hire an immigration judge.\"",
+        "wagtaildoc_id": 1334,
+        "wagtaildoc_file": "documents/GAO_June_2017_Report-_Immigration_Courts_-_Actions_Needed_to_Reduce_Case_Backlog.pdf",
+        "wagtaildoc_title": "GAO June 2017 Report: Immigration Courts - Actions Needed to Reduce Case Backlog and Address Long-Standing Management and Operational Challenges",
+        "file_size": 6718463,
+        "file_hash": "7417d30ec828c6d4848445908327e4f116daab52",
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.883806Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

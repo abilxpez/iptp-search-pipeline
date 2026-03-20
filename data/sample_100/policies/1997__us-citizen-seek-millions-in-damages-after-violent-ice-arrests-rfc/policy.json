@@ -1,0 +1,79 @@
+{
+  "page_ptr_id": 1997,
+  "title": "US citizen seek millions in damages after violent ICE arrests (RFC)",
+  "slug": "us-citizen-seek-millions-in-damages-after-violent-ice-arrests-rfc",
+  "url_path": "/home/policies/us-citizen-seek-millions-in-damages-after-violent-ice-arrests-rfc/",
+  "live": false,
+  "announced_date": "2025-09-30",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"f5aay\">Several U.S. citizens are suing ICE and DHS for millions in damages, alleging they were violently arrested, unlawfully detained, and subjected to assault, battery, false imprisonment, and emotional distress despite being American citizens. The lawsuits includes cases such as a man arrested twice while at work and others caught in raids where ICE agents allegedly used excessive force.</p>",
+  "description_text": "Several U.S. citizens are suing ICE and DHS for millions in damages, alleging they were violently arrested, unlawfully detained, and subjected to assault, battery, false imprisonment, and emotional distress despite being American citizens. The lawsuits includes cases such as a man arrested twice while at work and others caught in raids where ICE agents allegedly used excessive force.",
+  "search_document": "damages, millions being where work battery, as subjected false UNPUB US citizen seek millions in damages after violent ICE arrests they twice while citizens. lawsuits excessive force. for detained, American includes others imprisonment, distress such are DHS citizens arrested, The alleging cases caught U.S. emotional assault, US citizens seek millions in damages after violent ICE arrests violently Immigration and Customs Enforcement unlawfully used raids man agents and ICE suing allegedly Other Several a at in arrested despite were to",
+  "filters": {
+    "administrative_actions": [],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Immigration and Customs Enforcement",
+        "agency_slug": "immigration-and-customs-enforcement"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      },
+      {
+        "title": "In Litigation",
+        "slug": "in-litigation"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7299,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": "US citizens seek millions in damages after violent ICE arrests",
+        "link": "https://www.usatoday.com/story/news/nation/2025/09/30/citizens-seek-damages-after-violent-ice-arrests/86419733007/",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "us-citizens-seek-millions-in-damages-after-violent"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.629733Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

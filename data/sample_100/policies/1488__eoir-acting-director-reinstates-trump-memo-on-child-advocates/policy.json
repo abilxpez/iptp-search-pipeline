@@ -1,0 +1,96 @@
+{
+  "page_ptr_id": 1488,
+  "title": "EOIR Acting Director Reinstates Trump Memo on Child Advocates",
+  "slug": "eoir-acting-director-reinstates-trump-memo-on-child-advocates",
+  "url_path": "/home/policies/eoir-acting-director-reinstates-trump-memo-on-child-advocates/",
+  "live": true,
+  "announced_date": "2025-01-31",
+  "effective_date": "2025-01-31",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"byaz8\">On January 31, 2025, the EOIR Acting Director issued PM 25-14 regarding the role of child advocates in immigration proceedings, reinstating PM 20-03 from the first Trump term. The new memo rescinded intervening memo, DM 23-03, because there was no express reason for it to rescind the Trump memo and, per the Acting Director, the prior guidance on the role of child advocates &quot;grossly infringes on an Immigration Judge&#x27;s decisional independence.&quot;</p><p data-block-key=\"7b672\">PM 20-03 provided guidance on Child Advocates for Unaccompanied Children (UCs) appointed by HHS. The memo states HHS does not have authority to appoint Child Advocates for all UACs and limits Child Advocates&#x27; capacity to assist UCs during removal proceedings.</p><p data-block-key=\"evc0o\">Trump 2.0 [ID # 1488]</p>",
+  "description_text": "On January 31, 2025, the EOIR Acting Director issued PM 25-14 regarding the role of child advocates in immigration proceedings, reinstating PM 20-03 from the first Trump term. The new memo rescinded intervening memo, DM 23-03, because there was no express reason for it to rescind the Trump memo and, per the Acting Director, the prior guidance on the role of child advocates \"grossly infringes on an Immigration Judge's decisional independence.\"\n\nPM 20-03 provided guidance on Child Advocates for Unaccompanied Children (UCs) appointed by HHS. The memo states HHS does not have authority to appoint Child Advocates for all UACs and limits Child Advocates' capacity to assist UCs during removal proceedings.\n\nTrump 2.0 [ID # 1488]",
+  "search_document": "decisional it does child UACs term. reason EOIR Acting Director Reinstates Trump Memo on Child Advocates during by proceedings.Trump Immigration Judge&#x27;s have # per advocates 31, immigration Advocates&#x27; proceedings, HHS. all 2025, issued infringes rescinded &quot;grossly for independence.&quot;PM Children provided memo, appointed Director, not there and, new authority appoint 20-03 of an DM express role and EOIR Acting EOIR PM 25-14: Rescind and Cancel DM 23-03 and Reinstate PM 20-03 [ID states in to from regarding memo The 25-14 23-03, because Other assist on HHS removal intervening prior rescind 2.0 Trump Child (UCs) limits was Minors 1488] the On reinstating PM capacity first no UCs January Director guidance Executive Office for Immigration Review Change in Practice Unaccompanied Advocates",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Minors",
+        "slug": "minors"
+      },
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      },
+      {
+        "department": "Health & Human Services",
+        "department_slug": "health-human-services",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-5"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 4970,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-01-31",
+        "display_title": null,
+        "link_title": "EOIR PM 25-14: Rescind and Cancel DM 23-03 and Reinstate PM 20-03",
+        "link": "https://www.justice.gov/eoir/media/1387911/dl?inline",
+        "description_html": "",
+        "wagtaildoc_id": 14768,
+        "wagtaildoc_file": "documents/2025.01.31_EOIR_PM_25-14_-_Child_Advocates.pdf",
+        "wagtaildoc_title": "2025.01.31 EOIR PM 25-14: Child Advocates",
+        "file_size": 342979,
+        "file_hash": "7a8346b39b01514adcb8394df95c81b2b07c54ca",
+        "slug": "20250131-eoir-pm-25-14-child-advocates-2"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 224,
+      "title": "EOIR issues guidance regarding child advocates in UAC hearings",
+      "slug": "eoir-issues-guidance-regarding-child-advocates-in-uac-immigration-proceedings",
+      "announced_date": "2019-11-15",
+      "effective_date": "2019-11-15",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:41.015607Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

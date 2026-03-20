@@ -1,0 +1,16 @@
+query,nDCG@5,Success@5(>=2),MRR@5(>=2),P@5(>=2),num_results_considered
+temporary protected status,1.0,1.0,1.0,0.2,5
+asylum policy,0.9278885267001491,1.0,1.0,0.6,5
+border wall funding,0.9854419388428785,1.0,1.0,0.4,5
+refugee resettlement,0.981665055052402,1.0,1.0,0.8,5
+public charge rule,0.9327783893101107,1.0,1.0,0.2,5
+migrant protection protocols,0.9212478445981336,1.0,1.0,0.4,5
+expedited removal procedures,1.0,1.0,1.0,0.8,5
+ICE detention standards,0.9828920819566879,0.0,0.0,0.0,5
+asylum cooperative agreements interim final rule,0.9639404333166532,1.0,1.0,0.2,5
+unaccompanied children ORR release policies,1.0,1.0,1.0,0.6,5
+ICE raids Los Angeles,0.9903929125301808,1.0,1.0,0.2,5
+OMB pauses agency grant loan financial assistance programs,0.9725044904464192,1.0,1.0,0.4,5
+categorical parole programs CHNV,0.9515234565959557,1.0,1.0,0.2,5
+EOIR classified information guidance,1.0,1.0,1.0,0.2,5
+director-level authorization custodial releases unaccompanied minors,1.0,1.0,1.0,0.6,5

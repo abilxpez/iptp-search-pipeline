@@ -1,0 +1,101 @@
+{
+  "page_ptr_id": 537,
+  "title": "USCIS issues guidance on L-1 one-year foreign employment requirement",
+  "slug": "uscis-issues-guidance-on-l-1-one-year-foreign-employment-requirement",
+  "url_path": "/home/policies/uscis-issues-guidance-on-l-1-one-year-foreign-employment-requirement/",
+  "live": true,
+  "announced_date": "2018-11-15",
+  "effective_date": "2018-11-15",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>USCIS issues a policy memorandum on calculating qualifying employment abroad for L-1 intracompany transferee temporary worker status. Time spent working for a qualifying entity in the U.S. does not count toward the required one year, but the 3-year look-back period is adjusted to start three years before the individual was admitted to the U.S. as a principal beneficiary of an employment-based nonimmigrant petition. However, the 3-year look-back is not adjusted if the work in the U.S. was in a student or dependent (e.g., H-4 or L-2) status, or if the individual worked for an unrelated entity in the U.S. [ID #537]</p>",
+  "description_text": "USCIS issues a policy memorandum on calculating qualifying employment abroad for L-1 intracompany transferee temporary worker status. Time spent working for a qualifying entity in the U.S. does not count toward the required one year, but the 3-year look-back period is adjusted to start three years before the individual was admitted to the U.S. as a principal beneficiary of an employment-based nonimmigrant petition. However, the 3-year look-back is not adjusted if the work in the U.S. was in a student or dependent (e.g., H-4 or L-2) status, or if the individual worked for an unrelated entity in the U.S. [ID #537]",
+  "search_document": "temporary beneficiary but 3-year year, USCIS issues before calculating years unrelated l-2 dependent qualifying intracompany a was status, student visa (e.g., H-4 L-1 USCIS issues guidance on L-1 one-year foreign employment requirement abroad an working Time for does h-4 worker status. principal period not one three [ID individual or required in adjusted spent worked U.S. nonimmigrant However, L-2) Fragomen: USCIS Issues Guidance on L-1 One-Year Foreign Employment Requirement f-1 work transferee of on employment as look-back count is U.S. Citizenship and Immigration Services petition. student Agency Directive start employment-based This is the first time USCIS has provided comprehensive guidance on how a foreign national can meet the one-year of continuous foreign employment requirement necessary for L-1 status. In the past, the agency offered varying interpretations, sometimes calculating the “one year within three years” requirement from the date of admission to the United States, regardless of what status that admission was in, and sometimes calculating it from the date of the filing of L-1 petition. admitted toward Employment-Based the if Satisfying the L-1 1-Year Foreign Employment Requirement policy #537] to memorandum l-1 entity",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Employment-Based",
+        "slug": "employment-based"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1256,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-11-15",
+        "display_title": "Satisfying the L-1 1-Year Foreign Employment Requirement",
+        "link_title": "Satisfying the L-1 1-Year Foreign Employment Requirement",
+        "link": "https://www.uscis.gov/sites/default/files/document/memos/2018-11-15-PM-602-0167-L-1-foreign-employment-requirement.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 1671,
+        "wagtaildoc_file": "documents/L-1_VIsa_Foreign_Employment_Requirement.pdf",
+        "wagtaildoc_title": "Satisfying the L-1 1-Year Foreign Employment Requirement",
+        "file_size": 124139,
+        "file_hash": "609a486a4342c09ef0061b88624c5912b86d558a",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 1257,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2018-11-29",
+        "display_title": "Fragomen: USCIS Issues Guidance on L-1 One-Year Foreign Employment Requirement",
+        "link_title": "Fragomen: USCIS Issues Guidance on L-1 One-Year Foreign Employment Requirement",
+        "link": "https://www.fragomen.com/insights/alerts/uscis-issues-guidance-l-1-one-year-foreign-employment-requirement",
+        "description_html": "<p>This is the first time USCIS has provided comprehensive guidance on how a foreign national can meet the one-year of continuous foreign employment requirement necessary for L-1 status. In the past, the agency offered varying interpretations, sometimes calculating the “one year within three years” requirement from the date of admission to the United States, regardless of what status that admission was in, and sometimes calculating it from the date of the filing of L-1 petition.</p>",
+        "wagtaildoc_id": 1318,
+        "wagtaildoc_file": "documents/Fragomen_Alert_on_USCIS_Guidance_on_L-1.pdf",
+        "wagtaildoc_title": "Fragomen: USCIS Issues Guidance on L-1 One-Year Foreign Employment Requirement",
+        "file_size": 90402,
+        "file_hash": "6b6c8dc0551a1e2a6f3364d6848324d06cd96d87",
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 502,
+      "title": "USCIS restricts multinational employment exception, requires an additional year of qualifying employment abroad",
+      "slug": "uscis-restricts-multinational-employment-exception-requires-an-additional-year-of-qualifying-employment",
+      "announced_date": "2018-03-19",
+      "effective_date": "2018-03-19",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.918836Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

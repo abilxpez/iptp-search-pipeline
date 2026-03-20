@@ -1,0 +1,84 @@
+{
+  "page_ptr_id": 1813,
+  "title": "DOS proposes revisions to Form DS-234, Special Immigrant Visa Biodata",
+  "slug": "dos-proposes-revisions-to-form-ds-234-special-immigrant-visa-biodata",
+  "url_path": "/home/policies/dos-proposes-revisions-to-form-ds-234-special-immigrant-visa-biodata/",
+  "live": false,
+  "announced_date": "2025-05-30",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"g65m4\">DOS announces proposed revisions to Form DS-234, Special Immigrant Visa Biodata Form and provides a 60-day comment period ending on July 29, 2025. Form DS–234 elicits information used to determine the eligibility of certain Iraqis and Afghan SIV recipients for refugee resettlement benefits.</p><p data-block-key=\"v483\">[Trump 2.0 ID #]</p>",
+  "description_text": "DOS announces proposed revisions to Form DS-234, Special Immigrant Visa Biodata Form and provides a 60-day comment period ending on July 29, 2025. Form DS–234 elicits information used to determine the eligibility of certain Iraqis and Afghan SIV recipients for refugee resettlement benefits.\n\n[Trump 2.0 ID #]",
+  "search_document": "period 60-day and DS-234, elicits benefits.[Trump for comment 29, 2.0 Afghan used resettlement of Special Immigrant Special determine Forms and Information Collection Visa DS–234 2025. eligibility recipients to Iraqis on DOS SIV UNPUB: DOS proposes revisions to Form DS-234, Special Immigrant Visa Biodata information a Immigrant 2025.04.30 Federal Register: 60-Day Notice of Proposed Information Collection: Special Immigrant Visa Biodata Form revisions proposed announces Form July Biodata #1813] provides the refugee Other ID ending certain",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Special Immigrant",
+        "slug": "special-immigrant"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6479,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-30",
+        "display_title": null,
+        "link_title": "2025.04.30 Federal Register: 60-Day Notice of Proposed Information Collection: Special Immigrant Visa Biodata Form",
+        "link": "https://www.federalregister.gov/documents/2025/05/30/2025-09778/60-day-notice-of-proposed-information-collection-special-immigrant-visa-biodata-form",
+        "description_html": "",
+        "wagtaildoc_id": 16149,
+        "wagtaildoc_file": "documents/2025-09778_1.pdf",
+        "wagtaildoc_title": "2025.04.30 Federal Register: 60-Day Notice of Proposed Information Collection: Special Immigrant Visa Biodata Form",
+        "file_size": 205252,
+        "file_hash": "5f3f129e5ed93cc2278edae2e0ef60a25ee302c8",
+        "slug": "20250430-federal-register-60-day-notice-of-propose"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1153,
+      "title": "DOS proposes revisions to Form DS-234, Special Immigrant Visa Biodata",
+      "slug": "dos-proposes-revisions-form-ds-234-special-immigrant-visa-biodata",
+      "announced_date": "2020-11-05",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.953641Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

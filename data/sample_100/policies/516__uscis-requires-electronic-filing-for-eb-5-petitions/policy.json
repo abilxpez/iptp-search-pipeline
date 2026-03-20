@@ -1,0 +1,74 @@
+{
+  "page_ptr_id": 516,
+  "title": "State Department requires electronic filing for EB-5 applications",
+  "slug": "uscis-requires-electronic-filing-for-eb-5-petitions",
+  "url_path": "/home/policies/uscis-requires-electronic-filing-for-eb-5-petitions/",
+  "live": true,
+  "announced_date": "2018-06-25",
+  "effective_date": "2018-06-01",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>As of June, 2018, all applicants filing an I-526 petition (EB-5) are required to process their visa applications electronically. The National Visa Center will need an email address for all applicants in order to communicate and receive applicable case information. [ID #516]</p>",
+  "description_text": "As of June, 2018, all applicants filing an I-526 petition (EB-5) are required to process their visa applications electronically. The National Visa Center will need an email address for all applicants in order to communicate and receive applicable case information. [ID #516]",
+  "search_document": "[ID I-526 to electronically. NVC: Email Processing required for EB-5 Petitions required in and investor National State Department requires electronic filing for EB-5 applications (EB-5) need The are applications Center June, their of filing eb-5 process an for all order communicate will Agency Directive applicable As case CA visa Employment-Based Visa email 2018, #516] information. receive address Bureau of Consular Affairs petition applicants",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Employment-Based",
+        "slug": "employment-based-2"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 3178,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-06-25",
+        "display_title": null,
+        "link_title": "NVC: Email Processing required for EB-5 Petitions",
+        "link": "https://travel.state.gov/content/travel/en/News/visas-news/20180621_processing-eb-5-petitions-at-nvc.html",
+        "description_html": "",
+        "wagtaildoc_id": 13209,
+        "wagtaildoc_file": "documents/Screen_Shot_2021-01-07_at_11.32.16_AM.png",
+        "wagtaildoc_title": "Processing EB-5 Petitions at NVC",
+        "file_size": 252850,
+        "file_hash": "533802bb33439cdf3c9c0fda3ab27af62a864a75",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.796329Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

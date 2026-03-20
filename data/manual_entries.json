@@ -1,0 +1,124 @@
+[
+    {
+      "entry_id": "entry_2182",
+      "title": "USCIS eliminates one-year foreign residency requirement for R-1 religious workers seeking readmission",
+      "original_date_announced": "2026-01-16",
+      "summary": "USCIS issued an interim final rule amending its regulations to remove the one-year foreign residence regulatory requirement for religious workers seeking readmission to the United States. Previously, a religious worker who exhausted the five-year maximum period of stay as an R-1 religious worker was required to reside abroad and be physically present outside the United States for one year before being eligible for readmission. Under the new rule, religious workers must still depart from the United States but are no longer subject to a required period of foreign residence. USCIS stated that this change aligns with Executive Order 14205, Establishment of the White House Faith Office, and will enhance stability and significantly reduce disruptions to religious organizations providing services at churches, mosques, synagogues, and other places of worship. The interim final rule is effective January 16, 2026, and comments will be accepted until March 17, 2026.",
+      "administration": "Trump 2.0",
+      "iptp_id": 2182,
+      "effective_date": "2026-01-16",
+      "current_status": "None",
+      "original_trump_policy_status": "Comment Period / Final-Actual",
+      "trump_administration_actions": [
+        "Change in Practice",
+        "Rule"
+      ],
+      "subject_matter": [
+        "Non-Immigrant Visas: Employment-Based"
+      ],
+      "agencies_affected": [
+        "USCIS"
+      ],
+      "attachments": [
+        {
+          "attachment_id": "pdf_1",
+          "title": "USCIS Interim Final Rule - Improving Continuity for Religious Organizations and Their Employees",
+          "date": "2026-01-16",
+          "pdf_path": "data/pdfs/entry_2182/2026-00830.pdf",
+          "is_scanned": false
+        }
+      ],
+      "associated_or_derivative_policies": [],
+      "pre_trump_era_policies": [],
+      "commentary": [],
+      "source": {
+        "collected_by": "manual"
+      }
+    },
+    {
+      "entry_id": "entry_2175",
+      "title": "ICE authorizes forceful entries to residences based on administrative warrants",
+      "original_date_announced": "2026-01-21",
+      "summary": "ICE Acting Director Todd Lyons issued a memorandum to all ICE personnel authorizing special agents and deportation officers to execute administrative warrants to arrest noncitizens subject to final removal orders within their residences. The memorandum relies on a determination by the DHS Office of the General Counsel that nothing in the Constitution, the Immigration and Nationality Act, or immigration regulations prohibits reliance on administrative warrants for this purpose. The memo specifically authorizes ICE personnel to use force to enter a residence after knocking, announcing their presence, and providing a reasonable opportunity for the door to be opened. ICE basic training materials from 2021 state to the contrary that a warrant of removal or deportation does not alone authorize a Fourth Amendment search. The memorandum was disclosed as part of a whistleblower complaint to Congress.",
+      "administration": "Trump 2.0",
+      "iptp_id": 2175,
+      "effective_date": "2025-05-12",
+      "current_status": "None",
+      "original_trump_policy_status": "Final/Actual",
+      "trump_administration_actions": [
+        "Agency Directive",
+        "Change in Practice"
+      ],
+      "subject_matter": [
+        "Interior"
+      ],
+      "agencies_affected": [
+        "ICE"
+      ],
+      "attachments": [
+        {
+          "attachment_id": "pdf_1",
+          "title": "Utilizing Form I-205 Warrant of Removal - ICE",
+          "date": "2025-05-12",
+          "pdf_path": "data/pdfs/entry_2175/2025.05.12_Utilizing_Form_I205_Warrant_of_Removal_-_ICE.pdf",
+          "is_scanned": true
+        },
+        {
+          "attachment_id": "pdf_2",
+          "title": "Secretary Chertoff letter re Administrative Warrants",
+          "date": "2007-06-14",
+          "pdf_path": "data/pdfs/entry_2175/Chertoff.letter.2007.pdf",
+          "is_scanned": false
+        },
+        {
+          "attachment_id": "pdf_3",
+          "title": "ICE ERO 4th Amendment Training",
+          "date": "2021-07-26",
+          "pdf_path": "data/pdfs/entry_2175/2021.07.26_ICE_ERO_4th_Amendment_Training.pdf",
+          "is_scanned": true
+        }
+      ],
+      "associated_or_derivative_policies": [
+        {
+          "date": "2025-01-20",
+          "title": "EO 14159: Protecting the American People Against Invasion"
+        },
+        {
+          "date": "2025-01-26",
+          "title": "Reported: Trump administration officials direct ICE to increase arrests to meet daily quotas"
+        },
+        {
+          "date": "2025-12-04",
+          "title": "DHS launches Operation Metro Surge in Minnesota"
+        }
+      ],
+      "pre_trump_era_policies": [
+        {
+          "date": "2007-06-14",
+          "title": "Secretary Chertoff letter explaining limits of administrative warrants"
+        },
+        {
+          "date": "2021-07-26",
+          "title": "ICE ERO training stating administrative warrants do not authorize Fourth Amendment searches"
+        }
+      ],
+      "commentary": [
+        {
+          "date": "2026-01-21",
+          "title": "Immigration officers assert sweeping power to enter homes without a judge’s warrant, memo says",
+          "publisher": "Associated Press",
+          "notes": "AP reporting on whistleblower complaint and ICE memo authorizing residential entry based on administrative warrants."
+        },
+        {
+          "date": "2026-01-22",
+          "title": "Can ICE Enter a Home To Make an Arrest With Only an Administrative Warrant?",
+          "publisher": "The Volokh Conspiracy",
+          "notes": "Professor Orin Kerr analyzes the Fourth Amendment implications and questions DHS's legal position."
+        }
+      ],
+      "source": {
+        "collected_by": "manual"
+      }
+    }
+  ]
+  

@@ -1,0 +1,126 @@
+{
+  "page_ptr_id": 1663,
+  "title": "DHS deports DACA recipient returning with advance parole",
+  "slug": "dhs-deports-daca-recipients-with-advanced-parole",
+  "url_path": "/home/policies/dhs-deports-daca-recipients-with-advanced-parole/",
+  "live": true,
+  "announced_date": "2025-04-02",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"ii61l\">Evenezer Cortez Martinez, a DACA recipient from Kansas, filed a lawsuit against DHS after he was denied re-entry into the U.S. Prior to departing, Cortez Martinez had obtained advance parole to travel to Mexico. When he presented himself for inspection after flying into Dallas on March 23, however, CBP officers told Cortez Martinez that he had been ordered removed in absentia in 2024. They said his advance parole document was therefore “issued in error,&quot; and he was subject to expedited removal without a valid entry document. He was placed on a flight back to Mexico.</p><p data-block-key=\"cg9d\">The lawsuit alleges violations of the Administrative Procedure Act and due process under the Constitution. He requests rescission of his expedited removal order and return under his advance parole. <i>Cortez Martinez v. DHS</i>, 3:25-cv-00801-X (N.D. Tex.).</p><p data-block-key=\"avg1i\"><b><span style=\"color: purple\">**Litigation entries are limited to initial complaints and major substantive rulings. For pleadings and additional information, use name and docket number to search</span style=\"color: purple\"></b> <a href=\"https://clearinghouse.net/post/1175/\"><b><span style=\"color: purple\">Civil Rights Clearinghouse</span style=\"color: purple\"></b></a> <b><span style=\"color: purple\">and</span style=\"color: purple\"></b> <a href=\"https://www.courtlistener.com/\"><b><span style=\"color: purple\">CourtListener</span style=\"color: purple\"></b></a> <b><span style=\"color: purple\">or visit</span style=\"color: purple\"></b> <a href=\"https://www.justsecurity.org/107087/tracker-legal-challenges-trump-administration-actions/\"><b><span style=\"color: purple\">Just Security Litigation Tracker</span style=\"color: purple\"></b></a><b><span style=\"color: purple\">**</span style=\"color: purple\"></b></p><p data-block-key=\"6jfbh\">Trump 2.0 [ID #1663]</p>",
+  "description_text": "Evenezer Cortez Martinez, a DACA recipient from Kansas, filed a lawsuit against DHS after he was denied re-entry into the U.S. Prior to departing, Cortez Martinez had obtained advance parole to travel to Mexico. When he presented himself for inspection after flying into Dallas on March 23, however, CBP officers told Cortez Martinez that he had been ordered removed in absentia in 2024. They said his advance parole document was therefore “issued in error,\" and he was subject to expedited removal without a valid entry document. He was placed on a flight back to Mexico.\n\nThe lawsuit alleges violations of the Administrative Procedure Act and due process under the Constitution. He requests rescission of his expedited removal order and return under his advance parole. Cortez Martinez v. DHS, 3:25-cv-00801-X (N.D. Tex.).\n\n**Litigation entries are limited to initial complaints and major substantive rulings. For pleadings and additional information, use name and docket number to search Civil Rights Clearinghouse and CourtListener or visit Just Security Litigation Tracker**\n\nTrump 2.0 [ID #1663]",
+  "search_document": "Change in Practice and Border inspection order to Tracker**Trump Rights entry Other recipient [ID Customs and Border Protection When Constitution. docket Procedure “issued substantive number 23, his flying advance filed without alleges advance parole Kansas, process removal visit been removed of therefore rulings. pleadings Cortez DHS, into on Administrative Martinez entries U.S. valid expedited said daca 2024. officers DHS initial For placed #1663] violations himself that return complaints requests had denied was Just He Prior in for major information, lawsuit DHS deports DACA recipient returning with advance parole however, parole presented told March rescission Tex.).**Litigation obtained document. limited a Act Mexico.The document departing, travel Evenezer They Martinez, error,&quot; Security due ordered or additional 2.0 Litigation DACA Clearinghouse Civil v. flight name re-entry from Mexico. CBP CourtListener Pacer - Cortez Martinez v. U.S. Dep't of Homeland Sec. he absentia DACA recipient and Kansas City father of 3 deported to Mexico despite valid documentation - CBS News under back (N.D. are Dallas search after parole. subject use against the 3:25-cv-00801-X",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Border",
+        "slug": "border"
+      },
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "DACA",
+        "slug": "daca"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Customs and Border Protection",
+        "agency_slug": "customs-and-border-protection"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "In Litigation",
+        "slug": "in-litigation"
+      },
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 5785,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-04-02",
+        "display_title": null,
+        "link_title": "Pacer - Cortez Martinez v. U.S. Dep't of Homeland Sec.",
+        "link": "https://www.pacermonitor.com/public/case/57496937/Cortez_Martinez_v_US_Department_of_Homeland_Security_et_al",
+        "description_html": "",
+        "wagtaildoc_id": 15628,
+        "wagtaildoc_file": "documents/2025.04.02_Complaint_-_Cortez_Martinez_v._DHS.pdf",
+        "wagtaildoc_title": "2025.04.02 Complaint - Cortez Martinez v. DHS",
+        "file_size": 308472,
+        "file_hash": "26104c53fa3f7f4e5f420062e13fefac7e5bee9c",
+        "slug": "20250402-complaint-cortez-martinez-v-dhs"
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 5794,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2025-04-04",
+        "display_title": null,
+        "link_title": "DACA recipient and Kansas City father of 3 deported to Mexico despite valid documentation - CBS News",
+        "link": "https://www.cbsnews.com/news/daca-recipient-kansas-city-father-deported-mexico-despite-valid-documentation/",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "daca-recipient-and-kansas-city-father-of-3-deporte"
+      }
+    ]
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1375,
+      "title": "EO 14165: \"Securing Our Borders\"",
+      "slug": "securing-our-borders",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 276,
+      "title": "DHS terminates DACA (Deferred Action for Childhood Arrivals) Program",
+      "slug": "dhs-terminates-daca-deferred-action-for-childhood-arrivals-program",
+      "announced_date": "2017-09-05",
+      "effective_date": "2017-09-05",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.861467Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "page_ptr_id": 1783,
+  "title": "USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action)",
+  "slug": "uscis-proposes-changes-to-g-325a-biographic-information-for-deferred-action",
+  "url_path": "/home/policies/uscis-proposes-changes-to-g-325a-biographic-information-for-deferred-action/",
+  "live": true,
+  "announced_date": "2025-05-29",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"xxy9r\">USCIS issued a notice and request for comments on proposed changes to Form G-325A, “Biographic Information (for Deferred Action),” which is used to request deferred action (other than deferred action relating to DACA, VAWA self-petitions, and A-3, G-5, T, and U nonimmigrant status). Among other things, USCIS proposes eliminating the &quot;Labor Investigation-Based,&quot; (commonly known as Deferred Action for Labor Enforcement), &quot;Special Immigrant Juvenile,&quot; and &quot;Statelessness&quot; deferred action categories. The revisions would also remove the ability for applicants to request an employment authorization and Social Security card through the form.</p><p data-block-key=\"5q350\">Comments are due July 28, 2025.</p><p data-block-key=\"1os66\">Trump 2.0 [ID #1783]</p>",
+  "description_text": "USCIS issued a notice and request for comments on proposed changes to Form G-325A, “Biographic Information (for Deferred Action),” which is used to request deferred action (other than deferred action relating to DACA, VAWA self-petitions, and A-3, G-5, T, and U nonimmigrant status). Among other things, USCIS proposes eliminating the \"Labor Investigation-Based,\" (commonly known as Deferred Action for Labor Enforcement), \"Special Immigrant Juvenile,\" and \"Statelessness\" deferred action categories. The revisions would also remove the ability for applicants to request an employment authorization and Social Security card through the form.\n\nComments are due July 28, 2025.\n\nTrump 2.0 [ID #1783]",
+  "search_document": "Social Form DACA, authorization USCIS - Table of Changes - G-325A Instructions employment Information July 2025.06.05: USCIS - Agency Information Collection Activities; Revision of a Currently Approved Collection: Biographic Information (for Deferred Action) form.Comments is Immigrant are &quot;Labor self-petitions, on T, U.S. Citizenship and Immigration Services USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action) used known as than “Biographic categories. a would Juvenile,&quot; #1783] 2.0 nonimmigrant Forms and Information Collection and issued proposes relating through Deferred &quot;Statelessness&quot; (commonly A-3, status). applicants other things, eliminating action Investigation-Based,&quot; USCIS &quot;Special an G-325A, USCIS - Table of Changes - G-325A Form proposed (other USCIS - Agency Information Collection Activities; Revision of a Currently Approved Collection: Biographic Information (for Deferred Action) G-5, Security Action Among comments due card also 28, which The changes Action),” 2025.Trump remove Enforcement), revisions [ID notice VAWA for Labor ability to U (for the request USCIS corrected its notice and request for comments on proposed changes to Form G-325A, “Biographic Information (for Deferred Action)&quot; to reflect that comments are now due on July 28, 2025 (instead of June 30, 2025, as previously indicated on May 29, 2025). deferred",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-2"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Comment Period",
+        "slug": "comment-period"
+      },
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6396,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-15",
+        "display_title": null,
+        "link_title": "USCIS - Table of Changes - G-325A Form",
+        "link": "https://www.regulations.gov/document/USCIS-2005-0024-0073",
+        "description_html": "",
+        "wagtaildoc_id": 16058,
+        "wagtaildoc_file": "documents/2025.05.15_USCIS_-_Table_of_Changes_-_G-325A_Form.pdf",
+        "wagtaildoc_title": "2025.05.15 USCIS - Table of Changes - G-325A Form",
+        "file_size": 29682,
+        "file_hash": "374569e6c409fd063d1ca706b6f164672487d870",
+        "slug": "20250515-uscis-table-of-changes-g-325a-form"
+      },
+      {
+        "policydocument_id": 6397,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-15",
+        "display_title": null,
+        "link_title": "USCIS - Table of Changes - G-325A Instructions",
+        "link": "https://www.federalregister.gov/documents/2025/06/05/C1-2025-09616/agency-information-collection-activities-revision-of-a-currently-approved-collection-biographic",
+        "description_html": "",
+        "wagtaildoc_id": 16059,
+        "wagtaildoc_file": "documents/2025.05.15_USCIS_-_Table_of_Changes_-_G-325A_Instructions.pdf",
+        "wagtaildoc_title": "2025.05.15 USCIS - Table of Changes - G-325A Instructions",
+        "file_size": 37195,
+        "file_hash": "a29fdd44346aedeeac4f300ee376637c4a5d73d4",
+        "slug": "20250515-uscis-table-of-changes-g-325a-instruction"
+      },
+      {
+        "policydocument_id": 6394,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-29",
+        "display_title": null,
+        "link_title": "USCIS - Agency Information Collection Activities; Revision of a Currently Approved Collection: Biographic Information (for Deferred Action)",
+        "link": "https://www.federalregister.gov/documents/2025/05/29/2025-09585/agency-information-collection-activities-new-collection-generic-clearance-for-the-collection-of",
+        "description_html": "",
+        "wagtaildoc_id": 16056,
+        "wagtaildoc_file": "documents/2025.05.29_USCIS_-_Agency_Information_Collection_Activities_-_Biographic_Information.pdf",
+        "wagtaildoc_title": "2025.05.29 USCIS - Agency Information Collection Activities; Revision of a Currently Approved Collection: Biographic Information (for Deferred Action)",
+        "file_size": 126463,
+        "file_hash": "3805615133009a47d91656b2a143850240c12056",
+        "slug": "20250529-uscis-agency-information-collection-act-2"
+      },
+      {
+        "policydocument_id": 6424,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2024-10-24",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 16094,
+        "wagtaildoc_file": "documents/Form_G-325A_10.24.2024_edition.pdf",
+        "wagtaildoc_title": "Form G-325A Deferred Action_10.24.2024 edition",
+        "file_size": 316394,
+        "file_hash": "77f884f9985b3eca5ae85e2e62960b308c36b230",
+        "slug": "form-g-325a-deferred-action_10242024-edition"
+      },
+      {
+        "policydocument_id": 6423,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2025-06-05",
+        "display_title": null,
+        "link_title": "2025.06.05: USCIS - Agency Information Collection Activities; Revision of a Currently Approved Collection: Biographic Information (for Deferred Action)",
+        "link": "https://www.federalregister.gov/documents/2025/06/05/C1-2025-09616/agency-information-collection-activities-revision-of-a-currently-approved-collection-biographic",
+        "description_html": "<p data-block-key=\"6k2wk\">USCIS corrected its notice and request for comments on proposed changes to Form G-325A, “Biographic Information (for Deferred Action)&quot; to reflect that comments are now due on July 28, 2025 (instead of June 30, 2025, as previously indicated on May 29, 2025).</p>",
+        "wagtaildoc_id": 16082,
+        "wagtaildoc_file": "documents/C1-2025-09616.pdf",
+        "wagtaildoc_title": "2025.06.05: USCIS - Agency Information Collection Activities; Revision of a Currently Approved Collection: Biographic Information (for Deferred Action)",
+        "file_size": 204886,
+        "file_hash": "6d257702d77f1974f71097467d75a8814e614066",
+        "slug": "20250605-uscis-agency-information-collection-activ"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1929,
+      "title": "Reported: USCIS ends program to shield workers reporting abuse",
+      "slug": "reported-uscis-ends-program-to-shield-workers-reporting-abuse",
+      "announced_date": "2025-07-17",
+      "effective_date": "2025-07-17",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.664855Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

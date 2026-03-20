@@ -1,0 +1,99 @@
+{
+  "page_ptr_id": 2105,
+  "title": "President Trump transfers grant-making authority for initial resettlement grants and contracts from DOS to ORR",
+  "slug": "office-of-refugee-resettlement-transfers-from-dos-to-hhs",
+  "url_path": "/home/policies/office-of-refugee-resettlement-transfers-from-dos-to-hhs/",
+  "live": true,
+  "announced_date": "2025-09-30",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"6qc9k\">Presidential Determination No. 2024-14 transfers the &quot;administration of the program of initial resettlement grants, which are awarded to public or private nonprofit agencies for initial resettlement services for refugees&quot; from the Department of State (DOS) to the Office of Refugee Resettlement (ORR) in the Department of Health and Human Services (HHS). The memorandum explains that this transfer &quot;ensures better alignment of resources, oversight, and accountability [for] resettlement activities that take place entirely within the United States.&quot;</p><p data-block-key=\"f6448\">Trump 2.0 [ID #2105]</p>",
+  "description_text": "Presidential Determination No. 2024-14 transfers the \"administration of the program of initial resettlement grants, which are awarded to public or private nonprofit agencies for initial resettlement services for refugees\" from the Department of State (DOS) to the Office of Refugee Resettlement (ORR) in the Department of Health and Human Services (HHS). The memorandum explains that this transfer \"ensures better alignment of resources, oversight, and accountability [for] resettlement activities that take place entirely within the United States.\"\n\nTrump 2.0 [ID #2105]",
+  "search_document": "(HHS). nonprofit 2024-14 initial memorandum Department agencies from take alignment Refugee within Determination Services that &quot;ensures #2105] 2025.09.30 Presidential Determination No. 2025-15 - Transfer of ORR to HHS Health &quot;administration entirely State program (DOS) (ORR) oversight, public this better refugees&quot; transfer Presidential place Office Resettlement Other the private 2.0 explains or in to resettlement President Trump transfers grant-making authority for initial resettlement grants and contracts from DOS to ORR Refugees The of Presidential Orders which for [ID States.&quot;Trump No. activities awarded and Human transfers [for] grants, services are resources, accountability United",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Presidential Orders",
+        "slug": "presidential-orders"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Refugees",
+        "slug": "refugees"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      },
+      {
+        "department": "Health & Human Services",
+        "department_slug": "health-human-services",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-5"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7886,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-09-30",
+        "display_title": null,
+        "link_title": "2025.09.30 Presidential Determination No. 2025-15 - Transfer of ORR to HHS",
+        "link": "https://www.federalregister.gov/documents/2025/10/31/2025-19753/presidential-determination-on-transferring-the-united-states-program-of-initial-refugee-resettlement",
+        "description_html": "",
+        "wagtaildoc_id": 17356,
+        "wagtaildoc_file": "documents/2025.09.30_Presidential_Determination_No._2025-15_-_Transfer_of_ORR_to_HHS.pdf",
+        "wagtaildoc_title": "2025.09.30 Presidential Determination No. 2025-15 - Transfer of ORR to HHS",
+        "file_size": 194287,
+        "file_hash": "0c39c4370b1fba2b8651dd08e9fc8efb0cb8d94e",
+        "slug": "20250930-presidential-determination-no-2025-15-tra"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1450,
+      "title": "State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.",
+      "slug": "report-tump-memo-bars-resettlement-agencies-from-providing-services-to-refugees-currently-in-the-united-states",
+      "announced_date": "2025-01-24",
+      "effective_date": "2025-01-24",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 2045,
+      "title": "President Trump sets record-low refugee cap of 7,500 for fiscal year 2026",
+      "slug": "president-trump-sets-record-low-refugee-cap-of-7500",
+      "announced_date": "2025-10-30",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.799931Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

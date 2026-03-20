@@ -1,0 +1,86 @@
+{
+  "page_ptr_id": 2026,
+  "title": "EOIR Acting Deputy Director rescinds prior guidance on naturalization oath ceremonies",
+  "slug": "eoir-acting-deputy-director-rescinds-and-cancel-prior-guidance-on-naturalization-oath-ceremonies",
+  "url_path": "/home/policies/eoir-acting-deputy-director-rescinds-and-cancel-prior-guidance-on-naturalization-oath-ceremonies/",
+  "live": true,
+  "announced_date": "2025-09-30",
+  "effective_date": "2025-09-30",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"20ipw\">EOIR Acting Deputy Director Roman Chaban issued Policy Memorandum (PM) 25-52, rescinding and canceling Operating Policies and Procedures Memorandum (OPPM) 97-8, <i>Naturalization Oath Ceremonies.</i> The OPPM, issued under the Clinton administration, provided procedures for immigration judges administering the Oath of Allegiance in administrative naturalization ceremonies.</p><p data-block-key=\"4co1o\">The PM claims that, as the OPPM is over twenty-five years old, it contains several procedures and references that are outdated. It also notes that the guidance has become unnecessary, as Immigration Courts are not performing naturalization ceremonies. To the extent that an Immigration Court wishes to conduct a naturalization ceremony in conjunction with DHS, it states that EOIR “will address those situations on a case-by-case basis going forward.”</p><p data-block-key=\"3urc5\">Trump 2.0 [ID #2026]</p>",
+  "description_text": "EOIR Acting Deputy Director Roman Chaban issued Policy Memorandum (PM) 25-52, rescinding and canceling Operating Policies and Procedures Memorandum (OPPM) 97-8, Naturalization Oath Ceremonies. The OPPM, issued under the Clinton administration, provided procedures for immigration judges administering the Oath of Allegiance in administrative naturalization ceremonies.\n\nThe PM claims that, as the OPPM is over twenty-five years old, it contains several procedures and references that are outdated. It also notes that the guidance has become unnecessary, as Immigration Courts are not performing naturalization ceremonies. To the extent that an Immigration Court wishes to conduct a naturalization ceremony in conjunction with DHS, it states that EOIR “will address those situations on a case-by-case basis going forward.”\n\nTrump 2.0 [ID #2026]",
+  "search_document": "(PM) has are wishes #2026] conjunction Courts a Executive Office for Immigration Review references performing EOIR conduct Court of the as Policies several administration, contains administering old, unnecessary, an become administrative years rescinding for Procedures forward.”Trump 97-8, Naturalization canceling OPPM, provided extent Policy ceremonies. ceremony outdated. judges naturalization also Naturalization OPPM Director EOIR OPPM 97-8 - Naturalization Oath Ceremonies issued notes immigration Roman Clinton guidance (OPPM) Allegiance that, on over [ID EOIR PM 25-52 - Cancellation of OPPM 97-8 with under ceremonies.The procedures states situations address claims Memorandum “will going those twenty-five basis EOIR Acting Deputy Director rescinds prior guidance on naturalization oath ceremonies case-by-case Acting not 2.0 and DHS, Chief Immigration Judge, Michael J. Creppy issued OPPM 97-8, which establishes policies and procedures for Immigration Judges in administering the Oath of Allegiance at administrative naturalization ceremonies. it that is Ceremonies. The It To to in Operating 25-52, Deputy Chaban PM Immigration Oath",
+  "filters": {
+    "administrative_actions": [],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Naturalization",
+        "slug": "naturalization"
+      },
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": []
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7477,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-09-30",
+        "display_title": null,
+        "link_title": "EOIR PM 25-52 - Cancellation of OPPM 97-8",
+        "link": "https://www.justice.gov/eoir/media/1415811/dl?inline",
+        "description_html": "",
+        "wagtaildoc_id": 17060,
+        "wagtaildoc_file": "documents/2025.09.30_EOIR_PM_25-52_-_Cancellation_of_OPPM_97-8.pdf",
+        "wagtaildoc_title": "2025.09.30 EOIR PM 25-52 - Cancellation of OPPM 97-8",
+        "file_size": 143938,
+        "file_hash": "f9c306ef522d0f139f42707ff62361be28961cd4",
+        "slug": "20250930-eoir-pm-25-42-cancellation-of-oppm-97-8-n"
+      },
+      {
+        "policydocument_id": 7478,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "1997-01-01",
+        "display_title": null,
+        "link_title": "EOIR OPPM 97-8 - Naturalization Oath Ceremonies",
+        "link": "https://www.justice.gov/sites/default/files/eoir/legacy/2013/05/07/97-8.pdf",
+        "description_html": "<p data-block-key=\"rffr2\">Chief Immigration Judge, Michael J. Creppy issued OPPM 97-8, which establishes policies and procedures for Immigration Judges in administering the Oath of Allegiance at administrative naturalization ceremonies.</p>",
+        "wagtaildoc_id": 17062,
+        "wagtaildoc_file": "documents/1997.01.01_EOIR_OPPM_97-8_-_Naturalization_Oath_Ceremonies.pdf",
+        "wagtaildoc_title": "1997.01.01 EOIR OPPM 97-8 - Naturalization Oath Ceremonies",
+        "file_size": 111177,
+        "file_hash": "8e1f155b9b5c3be1fbd05e0f144a9949f4c2e86b",
+        "slug": "19970101-eoir-oppm-97-8-naturalization-oath-ceremo"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.975713Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

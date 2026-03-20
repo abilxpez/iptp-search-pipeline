@@ -1,0 +1,121 @@
+{
+  "page_ptr_id": 1548,
+  "title": "Reported: Chief of DOJ's Immigrant Employee Rights Division Replaced",
+  "slug": "reported-chief-of-dojs-immigrant-employee-rights-division-replaced",
+  "url_path": "/home/policies/reported-chief-of-dojs-immigrant-employee-rights-division-replaced/",
+  "live": true,
+  "announced_date": "2025-02-17",
+  "effective_date": "2025-02-17",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"9ff03\"><i>Bloomberg Law</i> reports that Alberto Ruisanchez, the longtime chief of DOJ’s Immigrant and Employee Rights section, responsible for investigating immigration-related employment bias, has been replaced. Jennifer Deines, previously special policy counsel at IER, will fill the top spot on an acting basis.</p><p data-block-key=\"dha0l\"></p><p data-block-key=\"gict\">Trump 2.0 [ID#15480]</p>",
+  "description_text": "Bloomberg Law reports that Alberto Ruisanchez, the longtime chief of DOJ’s Immigrant and Employee Rights section, responsible for investigating immigration-related employment bias, has been replaced. Jennifer Deines, previously special policy counsel at IER, will fill the top spot on an acting basis.\n\nTrump 2.0 [ID#15480]",
+  "search_document": "employment top Other Ruisanchez, basis.Trump counsel immigration-related of Agency Directive Jennifer at responsible IER, investigating section, Employee special acting [ID#15480] Immigrant on bias, longtime Deines, DOJ’s IER has Reported: Chief of DOJ's Immigrant Employee Rights Division Replaced the an 2025.04.23_Reported: DOJ's Civil Rights Division's Immigrant and Employee Rights Section given new \"mission statement\" to investigate companies discriminating against U.S. workers fill Bloomberg Rights been replaced. Alberto previously that chief 2.0 Reuters reports major changes to the DOJ&#x27;s Civil Rights division. At least a dozen senior career attorneys have been reassigned and others have been encouraged to take a new round of deferred resignation offers. The new head of the division, Assistant Attorney General Harmeet Dhillon, has given each section within the division a new &quot;mission statement.&quot; The Immigrant and Employee Rights Section was told it should investigate companies that &quot;unlawfully discriminate against U.S. workers in favor of foreign visa workers.&quot; and reports Law Immigrant and Employee Rights Section Top Official Replaced at DOJ Immigrant Employee Rights Division for spot Workplace Enforcement policy will",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Workplace Enforcement",
+        "slug": "workplace-enforcement"
+      },
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-6"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Immigrant and Employee Rights Section",
+        "agency_slug": "immigrant-and-employee-rights-section"
+      },
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 5277,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-02-17",
+        "display_title": null,
+        "link_title": "Top Official Replaced at DOJ Immigrant Employee Rights Division",
+        "link": "https://news.bloomberglaw.com/business-and-practice/top-official-replaced-at-doj-immigrant-employee-rights-division",
+        "description_html": "",
+        "wagtaildoc_id": 15118,
+        "wagtaildoc_file": "documents/02.17.25_Top_Official_Replaced_at_DOJ_Immigrant_Employee_Rights_Division.pdf",
+        "wagtaildoc_title": "02.17.25 Top Official Replaced at DOJ Immigrant Employee Rights Division",
+        "file_size": 73699,
+        "file_hash": "028764cf670c631665b2e3a2d52b4e808ee95a74",
+        "slug": "021725-top-official-replaced-at-doj-immigrant-empl"
+      },
+      {
+        "policydocument_id": 6074,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2025-04-23",
+        "display_title": null,
+        "link_title": "2025.04.23_Reported: DOJ's Civil Rights Division's Immigrant and Employee Rights Section given new \"mission statement\" to investigate companies discriminating against U.S. workers",
+        "link": "https://www.reuters.com/world/us/us-justice-department-reassigns-about-dozen-civil-rights-attorneys-amid-shakeup-2025-04-22/",
+        "description_html": "<p data-block-key=\"34awm\"><i>Reuters</i> reports major changes to the DOJ&#x27;s Civil Rights division. At least a dozen senior career attorneys have been reassigned and others have been encouraged to take a new round of deferred resignation offers. The new head of the division, Assistant Attorney General Harmeet Dhillon, has given each section within the division a new &quot;mission statement.&quot; The Immigrant and Employee Rights Section was told it should investigate companies that &quot;unlawfully discriminate against U.S. workers in favor of foreign visa workers.&quot;</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20250423_reported-dojs-civil-rights-divisions-immi"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1426,
+      "title": "Reported: DOJ Fires EOIR Career Leadership",
+      "slug": "reported-doj-fires-4-top-immigration-court-career-civil-servants",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1541,
+      "title": "DOJ fires dozens of Immigration Judges",
+      "slug": "reported-justice-department-fired-20-immigration-judges",
+      "announced_date": "2025-02-15",
+      "effective_date": "2025-02-14",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.745412Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "page_ptr_id": 317,
+  "title": "EOIR reportedly plans to halt LOP",
+  "slug": "report-that-eoir-plans-to-terminate-the-legal-orientation-plan",
+  "url_path": "/home/policies/report-that-eoir-plans-to-terminate-the-legal-orientation-plan/",
+  "live": true,
+  "announced_date": "2018-04-11",
+  "effective_date": "2018-04-30",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>The Vera Institute, which is EOIR&#x27;s contractor for the Legal Orientation Program (LOP), reports that EOIR is planning to halt the program. The LOP is a program of EOIR&#x27;s Office of Legal Access Programs.</p><p></p><p>[ID #317]</p>",
+  "description_text": "The Vera Institute, which is EOIR's contractor for the Legal Orientation Program (LOP), reports that EOIR is planning to halt the program. The LOP is a program of EOIR's Office of Legal Access Programs.\n\n[ID #317]",
+  "search_document": "Vera which contractor EOIR reportedly plans to halt LOP Vera Institute Press Release: Statement on DOJ’s Decision to Halt Legal Orientation Program On April 25, 2018, the DOJ reverses its position, announcing that it will continue LOP while the department continues a review, rather than halt it altogether. The Legal Orientation Program, established in 2003, partners with non-profit organizations to provide individual and group presentations, workshops, and pro bono referral services to detained immigrants in removal proceedings immigration court Opening Statement of Attorney General Jeff Sessions Before the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies. EOIR generates its first statistical report claiming LOP is counterproductive. planning program. LOP Executive Office for Immigration Review The Office of Access White House Fact Sheet: Expanding Access to Legal Orientation AIC: DOJ Cuts Immigrants Access to Counsel in Latest Attack on Due Process Opening Statement of Attorney General Jeff Sessions Before the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies Institute, reports EOIR&#x27;s for is Orientation Legal EOIR: LOP Cohort Analysis, Phase II #317] that halt EOIR EOIR generates its second statistical report claiming LOP is counterproductive. Program Termination the Fact Sheet: Expanding Access to Legal Orientation (LOP), EOIR: LOP Cohort Analysis, Phase I Program Programs.[ID program to a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Program Termination",
+        "slug": "program-termination"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 795,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-04-10",
+        "display_title": "Vera Institute Press Release: Statement on DOJ’s Decision to Halt Legal Orientation Program",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 11798,
+        "wagtaildoc_file": "documents/Statement_on_DOJ_s_Decision_to_Halt_Legal_Orientation_Program_Vera_Institute_G8n77Pz.pdf",
+        "wagtaildoc_title": "Vera Institute Press Release: Statement on DOJ’s Decision to Halt Legal Orientation Program",
+        "file_size": 64719,
+        "file_hash": "cd2dc0b9669e2ba93470f4f4df1d899202b51dbb",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 796,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2014-09-30",
+        "display_title": "Fact Sheet: Expanding Access to Legal Orientation",
+        "link_title": "White House Fact Sheet: Expanding Access to Legal Orientation",
+        "link": "https://obamawhitehouse.archives.gov/the-press-office/2014/09/30/fact-sheet-expanding-access-legal-representation%20",
+        "description_html": "The Legal Orientation Program, established in 2003, partners with non-profit organizations to provide individual and group presentations, workshops, and pro bono referral services to detained immigrants in removal proceedings",
+        "wagtaildoc_id": 1696,
+        "wagtaildoc_file": "documents/Legal_Orientation_Program_Obama.pdf",
+        "wagtaildoc_title": "Fact Sheet: Expanding Access to Legal Orientation",
+        "file_size": 136549,
+        "file_hash": "2ace8584b5fa00ad4af0cca97315ce6ea76f688d",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 798,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2018-04-25",
+        "display_title": "Opening Statement of Attorney General Jeff Sessions Before the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies.",
+        "link_title": "Opening Statement of Attorney General Jeff Sessions Before the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies",
+        "link": "https://www.justice.gov/opa/speech/opening-statement-attorney-general-jeff-sessions-senate-appropriations-subcommittee",
+        "description_html": "On April 25, 2018, the DOJ reverses its position, announcing that it will continue LOP while the department continues a review, rather than halt it altogether.",
+        "wagtaildoc_id": 926,
+        "wagtaildoc_file": "documents/DOJ_Announcement_Suspension_of_LOP.pdf",
+        "wagtaildoc_title": "Opening Statement of Attorney General Jeff Sessions Before the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies.",
+        "file_size": 68052,
+        "file_hash": "8895a0101f67eecb141df56ecb2e511170d67b8d",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 799,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2018-09-05",
+        "display_title": "EOIR: LOP Cohort Analysis, Phase I",
+        "link_title": "EOIR: LOP Cohort Analysis, Phase I",
+        "link": "https://www.aila.org/File/DownloadEmbeddedFile/77291",
+        "description_html": "EOIR generates its first statistical report claiming LOP is counterproductive.",
+        "wagtaildoc_id": 12201,
+        "wagtaildoc_file": "documents/EOIR_-_LOP_Cohort_Analysis_Phase_I.pdf",
+        "wagtaildoc_title": "EOIR: LOP Cohort Analysis, Phase I",
+        "file_size": 1055460,
+        "file_hash": "6022278194e848d36de9ec2c5138453f1a6912c0",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 800,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-01-29",
+        "display_title": "EOIR: LOP Cohort Analysis, Phase II",
+        "link_title": "EOIR: LOP Cohort Analysis, Phase II",
+        "link": "https://www.justice.gov/eoir/file/1125621/download",
+        "description_html": "EOIR generates its second statistical report claiming LOP is counterproductive.",
+        "wagtaildoc_id": 12200,
+        "wagtaildoc_file": "documents/EOIR_-_LOP_Cohort_Analysis_Phase_II.pdf",
+        "wagtaildoc_title": "EOIR: LOP Cohort Analysis, Phase II",
+        "file_size": 157521,
+        "file_hash": "a83997bcda855a72ac5b407c1b138a9241acb373",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 797,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2018-04-11",
+        "display_title": "AIC: DOJ Cuts Immigrants Access to Counsel in Latest Attack on Due Process",
+        "link_title": "AIC: DOJ Cuts Immigrants Access to Counsel in Latest Attack on Due Process",
+        "link": "https://www.americanimmigrationcouncil.org/news/doj-cuts-immigrants%E2%80%99-access-counsel-latest-attack-due-process",
+        "description_html": "",
+        "wagtaildoc_id": 12198,
+        "wagtaildoc_file": "documents/AIC_-_DOJ_Cuts_Immigrants_Access_to_Counsel.pdf",
+        "wagtaildoc_title": "AIC: DOJ Cuts Immigrants Access to Counsel in Latest Attack on Due Process",
+        "file_size": 462142,
+        "file_hash": "3fa7bee94548712be1ec92a80df2246810799586",
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.845571Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

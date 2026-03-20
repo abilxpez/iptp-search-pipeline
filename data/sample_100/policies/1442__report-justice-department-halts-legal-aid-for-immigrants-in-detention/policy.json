@@ -1,0 +1,70 @@
+{
+  "page_ptr_id": 1442,
+  "title": "Report: Justice Department halts legal aid for immigrants in detention",
+  "slug": "report-justice-department-halts-legal-aid-for-immigrants-in-detention",
+  "url_path": "/home/policies/report-justice-department-halts-legal-aid-for-immigrants-in-detention/",
+  "live": false,
+  "announced_date": "2025-01-22",
+  "effective_date": "2025-01-22",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"azx8s\">The Justice Department has told legal service providers to stop work intended to help support immigrants, stripping away critical access for people in detention trying to navigate the tangled US immigration system. </p><p data-block-key=\"3ifd2\"></p><p data-block-key=\"bqsae\">Trump 2.0 [.   ] </p>",
+  "description_text": "The Justice Department has told legal service providers to stop work intended to help support immigrants, stripping away critical access for people in detention trying to navigate the tangled US immigration system.\n\nTrump 2.0 [. ]",
+  "search_document": "intended Other people immigration UNPUB - Report: Justice Department halts legal aid for immigrants in detention Interior [ID stop has #1442] the immigrants, detention providers navigate tangled Priscilla Alvarez X Post on Justice Department Action Reporting from CNN Corespondent Priscilla Alvarez about the Justice Department mandate, via X. trying legal critical stripping service for to US The Department legal services in 2.0 Justice help away work support system.Trump access told",
+  "filters": {
+    "administrative_actions": [],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Interior",
+        "slug": "interior"
+      },
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-6"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      }
+    ],
+    "status_tags": []
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 4854,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-01-22",
+        "display_title": null,
+        "link_title": "Priscilla Alvarez X Post on Justice Department Action",
+        "link": "https://x.com/priscialva/status/1882247935767011516/",
+        "description_html": "<p data-block-key=\"x2vif\">Reporting from CNN Corespondent Priscilla Alvarez about the Justice Department mandate, via X.</p>",
+        "wagtaildoc_id": 14651,
+        "wagtaildoc_file": "documents/2025.01.22_Reporting_on_Justice_Department_legal_aid_mandate.pdf",
+        "wagtaildoc_title": "Reporting on the Justice Department's order to halt legal aid to immigrants",
+        "file_size": 1203549,
+        "file_hash": "533f58f4ff6cbbb5ce764364f913e936f1b56c1b",
+        "slug": "reporting-on-the-justice-departments-order-to-halt"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.990410Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

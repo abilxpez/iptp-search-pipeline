@@ -1,0 +1,83 @@
+{
+  "page_ptr_id": 1836,
+  "title": "Federal judge in Oregon orders immediate release of asylum seeker from ICE detention",
+  "slug": "federal-judge-in-oregon-orders-immediate-release-of-asylum-seeker-from-ice-detention",
+  "url_path": "/home/policies/federal-judge-in-oregon-orders-immediate-release-of-asylum-seeker-from-ice-detention/",
+  "live": false,
+  "announced_date": "2025-07-01",
+  "effective_date": "2025-07-01",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"hnxte\"><i>The Oregonian</i> reports on the a federal judge&#x27;s order to the government that a 24-year-old asylum seeker from Mexico, Y-Z-L-H, who was arrested in the hallway of a Portland Immigration Court on June 5, 2025, be immediately released. Judge Michael H. Simon found that the asylum seeker was unlawfully detained, without justification, and that his detention was in violation of the APA. Judge Simon issued the order after a 90-minute hearing, with a written ruling to be issued next week.</p>",
+  "description_text": "The Oregonian reports on the a federal judge's order to the government that a 24-year-old asylum seeker from Mexico, Y-Z-L-H, who was arrested in the hallway of a Portland Immigration Court on June 5, 2025, be immediately released. Judge Michael H. Simon found that the asylum seeker was unlawfully detained, without justification, and that his detention was in violation of the APA. Judge Simon issued the order after a 90-minute hearing, with a written ruling to be issued next week.",
+  "search_document": "written arrested 1836] ICE U.S. Citizenship and Immigration Services Court after judge&#x27;s [ID from 24-year-old justification, detention 2025, ruling next Michael seeker was Oregonian and Other USCIS The released. H. 2.0 Immigration and Customs Enforcement the in order hearing, June asylum to violation APA. UNPUB: Federal judge in Oregon orders immediate release of asylum seeker from ICE detention unlawfully a Federal judge in Oregon orders immediate release of asylum seeker from ICE detention - The Oregonian that # 90-minute week.Trump detained, with reports Y-Z-L-H-, Mexico, Adjudication his Portland be hallway immediately Judge government issued who without on federal found of Simon Immigration 5,",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Adjudication",
+        "slug": "adjudication"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Immigration and Customs Enforcement",
+        "agency_slug": "immigration-and-customs-enforcement"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      },
+      {
+        "title": "In Litigation",
+        "slug": "in-litigation"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [],
+    "commentary": [
+      {
+        "policydocument_id": 6550,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2025-07-01",
+        "display_title": null,
+        "link_title": "Federal judge in Oregon orders immediate release of asylum seeker from ICE detention - The Oregonian",
+        "link": "https://www.oregonlive.com/crime/2025/07/federal-judge-in-oregon-orders-immediate-release-of-asylum-seeker-from-ice-detention.html",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "federal-judge-in-oregon-orders-immediate-release-o"
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.660810Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

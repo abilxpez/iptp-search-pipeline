@@ -1,0 +1,53 @@
+{
+  "page_ptr_id": 1055,
+  "title": "COVID-19: ICE reportedly resumes arrests after pausing due to pandemic",
+  "slug": "covid-19-ice-reportedly-resumes-arrests-after-pausing-due-pandemic",
+  "url_path": "/home/policies/covid-19-ice-reportedly-resumes-arrests-after-pausing-due-pandemic/",
+  "live": true,
+  "announced_date": "2020-09-12",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p data-block-key=\"2vjjl\">The New York Times reports that ICE agents made 300 arrests in Los Angeles. More than a thousand others were arrested in New York, Atlanta and Phoenix, as well as in cities in Colorado, Idaho, Montana, Nevada, New Jersey, Utah, and Wyoming. [ID #1055]</p>",
+  "description_text": "The New York Times reports that ICE agents made 300 arrests in Los Angeles. More than a thousand others were arrested in New York, Atlanta and Phoenix, as well as in cities in Colorado, Idaho, Montana, Nevada, New Jersey, Utah, and Wyoming. [ID #1055]",
+  "search_document": "Times covid-19 300 thousand #1055] Angeles. Jersey, [ID raid than York in and Wyoming. as New Colorado, that Idaho, Utah, ICE agents Phoenix, Atlanta Los Change in Practice reports arrested a COVID-19: ICE reportedly resumes arrests after pausing due to pandemic coronavirus, covid York, More well cities Nevada, others Montana, were made arrests The",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1107,
+      "title": "ICE modifies enforcement efforts during COVID-19",
+      "slug": "ice-modifies-enforcement-efforts-during-covid-19",
+      "announced_date": "2020-09-25",
+      "effective_date": "2020-09-25",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.757862Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

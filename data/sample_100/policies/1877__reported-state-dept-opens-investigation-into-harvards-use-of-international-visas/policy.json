@@ -1,0 +1,113 @@
+{
+  "page_ptr_id": 1877,
+  "title": "DOS opens new investigation into Harvard’s use of international visas",
+  "slug": "reported-state-dept-opens-investigation-into-harvards-use-of-international-visas",
+  "url_path": "/home/policies/reported-state-dept-opens-investigation-into-harvards-use-of-international-visas/",
+  "live": true,
+  "announced_date": "2025-07-23",
+  "effective_date": "2025-07-23",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"gou3k\">The New York Times reports that the Department of State has opened a new investigation into Harvard University’s compliance with the Student and Exchange Visitor Program (SEVP). Secretary of State Marco Rubio informed Harvard of the investigation in a letter. Rubio did not refer to any specific allegation of wrongdoing but claimed that the investigation was necessary “to assist the department in meeting its policy objectives.” Rubio gave Harvard a one-week deadline to produce university records related to the student visa program and stated that the Department of State plans to interview university staff and visa holders.</p><p data-block-key=\"a8o3h\">A State Department press release confirmed initiation of the investigation.</p><p data-block-key=\"osqf\">Trump 2.0 [ID #1877]</p>",
+  "description_text": "The New York Times reports that the Department of State has opened a new investigation into Harvard University’s compliance with the Student and Exchange Visitor Program (SEVP). Secretary of State Marco Rubio informed Harvard of the investigation in a letter. Rubio did not refer to any specific allegation of wrongdoing but claimed that the investigation was necessary “to assist the department in meeting its policy objectives.” Rubio gave Harvard a one-week deadline to produce university records related to the student visa program and stated that the Department of State plans to interview university staff and visa holders.\n\nA State Department press release confirmed initiation of the investigation.\n\nTrump 2.0 [ID #1877]",
+  "search_document": "has wrongdoing assist Program student allegation in a confirmed Other Rubio Marco to staff student visa letter. into not did plans claimed program specific one-week Department York DOS - Investigation of Harvard University Participation in the Exchange Visitor Program initiation new (SEVP). DOS opens new investigation into Harvard’s use of international visas University’s informed meeting opened Visitor any interview of policy The deadline investigation release reports “to gave visa compliance the and Exchange was investigation.Trump Secretary refer Times press that New #1877] stated holders.A [ID its produce 2025.07.23 Reported: State Dept. Opens Investigation Into Harvard’s Use of International Visas - NYT university Harvard Student necessary records with objectives.” related but department 2.0 State",
+  "filters": {
+    "administrative_actions": [],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-3"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6743,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-07-23",
+        "display_title": null,
+        "link_title": "2025.07.23 Reported: State Dept. Opens Investigation Into Harvard’s Use of International Visas - NYT",
+        "link": "https://www.nytimes.com/2025/07/23/us/politics/state-department-trump-harvard.html",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20250723-reported-state-dept-opens-investigation-i"
+      },
+      {
+        "policydocument_id": 6784,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-07-23",
+        "display_title": null,
+        "link_title": "DOS - Investigation of Harvard University Participation in the Exchange Visitor Program",
+        "link": "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/investigation-of-harvard-university-participation-in-the-exchange-visitor-program",
+        "description_html": "",
+        "wagtaildoc_id": 16430,
+        "wagtaildoc_file": "documents/2025.07.23_DOS_-_Investigation_of_Harvard_Unviversity_Participation_in_SEVP.pdf",
+        "wagtaildoc_title": "2025.07.23 DOS - Investigation of Harvard University Participation in the Exchange Visitor Program",
+        "file_size": 797544,
+        "file_hash": "3a386023445b1b9a0864454330bcb3d6750cd123",
+        "slug": "20250723-dos-investigation-of-harvard-university-p"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1693,
+      "title": "DHS blocks Harvard from enrolling international students",
+      "slug": "dhs-threatens-to-block-harvard-from-enrolling-international-students-unless-it-shares-student-body-records",
+      "announced_date": "2025-05-22",
+      "effective_date": "2025-05-26",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 1797,
+      "title": "Proclamation 10948: Enhancing National Security by Addressing Risks at Harvard University",
+      "slug": "proclamation-enhancing-national-security-by-addressing-risks-at-harvard-university",
+      "announced_date": "2025-06-04",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1781,
+      "title": "DOS orders enhanced vetting for all Harvard visa applicants",
+      "slug": "state-department-orders-enhanced-vetting-for-all-harvard-visa-applicants",
+      "announced_date": "2025-05-30",
+      "effective_date": "2025-05-30",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.780490Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

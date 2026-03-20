@@ -1,0 +1,106 @@
+{
+  "page_ptr_id": 1210,
+  "title": "USCIS provides new edition of Form N-644, Application for Posthumous Citizenship",
+  "slug": "uscis-provides-new-edition-form-n-644-application-posthumous-citizenship",
+  "url_path": "/home/policies/uscis-provides-new-edition-form-n-644-application-posthumous-citizenship/",
+  "live": true,
+  "announced_date": "2020-11-30",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>USCIS announces 11/10/20 edition of Form N-644, Application for Posthumous Citizenship.</p><p>[ID #1210]</p>",
+  "description_text": "USCIS announces 11/10/20 edition of Form N-644, Application for Posthumous Citizenship.\n\n[ID #1210]",
+  "search_document": "Application Naturalization 11/10/20 announces N-644, citizenship USCIS for edition U.S. Citizenship and Immigration Services Posthumous Form Citizenship.[ID USCIS Forms Updates N-644, Application for Posthumous Citizenship Forms and Information Collection 08/05/15 edition of Form N-644 USCIS provides new edition of Form N-644, Application for Posthumous Citizenship of #1210] citizen, u.s. citizen, u.s. citizens",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Naturalization",
+        "slug": "naturalization"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 3085,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-11-30",
+        "display_title": null,
+        "link_title": "USCIS Forms Updates",
+        "link": "https://www.uscis.gov/forms/forms-updates",
+        "description_html": "",
+        "wagtaildoc_id": 13114,
+        "wagtaildoc_file": "documents/20011661r.pdf",
+        "wagtaildoc_title": "USCIS Forms Updates",
+        "file_size": 635358,
+        "file_hash": "c3a4d562eabbf0ca0b269d1ff02c0712026b83a8",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2968,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": "N-644, Application for Posthumous Citizenship",
+        "link": "http://uscis.gov/n-644",
+        "description_html": "",
+        "wagtaildoc_id": 12999,
+        "wagtaildoc_file": "documents/n-644.pdf",
+        "wagtaildoc_title": "N-644, Application for Posthumous Citizenship",
+        "file_size": 136759,
+        "file_hash": "c828cf7c64780b1b0e257dc1622e65b45a1534c0",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 3086,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p>08/05/15 edition of Form N-644</p>",
+        "wagtaildoc_id": 13115,
+        "wagtaildoc_file": "documents/n-644_1.pdf",
+        "wagtaildoc_title": "08/05/15 edition of Form N-644",
+        "file_size": 151177,
+        "file_hash": "250278ab4d532e4c676e8cbd9dd08eb751026077",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.704353Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

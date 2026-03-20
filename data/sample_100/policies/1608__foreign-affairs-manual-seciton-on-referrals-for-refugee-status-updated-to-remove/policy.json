@@ -1,0 +1,102 @@
+{
+  "page_ptr_id": 1608,
+  "title": "Foreign Affairs Manual section on Referrals for Refugee Status updated to remove references to transgender and intersex individuals",
+  "slug": "foreign-affairs-manual-seciton-on-referrals-for-refugee-status-updated-to-remove-references-to-transgender-and-interex-individuals",
+  "url_path": "/home/policies/foreign-affairs-manual-seciton-on-referrals-for-refugee-status-updated-to-remove-references-to-transgender-and-interex-individuals/",
+  "live": true,
+  "announced_date": null,
+  "effective_date": "2025-02-26",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"82arf\">DOS updated 9 Foreign Affairs Manual 203.4-2(b) to remove references to transgender and intersex individuals in its examples of people a U.S. embassy may refer for refugee-status consideration. The change also replaces references to &quot;gender&quot; with &quot;sex.&quot;</p><p data-block-key=\"1bb5h\"></p><p data-block-key=\"3f260\">Trump 2.0 [ID: #1608]</p>",
+  "description_text": "DOS updated 9 Foreign Affairs Manual 203.4-2(b) to remove references to transgender and intersex individuals in its examples of people a U.S. embassy may refer for refugee-status consideration. The change also replaces references to \"gender\" with \"sex.\"\n\nTrump 2.0 [ID: #1608]",
+  "search_document": "examples of also #1608] Other Affairs change consideration. people in &quot;gender&quot; Foreign 9 DOS 203.4-2(b) U.S. may individuals its with embassy refer State Department 9 FAM 203.4 Referrals for Refugee Status 2.0 to and Change in Practice intersex replaces transgender [ID: a updated The &quot;sex.&quot;Trump for remove Manual references refugee-status Foreign Affairs Manual section on Referrals for Refugee Status updated to remove references to transgender and intersex individuals",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 5593,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-02-26",
+        "display_title": null,
+        "link_title": "State Department 9 FAM 203.4 Referrals for Refugee Status",
+        "link": "https://fam.state.gov/FAM/09FAM/09FAM020304.html",
+        "description_html": "",
+        "wagtaildoc_id": 15454,
+        "wagtaildoc_file": "documents/2025.02.26_State_Department_9_FAM_203.4_Referrals_for_Refugee_Status.pdf",
+        "wagtaildoc_title": "2025.02.26 State Department 9 FAM 203.4 Referrals for Refugee Status",
+        "file_size": 86364,
+        "file_hash": "346fdaebedb6e48a37bb7c34bbc311c17976bb89",
+        "slug": "state-department-9-fam-2034-referrals-for-refugee"
+      },
+      {
+        "policydocument_id": 5606,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2024-05-29",
+        "display_title": null,
+        "link_title": "State Department 9 FAM 203.4 Referrals for Refugee Status",
+        "link": "https://web.archive.org/web/20241219025244/https://fam.state.gov/FAM/09FAM/09FAM020304.html",
+        "description_html": "",
+        "wagtaildoc_id": 15455,
+        "wagtaildoc_file": "documents/2024.05.29_State_Department_9_FAM_203.4_Referrals_for_Refugee_Status.pdf",
+        "wagtaildoc_title": "2024.05.29 State Department 9 FAM 203.4 Referrals for Refugee Status",
+        "file_size": 89605,
+        "file_hash": "12f537266532f15d623065680a6a5679df3ecc59",
+        "slug": "20240529-state-department-9-fam-2034-referrals-for"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1421,
+      "title": "EO 14168 § 3(d) directs DOS and DHS to require that government-issued identification documents reflect \"immutable biological\" sex",
+      "slug": "eo-defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government-3d-direct-dos-and-dhs-to-require-that-government-issued-identification-documents-reflect-immutable-biological-sex",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1510,
+      "title": "EO 14201 § 4(c) directs DOS and DHS to review entry of transgender athletes",
+      "slug": "eo-potus-orders-state-and-dhs-to-review-visas-of-transgender-athletes-under-ina",
+      "announced_date": "2025-02-05",
+      "effective_date": "2025-02-05",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.949076Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

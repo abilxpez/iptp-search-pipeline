@@ -1,0 +1,86 @@
+{
+  "page_ptr_id": 884,
+  "title": "EOIR releases immigration court statistics through Q2 of FY18",
+  "slug": "eoir-releases-court-statistics-in-transparency-initiative-2",
+  "url_path": "/home/policies/eoir-releases-court-statistics-in-transparency-initiative-2/",
+  "live": true,
+  "announced_date": "2018-05-09",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>EOIR released immigration court statistics through the first two quarters of FY2018. It states that release of certain immigration court statistics is the first step in an effort to increase transparency into the immigration court system by releasing immigration court data on a recurring basis.</p><p>[ID #884]</p>",
+  "description_text": "EOIR released immigration court statistics through the first two quarters of FY2018. It states that release of certain immigration court statistics is the first step in an effort to increase transparency into the immigration court system by releasing immigration court data on a recurring basis.\n\n[ID #884]",
+  "search_document": "Asylum, Withholding and CAT Data and Reports states immigration step in pending cases DOJ Press Release: Executive Office for Immigration Review Releases Court Statistics, Announces Transparency Initiative Executive Office for Immigration Review released FY2018. into release of on effort Minors by #884] It an system releasing is through statistics certain court that EOIR the data EOIR releases immigration court statistics through Q2 of FY18 first increase recurring basis.[ID two asylum quarters to transparency a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Asylum, Withholding and CAT",
+        "slug": "asylum-withholding-and-cat"
+      },
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Minors",
+        "slug": "minors"
+      },
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1998,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-05-09",
+        "display_title": "DOJ Press Release: Executive Office for Immigration Review Releases Court Statistics, Announces Transparency Initiative",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1115,
+        "wagtaildoc_file": "documents/EOIR_Court_Statistics_Announces_Transparency_Initiative.pdf",
+        "wagtaildoc_title": "DOJ Press Release: Executive Office for Immigration Review Releases Court Statistics, Announces Transparency Initiative",
+        "file_size": 114123,
+        "file_hash": "00ea1e9989990a991112cbcaccb224ea30c1e7bd",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.838057Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

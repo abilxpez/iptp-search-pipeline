@@ -1,0 +1,90 @@
+{
+  "page_ptr_id": 1095,
+  "title": "DOS announces changes to publicly available refugee admissions data",
+  "slug": "dos-announces-changes-publicly-available-refugee-admissions-data",
+  "url_path": "/home/policies/dos-announces-changes-publicly-available-refugee-admissions-data/",
+  "live": true,
+  "announced_date": "2020-09-25",
+  "effective_date": "2020-10-09",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>Department of State announces that because the Bureau of Populations, Refugees and Migration (PRM) is migrating its Refugee Processing Center case processing system to a new IT system, certain publicly available refugee admissions data reports will no longer be available on <a href=\"http://www.wrapsnet.org/\">www.wrapsnet.org</a> effective 10/9/20, at 5:00 pm (ET). [ID #1095]</p>",
+  "description_text": "Department of State announces that because the Bureau of Populations, Refugees and Migration (PRM) is migrating its Refugee Processing Center case processing system to a new IT system, certain publicly available refugee admissions data reports will no longer be available on www.wrapsnet.org effective 10/9/20, at 5:00 pm (ET). [ID #1095]",
+  "search_document": "[ID #1095] be because Data and Reports Migration of Refugee Case Processing System Media Note Processing new publicly and (ET). at Center DOS announces changes to publicly available refugee admissions data of available Migration on Department admissions announces (PRM) Prior to this change, the following reports were publicly available on www.wrapsnet.org: Top 10 Languages Spoken by Arrived Refugees, Map Arrivals by State, Cumulative Arrivals by State for Refugees and SIV Reception and Placement (R&amp;P) Recipients – Afghan, Cumulative Arrivals by State for Refugees and SIV Reception and Placement (R&amp;P) Recipients – Iraqi, PRM Admissions Graph, and all interactive reports. PRM longer system reports Refugees is www.wrapsnet.org Populations, 10/9/20, State PRM announces changes to publicly available refugee admissions data will Bureau certain case Bureau of Population, Refugees, and Migration that its IT 5:00 pm effective the processing system, refugee data no migrating to Refugee a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Refugees",
+        "slug": "refugees"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Population, Refugees, and Migration",
+        "agency_slug": "bureau-of-population-refugees-and-migration"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2557,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-09-25",
+        "display_title": "PRM announces changes to publicly available refugee admissions data",
+        "link_title": "Migration of Refugee Case Processing System Media Note",
+        "link": "https://www.state.gov/migration-of-refugee-case-processing-system/",
+        "description_html": "",
+        "wagtaildoc_id": 12602,
+        "wagtaildoc_file": "documents/2020.09.25_Migration_of_Refugee_Case_Processing_System_Media_Note.pdf",
+        "wagtaildoc_title": "2020.09.25 Migration of Refugee Case Processing System Media Note",
+        "file_size": 123539,
+        "file_hash": "4ff1897e8c2bba40b67f3c9abe74f6917766dd4b",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2695,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p>Prior to this change, the following reports were publicly available on <a href=\"http://www.wrapsnet.org/\">www.wrapsnet.org</a>: Top 10 Languages Spoken by Arrived Refugees, Map Arrivals by State, Cumulative Arrivals by State for Refugees and SIV Reception and Placement (R&amp;P) Recipients – Afghan, Cumulative Arrivals by State for Refugees and SIV Reception and Placement (R&amp;P) Recipients – Iraqi, PRM Admissions Graph, and all interactive reports.</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.875663Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

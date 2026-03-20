@@ -1,0 +1,134 @@
+{
+  "page_ptr_id": 895,
+  "title": "DOS proposed revisions to Form DS-7655, Iraqi Citizens and Nationals Employed by Federal Contractors and Grantees",
+  "slug": "department-of-state-gives-notice-of-information-collection-proposed-for-iraqi-citizensnationals-employed-by-federal-contractorsgrantees",
+  "url_path": "/home/policies/department-of-state-gives-notice-of-information-collection-proposed-for-iraqi-citizensnationals-employed-by-federal-contractorsgrantees/",
+  "live": true,
+  "announced_date": "2018-06-14",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"1ja1h\">DOS is requesting comments on revisions to Form DS-7655, Iraqi Citizens and Nationals Employed by Federal Contractors and Grantees. Among the proposed changes include changing the title of the last section to “Confidentiality Statement and Paperwork Reduction Act Statements.” Form DS-7655 is used to verify the employment of Iraqi citizens and nationals for the processing and adjudication of refugee, asylum, special immigrant visa, and other immigration claims and applications. The format for compiling the information will be the DOS&#x27;s myData application. Contracting officers and Grants officers will distribute the DS–7655 by email to contractors, grantees and cooperative agreement partners under their authority. [ID #895]</p>",
+  "description_text": "DOS is requesting comments on revisions to Form DS-7655, Iraqi Citizens and Nationals Employed by Federal Contractors and Grantees. Among the proposed changes include changing the title of the last section to “Confidentiality Statement and Paperwork Reduction Act Statements.” Form DS-7655 is used to verify the employment of Iraqi citizens and nationals for the processing and adjudication of refugee, asylum, special immigrant visa, and other immigration claims and applications. The format for compiling the information will be the DOS's myData application. Contracting officers and Grants officers will distribute the DS–7655 by email to contractors, grantees and cooperative agreement partners under their authority. [ID #895]",
+  "search_document": "Forms and Information Collection email nationals #895] information include format application. Contractors Contracting their Act used authority. special verify claims Supporting Statement Submitted to OMB OMB approves discontinuing this information collection. be DS-7655, Statements.” is the Form under OMB approves discontinuing this information collect request refugee, changes will immigration DS-7655 Information Collection Withdrawn Refugees other for to Asylum, Withholding and CAT Special Immigrant iraq applications. cooperative visa, asylum, citizens Nationals Employed partners Grants comments DOS&#x27;s grantees myData The proposed revisions to this information collection are withdrawn. changing and agreement last contractors, requesting Grantees. section “Confidentiality Other Statement Federal The DOS proposed revisions to Form DS-7655, Iraqi Citizens and Nationals Employed by Federal Contractors and Grantees Reduction DS–7655 on [ID by DOS Federal Register: 60-Day Notice of Proposed Information Collection: Iraqi Citizens and Nationals Employed by U.S. Federal Contractors and Grantees proposed officers title ds-7655 revisions processing Supporting statement submitted to OMB. employment adjudication distribute immigrant Iraqi compiling Citizens Among REVIEWED Paperwork of",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Asylum, Withholding and CAT",
+        "slug": "asylum-withholding-and-cat"
+      },
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Refugees",
+        "slug": "refugees"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Special Immigrant",
+        "slug": "special-immigrant"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Rescinded",
+        "slug": "rescinded"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2027,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-06-14",
+        "display_title": "Federal Register: 60-Day Notice of Proposed Information Collection: Iraqi Citizens and Nationals Employed by U.S. Federal Contractors and Grantees",
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 222,
+        "wagtaildoc_file": "documents/60_day_notice_of_proposed_info_collection_Dept_of_State.pdf",
+        "wagtaildoc_title": "Federal Register: 60-Day Notice of Proposed Information Collection: Iraqi Citizens and Nationals Employed by U.S. Federal Contractors and Grantees",
+        "file_size": 190355,
+        "file_hash": "3192351a24e054d75e6433e27f65d1a30558f589",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2028,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": "Supporting Statement Submitted to OMB",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"htnrb\">Supporting statement submitted to OMB.</p>",
+        "wagtaildoc_id": 12325,
+        "wagtaildoc_file": "documents/FINAL_-__30_day_Support_Statement_1.pdf",
+        "wagtaildoc_title": "Supporting Statement Submitted to OMB",
+        "file_size": 81067,
+        "file_hash": "82b4dd067960a3dad1ace64c7108b2d29ea876cb",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2029,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-03-27",
+        "display_title": "Information Collection Withdrawn",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"xaer0\">The proposed revisions to this information collection are withdrawn.</p>",
+        "wagtaildoc_id": 12324,
+        "wagtaildoc_file": "documents/PRA_Search_Results_k2O0P80.pdf",
+        "wagtaildoc_title": "Information Collection Withdrawn",
+        "file_size": 148011,
+        "file_hash": "61de39688d8aa576dc24a12f1a81ab1539af2ea6",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2030,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-03-28",
+        "display_title": "OMB approves discontinuing this information collect request",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"y3xr4\">OMB approves discontinuing this information collection.</p>",
+        "wagtaildoc_id": 12599,
+        "wagtaildoc_file": "documents/201512-1405-001_297243.pdf",
+        "wagtaildoc_title": "OMB approves discontinuing this information collect request",
+        "file_size": 37439,
+        "file_hash": "d28ed9376543eca3c320de4daa27286f74b43799",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.891167Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "page_ptr_id": 2107,
+  "title": "Reported: Veterans Affairs to share immigration data about non-citizen workers with other agencies",
+  "slug": "reported-va-to-share-immigration-data-about-non-citizen-workers-with-other-agencies",
+  "url_path": "/home/policies/reported-va-to-share-immigration-data-about-non-citizen-workers-with-other-agencies/",
+  "live": true,
+  "announced_date": "2025-12-03",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"7898u\"><i>The Guardian</i> reports that the Department of Veterans Affairs (VA) is creating an internal database of non-U.S. citizens &quot;employed or affiliated&quot; with the department, including full-time and part-time employees, contractors, health professional trainees, and volunteers. A VA spokesperson stated that the &quot;VA will share any adverse findings with the appropriate agencies to ensure anyone who is not authorized to be in the US is dealt with accordingly.&quot; As explanation, the &quot;VA is required by federal law to continuously vet all employees and affiliates . . . to ensure they meet the federal government’s trusted workforce standards.”</p><p data-block-key=\"7613v\">VA chief of staff Christopher Syrek issued a memo on November 25, 2025, tasking the Office of Operations, Security, and Preparedness to provide the VA Secretary with a report of all non-U.S. citizens by December 30, 2025.</p><p data-block-key=\"ekujc\">Trump 2.0 [ID #2107]</p>",
+  "description_text": "The Guardian reports that the Department of Veterans Affairs (VA) is creating an internal database of non-U.S. citizens \"employed or affiliated\" with the department, including full-time and part-time employees, contractors, health professional trainees, and volunteers. A VA spokesperson stated that the \"VA will share any adverse findings with the appropriate agencies to ensure anyone who is not authorized to be in the US is dealt with accordingly.\" As explanation, the \"VA is required by federal law to continuously vet all employees and affiliates . . . to ensure they meet the federal government’s trusted workforce standards.”\n\nVA chief of staff Christopher Syrek issued a memo on November 25, 2025, tasking the Office of Operations, Security, and Preparedness to provide the VA Secretary with a report of all non-U.S. citizens by December 30, 2025.\n\nTrump 2.0 [ID #2107]",
+  "search_document": "a 2025.Trump report employees, vet 30, to department, authorized federal workforce Reported: Veterans Affairs to share immigration data about non-citizen workers with other agencies stated Syrek full-time employees non-U.S. trusted explanation, who agencies internal &quot;VA or appropriate memo . law November the Preparedness anyone 2025, continuously including affiliates Agency Directive Fifty-five members of Congress sent a letter to Doug Collins, Secretary of the Department of Veterans Affairs, and Kristi Noem, Secretary of the Department of Homeland Security, objecting to the creation of a database of non-U.S. citizens employed or affiliated with the VA. The letter expresses concern that the database will &quot;stifle political dissent and suppress free speech through baseless threats to immigrants&quot;; exacerbate the shortage of healthcare providers for veterans; risk &quot;serious diplomatic consequences for countries where veterans reside and receive VA care&quot;; and lead to &quot;unlawful imprisonment or deportation of veterans who served our country and continued their service at VA.&quot;The letter demands that the VA and DHS provide Congress with a copy of the memo outlining the planned database as first reported in The Guardian, among other records, and answer a list of questions regarding the data collection. and will Department 2025.12.03 Reported: VA to share immigration data about non-citizen workers with other agencies - The Guardian on health not they VA accordingly.&quot; be Workplace Enforcement As (VA) Office government’s contractors, 25, Secretary meet any December The required Affairs Other spokesperson in affiliated&quot; ensure chief creating database provide #2107] A trainees, findings is share that Christopher all standards.”VA 2025.12.12 Letter from members of Congress opposing VA's proposed noncitizen database citizens an [ID Operations, Veterans of part-time with 2.0 reports US staff Security, volunteers. tasking by professional &quot;employed dealt issued Guardian adverse",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Workplace Enforcement",
+        "slug": "workplace-enforcement"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-6"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7911,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-12-03",
+        "display_title": null,
+        "link_title": "2025.12.03 Reported: VA to share immigration data about non-citizen workers with other agencies - The Guardian",
+        "link": "https://www.theguardian.com/us-news/2025/dec/03/us-veterans-affairs-database-immigration",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20251203-reported-va-to-share-immigration-data-abo"
+      },
+      {
+        "policydocument_id": 8126,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2025-12-12",
+        "display_title": null,
+        "link_title": "2025.12.12 Letter from members of Congress opposing VA's proposed noncitizen database",
+        "link": "https://ramirez.house.gov/sites/evo-subsites/ramirez.house.gov/files/evo-media-document/letter-opposing-va-s-proposed-non-citizen-database-version-2-12-12-2025-10-43-am.pdf",
+        "description_html": "<p data-block-key=\"ffqo2\">Fifty-five members of Congress sent a letter to Doug Collins, Secretary of the Department of Veterans Affairs, and Kristi Noem, Secretary of the Department of Homeland Security, objecting to the creation of a database of non-U.S. citizens employed or affiliated with the VA. The letter expresses concern that the database will &quot;stifle political dissent and suppress free speech through baseless threats to immigrants&quot;; exacerbate the shortage of healthcare providers for veterans; risk &quot;serious diplomatic consequences for countries where veterans reside and receive VA care&quot;; and lead to &quot;unlawful imprisonment or deportation of veterans who served our country and continued their service at VA.&quot;</p><p data-block-key=\"783n7\">The letter demands that the VA and DHS provide Congress with a copy of the memo outlining the planned database as first reported in <i>The Guardian,</i> among other records, and answer a list of questions regarding the data collection.</p>",
+        "wagtaildoc_id": 17533,
+        "wagtaildoc_file": "documents/2025.12.12_Letter_from_members_of_Congress_opposing_VAs_proposed_noncitizen_database.pdf",
+        "wagtaildoc_title": "2025.12.12 Letter from members of Congress opposing VA's proposed noncitizen database",
+        "file_size": 1345704,
+        "file_hash": "6c4b5b5ad5fb27fa3078b0fcff839fad90dc973d",
+        "slug": "20251212-letter-from-members-of-congress-opposing"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 2080,
+      "title": "Reported: Veterans Affairs ends contract with ICE for processing detainee health services claims",
+      "slug": "ice-ends-contract-with-va-for-processing-detainee-health-services-claims",
+      "announced_date": "2025-10-03",
+      "effective_date": "2025-10-03",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:41.026413Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

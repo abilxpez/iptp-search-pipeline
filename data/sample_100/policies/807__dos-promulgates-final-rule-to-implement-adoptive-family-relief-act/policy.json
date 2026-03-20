@@ -1,0 +1,112 @@
+{
+  "page_ptr_id": 807,
+  "title": "State Department issues final rule implementing Adoptive Family Relief Act",
+  "slug": "dos-promulgates-final-rule-to-implement-adoptive-family-relief-act",
+  "url_path": "/home/policies/dos-promulgates-final-rule-to-implement-adoptive-family-relief-act/",
+  "live": true,
+  "announced_date": "2019-07-23",
+  "effective_date": "2019-07-23",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>The State Department promulgates a final rule “to implement the Adoptive Family Relief Act, which allows for the waiver or refund of fees relating to the renewal or replacement of an immigrant visa for certain already-adopted children where the adopted child was unable to use his or her initially issued immigrant visa as a direct result of extraordinary circumstances. The Department is also amending its regulations regarding immigrant visa application procedures to cover new technologies, application forms, and procedures that have been implemented in recent years.&quot;</p><p>[ID #807]</p>",
+  "description_text": "The State Department promulgates a final rule “to implement the Adoptive Family Relief Act, which allows for the waiver or refund of fees relating to the renewal or replacement of an immigrant visa for certain already-adopted children where the adopted child was unable to use his or her initially issued immigrant visa as a direct result of extraordinary circumstances. The Department is also amending its regulations regarding immigrant visa application procedures to cover new technologies, application forms, and procedures that have been implemented in recent years.\"\n\n[ID #807]",
+  "search_document": "unable which also implemented circumstances. new and extraordinary recent The was rule direct Minors children child #807] implement an application for allows Rule amending State 84 FR 35297 (July 23, 2019) refund final where that its State Department issues final rule implementing Adoptive Family Relief Act relating Act, immigrant Family fees have or replacement years.&quot;[ID Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates—Visa Services Fee Changes forms, adopted in renewal her 22 C.F.R. §§ 42.71-42.74 (2017) issued Other regarding technologies, procedures of been as initially Department waiver cover is promulgates already-adopted Adoptive certain use visa result Relief the “to his regulations 22 CFR 22.1 (Schedule of Fees) (2017) to a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Minors",
+        "slug": "minors"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1817,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-07-23",
+        "display_title": "Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates—Visa Services Fee Changes",
+        "link_title": "84 FR 35297 (July 23, 2019)",
+        "link": "https://www.federalregister.gov/documents/2019/07/23/2019-14195/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
+        "description_html": "",
+        "wagtaildoc_id": 2253,
+        "wagtaildoc_file": "documents/Schedule_of_Fees_for_Consular_Services_Department_of_State_and_Overseas_Embass_0kIivTh.pdf",
+        "wagtaildoc_title": "Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates—Visa Services Fee Changes",
+        "file_size": 320261,
+        "file_hash": "978b920bfb82480f77482a5a61b3bcf44af51448",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1819,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2015-11-20",
+        "display_title": "22 CFR 22.1 (Schedule of Fees) (2017)",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 202,
+        "wagtaildoc_file": "documents/22_CFR_22.1_2017_-_Schedule_of_fees.pdf",
+        "wagtaildoc_title": "22 CFR 22.1 (Schedule of Fees) (2017)",
+        "file_size": 205344,
+        "file_hash": "34db1d4ac60c5787c03a2466fb99d626d123945f",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1818,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2019-07-23",
+        "display_title": "22 C.F.R. §§ 42.71-42.74 (2017)",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 210,
+        "wagtaildoc_file": "documents/22_CFR_42.71-74_2017_.pdf",
+        "wagtaildoc_title": "22 C.F.R. §§ 42.71-42.74 (2017)",
+        "file_size": 318724,
+        "file_hash": "344c37b998a4e471f3411f252e7e716b8823f820",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:41.034628Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

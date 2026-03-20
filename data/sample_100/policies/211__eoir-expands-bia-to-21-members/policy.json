@@ -1,0 +1,187 @@
+{
+  "page_ptr_id": 211,
+  "title": "EOIR expands BIA to 21 judges",
+  "slug": "eoir-expands-bia-to-21-members",
+  "url_path": "/home/policies/eoir-expands-bia-to-21-members/",
+  "live": true,
+  "announced_date": "2018-02-27",
+  "effective_date": "2018-02-27",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p data-block-key=\"j6b96\">EOIR adds four new Board Member positions to the BIA, raising the total from 17 to 21 judges. The BIA had recently expanded in 2015, raising the total then from 15 to 17.</p><p data-block-key=\"exa7l\"></p><p data-block-key=\"p7f3q\">[ID #211]</p>",
+  "description_text": "EOIR adds four new Board Member positions to the BIA, raising the total from 17 to 21 judges. The BIA had recently expanded in 2015, raising the total then from 15 to 17.\n\n[ID #211]",
+  "search_document": "The then Board the four 21 raising BIA Mother Jones: The Trump Administration’s Court-Packing Scheme Fills Immigration Appeals Board With Hardliners EOIR expands BIA to 21 judges Executive Office for Immigration Review In an interim rule, EOIR added two more Board Member positions to the BIA, raising the total from 21 to 23 judges. Combined with the 2018 expansion, the two rules result in six appellate judge positions being created and appointed by the Trump administration. EOIR Rule Expanding the Size of the Board of Immigration Appeals (2018) San Fransisco Chronicle:  AG William Barr promotes immigration judges with high asylum rates BIA, to total adds judges. Expanding the Size of the Board of Immigration Appeals (2015) had EOIR Interim Rule: Expanding the Size of the Board of Immigration Appeals 17.[ID BIA expands from 15 to 17 Board Members. positions 17 #211] Board of Immigration Appeals: Composition of Board and Temporary Board Members Member board of immigration appeals Expanding the Size of the Board of Immigration Appeals bia recently in On April 2, 2024, the DOJ published a final rule expanding the Board of Immigration Appeals by adding five Board member positions. Given the expansion of the Board to 23 members in 2021, this Biden administration policy thereby expands the Board to 28 members. Trump Admin To Nearly Halve Immigration Appeals Board from new 2015, Law 360 reports that the Executive Office for Immigration Review (EOIR) has moved to shrink the size of the Board of Immigration Appeals (BIA) from 28 to 15 members. expanded BIA expands from 11 to 15 Board Members. 15",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 4519,
+        "document_type": "Biden Administration Action",
+        "document_type_slug": "biden-administration-policy",
+        "date": "2024-04-02",
+        "display_title": null,
+        "link_title": "Expanding the Size of the Board of Immigration Appeals",
+        "link": "https://www.federalregister.gov/documents/2024/04/02/2024-06929/expanding-the-size-of-the-board-of-immigration-appeals",
+        "description_html": "<p data-block-key=\"3h8ka\">On April 2, 2024, the DOJ published a final rule expanding the Board of Immigration Appeals by adding five Board member positions. Given the expansion of the Board to 23 members in 2021, this Biden administration policy thereby expands the Board to 28 members.</p>",
+        "wagtaildoc_id": 14364,
+        "wagtaildoc_file": "documents/2024-06929.pdf",
+        "wagtaildoc_title": "2024.04.02 Expanding the Size of the Board of Immigration Appeals",
+        "file_size": 282364,
+        "file_hash": "cd07b8da5877fcddf3edd14898040ee7ac31623e",
+        "slug": "20240402-expanding-the-size-of-the-board-of-immigr"
+      },
+      {
+        "policydocument_id": 544,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-02-27",
+        "display_title": "Expanding the Size of the Board of Immigration Appeals (2018)",
+        "link_title": "Expanding the Size of the Board of Immigration Appeals",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2018-02-27/pdf/2018-03980.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 12150,
+        "wagtaildoc_file": "documents/Expanding_the_Size_of_the_Board_of_Immigration_Appeals_2018.pdf",
+        "wagtaildoc_title": "Expanding the Size of the Board of Immigration Appeals (2018)",
+        "file_size": 241172,
+        "file_hash": "48d45e5eb62c8555b1103038021130280bd93fe9",
+        "slug": "expanding-the-size-of-the-board-of-immigration-app"
+      },
+      {
+        "policydocument_id": 546,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2008-06-16",
+        "display_title": "Board of Immigration Appeals: Composition of Board and Temporary Board Members",
+        "link_title": "Board of Immigration Appeals: Composition of Board and Temporary Board Members",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2008-06-16/pdf/E8-13436.pdf",
+        "description_html": "<p data-block-key=\"i4mv3\">BIA expands from 11 to 15 Board Members.</p>",
+        "wagtaildoc_id": 12145,
+        "wagtaildoc_file": "documents/Board_of_Immigration_Appeals_Composition_of_Board_and_Temporary_Board_Members__dnDSfjZ.pdf",
+        "wagtaildoc_title": "Board of Immigration Appeals: Composition of Board and Temporary Board Members",
+        "file_size": 143472,
+        "file_hash": "3faa9b1c5903132c98ba646a433f78599a7f3e5c",
+        "slug": "board-of-immigration-appeals-composition-of-board"
+      },
+      {
+        "policydocument_id": 545,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2015-06-03",
+        "display_title": "Expanding the Size of the Board of Immigration Appeals (2015)",
+        "link_title": "Expanding the Size of the Board of Immigration Appeals",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2015-06-03/pdf/2015-13459.pdf",
+        "description_html": "<p data-block-key=\"z1yga\">BIA expands from 15 to 17 Board Members.</p>",
+        "wagtaildoc_id": 12151,
+        "wagtaildoc_file": "documents/Expanding_the_Size_of_the_Board_of_Immigration_Appeals_2015.pdf",
+        "wagtaildoc_title": "Expanding the Size of the Board of Immigration Appeals (2015)",
+        "file_size": 208494,
+        "file_hash": "874d1d0731985cf57badf0e3eab550c73c5b9ba0",
+        "slug": "expanding-the-size-of-the-board-of-immigration-app"
+      },
+      {
+        "policydocument_id": 4531,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2020-04-01",
+        "display_title": null,
+        "link_title": "EOIR Interim Rule: Expanding the Size of the Board of Immigration Appeals",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2020-04-01/pdf/2020-06846.pdf",
+        "description_html": "<p data-block-key=\"z2mnh\">In an interim rule, EOIR added two more Board Member positions to the BIA, raising the total from 21 to 23 judges. Combined with the 2018 expansion, the two rules result in six appellate judge positions being created and appointed by the Trump administration.</p>",
+        "wagtaildoc_id": 1134,
+        "wagtaildoc_file": "documents/EOIR_Interim_Rule_Expanding_the_Size_of_the_Board_of_Immigration_Appeals.pdf",
+        "wagtaildoc_title": "EOIR Interim Rule: Expanding the Size of the Board of Immigration Appeals",
+        "file_size": 280874,
+        "file_hash": "e5d0381723186c79d13d73913585b3db5093a15e",
+        "slug": "eoir-interim-rule-expanding-the-size-of-the-board"
+      },
+      {
+        "policydocument_id": 5283,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2025-02-20",
+        "display_title": null,
+        "link_title": "Trump Admin To Nearly Halve Immigration Appeals Board",
+        "link": "https://www.law360.com/publicpolicy/articles/2300903/trump-admin-to-nearly-halve-immigration-appeals-board",
+        "description_html": "<p data-block-key=\"pwxzv\">Law 360 reports that the Executive Office for Immigration Review (EOIR) has moved to shrink the size of the Board of Immigration Appeals (BIA) from 28 to 15 members.</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "trump-admin-to-nearly-halve-immigration-appeals-bo"
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 3102,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2019-08-23",
+        "display_title": null,
+        "link_title": "San Fransisco Chronicle:  AG William Barr promotes immigration judges with high asylum rates",
+        "link": "https://www.sfchronicle.com/politics/article/AG-William-Barr-promotes-immigration-judges-with-14373344.php",
+        "description_html": "",
+        "wagtaildoc_id": 13126,
+        "wagtaildoc_file": "documents/SF_Chronicle_-_AG_William_Barr_promotes_immigration_judges_with_high_asylum_rates.pdf",
+        "wagtaildoc_title": "SF Chronicle: AG William Barr promotes immigration judges with high asylum rates",
+        "file_size": 6302691,
+        "file_hash": "63c5fa1c3db479b1c7b596060cf54a89e7032896",
+        "slug": "sf-chronicle-ag-william-barr-promotes-immigration"
+      },
+      {
+        "policydocument_id": 3103,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2019-08-29",
+        "display_title": null,
+        "link_title": "Mother Jones: The Trump Administration’s Court-Packing Scheme Fills Immigration Appeals Board With Hardliners",
+        "link": "https://www.motherjones.com/politics/2019/08/the-trump-administration-has-packed-the-immigration-appeals-board-with-hardliners/",
+        "description_html": "",
+        "wagtaildoc_id": 13127,
+        "wagtaildoc_file": "documents/Mother_Jones_-_The_Trump_Administrations_Court-Packing_Scheme_.pdf",
+        "wagtaildoc_title": "Mother Jones: The Trump Administration’s Court-Packing Scheme Fills Immigration Appeals Board With Hardliners",
+        "file_size": 329176,
+        "file_hash": "30fffde924791b37f53c44daa55d3313083646aa",
+        "slug": "mother-jones-the-trump-administrations-court-packi"
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.769182Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

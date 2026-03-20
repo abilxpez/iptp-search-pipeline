@@ -1,0 +1,134 @@
+{
+  "page_ptr_id": 1278,
+  "title": "EOIR Director issues guidance to restrict continuances",
+  "slug": "eoir-director-gives-additional-guidance-continuances",
+  "url_path": "/home/policies/eoir-director-gives-additional-guidance-continuances/",
+  "live": true,
+  "announced_date": "2021-01-08",
+  "effective_date": "2021-01-08",
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"23776\">Via Policy Memo 21-13, the EOIR Director rescinds OPPM 17-01 on continuances and provides further guidance on restricting continuances in immigration proceedings, reminding immigration judges to be vigilant about respondents&#x27; strong incentive &quot;to abuse continuances&quot; and use them as a dilatory tactic. The memo provides a &quot;non-exhaustive list of relevant legal and policy principles as an aid to adjudicators&quot; in deciding continuance requests.</p><p data-block-key=\"0zjaf\">[ID# 1278]</p><p data-block-key=\"s33dq\"></p>",
+  "description_text": "Via Policy Memo 21-13, the EOIR Director rescinds OPPM 17-01 on continuances and provides further guidance on restricting continuances in immigration proceedings, reminding immigration judges to be vigilant about respondents' strong incentive \"to abuse continuances\" and use them as a dilatory tactic. The memo provides a \"non-exhaustive list of relevant legal and policy principles as an aid to adjudicators\" in deciding continuance requests.\n\n[ID# 1278]",
+  "search_document": "about reminding requests.[ID# judges continuances respondents&#x27; eoir further strong Biden administration revocation 17-01 in use Agency Directive legal EOIR Director issues guidance to restrict continuances aid rescinds Memo tactic. &quot;non-exhaustive Executive Office for Immigration Review On April 18, 2022, EOIR Director David Neal issued a Director&#x27;s Memorandum rescinding the Trump-era memo mentioned in this entry. 1278] of as Policy Memo 21-13: Continuances EOIR immigration restricting OPPM them an Director continuance OPPM 17-01, Continuances 2022.04.18 EOIR DM 22-05: CANCELLATION OF POLICY MEMORANDA 19-05, 21-06, AND 21-13 &quot;to adjudicators&quot; policy proceedings, be relevant deciding continuances&quot; to Policy dilatory abuse incentive principles on 21-13, the and vigilant list provides The OPPM 17-01 was issued prior to the decision in Matter of L-A-B-R-, 27 I&amp;N Dec. 405 (A.G. 2018). Via memo a guidance",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 4015,
+        "document_type": "Biden Administration Action",
+        "document_type_slug": "biden-administration-policy",
+        "date": "2022-04-18",
+        "display_title": null,
+        "link_title": "2022.04.18 EOIR DM 22-05: CANCELLATION OF POLICY MEMORANDA 19-05, 21-06, AND 21-13",
+        "link": "https://www.justice.gov/eoir/book/file/1495221/download",
+        "description_html": "<p data-block-key=\"kyzb9\">On April 18, 2022, EOIR Director David Neal issued a Director&#x27;s Memorandum rescinding the Trump-era memo mentioned in this entry.</p>",
+        "wagtaildoc_id": 13888,
+        "wagtaildoc_file": "documents/2022.04.18_EOIR_DM_22-05.pdf",
+        "wagtaildoc_title": "2022.04.18 EOIR DM 22-05.pdf",
+        "file_size": 287020,
+        "file_hash": "50b3711de2df84575de74bd3d5b13657160c3a1b",
+        "slug": "20220418-eoir-dm-22-05pdf"
+      },
+      {
+        "policydocument_id": 3196,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2021-01-08",
+        "display_title": null,
+        "link_title": "Policy Memo 21-13: Continuances",
+        "link": "https://www.justice.gov/eoir/page/file/1351816/download",
+        "description_html": "",
+        "wagtaildoc_id": 13224,
+        "wagtaildoc_file": "documents/2021.01.08_Continuances.pdf",
+        "wagtaildoc_title": "Policy Memo 21-13: Continuances",
+        "file_size": 209935,
+        "file_hash": "820c0b2e77d4e241c28aa8a87130f168a9eb97ad",
+        "slug": "policy-memo-21-13-continuances"
+      },
+      {
+        "policydocument_id": 3197,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2021-01-10",
+        "display_title": null,
+        "link_title": "OPPM 17-01, Continuances",
+        "link": "https://www.justice.gov/eoir/file/oppm17-01/download",
+        "description_html": "<p data-block-key=\"8d060\">OPPM 17-01 was issued prior to the decision in <i>Matter of L-A-B-R-</i>, 27 I&amp;N Dec. 405 (A.G. 2018).</p>",
+        "wagtaildoc_id": 13225,
+        "wagtaildoc_file": "documents/2017.07.21_Continuances.pdf",
+        "wagtaildoc_title": "OPPM 17-01: Continuances",
+        "file_size": 402666,
+        "file_hash": "ad022a7c02256397bb658b5d89fd601c356ce832",
+        "slug": "oppm-17-01-continuances"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 176,
+      "title": "AG Sessions issues Matter of L-A-B-R-, restricting continuances",
+      "slug": "ag-sessions-releases-decision-in-matter-of-l-a-b-r-regarding-continuances",
+      "announced_date": "2018-08-16",
+      "effective_date": "2018-08-16",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    },
+    {
+      "page_ptr_id": 1191,
+      "title": "EOIR proposes regs to further narrow continuances in immigration court",
+      "slug": "eoir-proposes-regs-further-narrow-continuances-immigration-court",
+      "announced_date": "2020-11-27",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 145,
+      "title": "EOIR discourages IJs from granting continuances",
+      "slug": "eoir-encourages-ijs-to-limit-continuances",
+      "announced_date": "2017-07-31",
+      "effective_date": "2017-07-31",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.827059Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

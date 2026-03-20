@@ -1,0 +1,96 @@
+{
+  "page_ptr_id": 146,
+  "title": "DOJ announces it will withhold Public Safety Partnership funds from sanctuary jurisdictions",
+  "slug": "doj-announces-policy-withholding-money-from-sanctuary-jurisdictions",
+  "url_path": "/home/policies/doj-announces-policy-withholding-money-from-sanctuary-jurisdictions/",
+  "live": true,
+  "announced_date": "2017-08-03",
+  "effective_date": "2017-08-03",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>AG Sessions announces that eligibility for Public Safety Partnership (PSP) funds -- for communities to use to combat drug trafficking and gang crime -- will be limited to those jurisdictions that provide immigration authorities with access to their jails and that notify DHS before releasing inmates wanted on immigration violations. DOJ is sending letters to Albuquerque NM, Baltimore MD, San Bernardino CA, and Stockton CA requesting information that would disqualify them for these funds.</p><p></p><p>[ID #146]</p>",
+  "description_text": "AG Sessions announces that eligibility for Public Safety Partnership (PSP) funds -- for communities to use to combat drug trafficking and gang crime -- will be limited to those jurisdictions that provide immigration authorities with access to their jails and that notify DHS before releasing inmates wanted on immigration violations. DOJ is sending letters to Albuquerque NM, Baltimore MD, San Bernardino CA, and Stockton CA requesting information that would disqualify them for these funds.\n\n[ID #146]",
+  "search_document": "jurisdictions with these before DOJ disqualify CA, authorities and wanted funds limited access communities notify for AG will violations. gang inmates that CA provide Change in Practice Sessions The National Public Safety Partnership (PSP) was established in June 2017 by the U.S. Department of Justice in response to President Trump’s Executive Order on a Task Force on Crime Reduction and Public Safety. Safety sanctuary city, sanctuary juridication, sanctuary jurisdiction State & Local Entities drug Public (PSP) those be National Public Safety Partnership NM, sending immigration funds.[ID Baltimore DOJ announces it will withhold Public Safety Partnership funds from sanctuary jurisdictions Other them eligibility requesting their on Albuquerque Justice Department Announces that Commitment to Reducing Violent CrimeStemming from Illegal Immigration will be Required for Participation in Public SafetyPartnership Program S&L crime Stockton announces DOJ announcement on sanctuary jurisdictions Partnership DHS releasing information combat 1373 is trafficking jails use would -- MD, Sanctuary Restrictions letters San Bernardino to sanctuary cities #146]",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Sanctuary Restrictions",
+        "slug": "sanctuary-restrictions"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      },
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "State & Local Entities",
+        "agency_slug": "state-local-entities"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 383,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2017-08-03",
+        "display_title": "DOJ announcement on sanctuary jurisdictions",
+        "link_title": "Justice Department Announces that Commitment to Reducing Violent CrimeStemming from Illegal Immigration will be Required for Participation in Public SafetyPartnership Program",
+        "link": "https://www.justice.gov/opa/pr/justice-department-announces-commitment-reducing-violent-crime-stemming-illegal-immigration",
+        "description_html": "",
+        "wagtaildoc_id": 925,
+        "wagtaildoc_file": "documents/DOJ_announcement_on_sanctuary_jurisdictions_.pdf",
+        "wagtaildoc_title": "DOJ announcement on sanctuary jurisdictions",
+        "file_size": 150760,
+        "file_hash": "79aa5040b345187ce9874350d4927b944db0d0dd",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 384,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": null,
+        "display_title": "National Public Safety Partnership",
+        "link_title": "National Public Safety Partnership",
+        "link": "https://www.nationalpublicsafetypartnership.org/Home#about",
+        "description_html": "The National Public Safety Partnership (PSP) was established in June 2017 by the U.S. Department of Justice in response to President Trump’s Executive Order on a Task Force on Crime Reduction and Public Safety.",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.672504Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

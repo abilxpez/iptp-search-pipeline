@@ -1,0 +1,74 @@
+{
+  "page_ptr_id": 1444,
+  "title": "USCIS waives COVID-19 vaccination requirement for Adjustment of Status applicants",
+  "slug": "uscis-waives-covid-19-vaccination-requirement-for-adjustment-of-status-applicants",
+  "url_path": "/home/policies/uscis-waives-covid-19-vaccination-requirement-for-adjustment-of-status-applicants/",
+  "live": true,
+  "announced_date": "2025-01-22",
+  "effective_date": "2025-01-22",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"9aoew\">USCIS published a notification stating that it will waive the requirement for adjustment of status applicants to provide proof of COVID-19 vaccination on Form I-693, effective January 22, 2025. USCIS will also not issue any Request for Evidence or Notice of Intent to Deny related to missing COVID-19 vaccination documentation.</p><p data-block-key=\"8em3m\"></p><p data-block-key=\"1o9nn\">Trump 2.0 [ID #1444]</p>",
+  "description_text": "USCIS published a notification stating that it will waive the requirement for adjustment of status applicants to provide proof of COVID-19 vaccination on Form I-693, effective January 22, 2025. USCIS will also not issue any Request for Evidence or Notice of Intent to Deny related to missing COVID-19 vaccination documentation.\n\nTrump 2.0 [ID #1444]",
+  "search_document": "that will the any related vaccination published Notice it Agency Directive issue Evidence #1444] provide notification for [ID USCIS Waives COVID-19 Vaccination Requirement for Adjustment of Status Applicants Intent Request proof U.S. Citizenship and Immigration Services coronavirus, covid 2025. also missing Form documentation.Trump a 22, requirement 2.0 COVID-19 not waive adjustment of status status USCIS waives COVID-19 vaccination requirement for Adjustment of Status applicants to stating of applicants Deny January covid-19 USCIS adjustment effective I-693, on or",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 4862,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-01-22",
+        "display_title": null,
+        "link_title": "USCIS Waives COVID-19 Vaccination Requirement for Adjustment of Status Applicants",
+        "link": "https://www.uscis.gov/newsroom/alerts/uscis-waives-covid-19-vaccination-requirement-for-adjustment-of-status-applicants",
+        "description_html": "",
+        "wagtaildoc_id": 14666,
+        "wagtaildoc_file": "documents/2025.01.22_USCIS_Waives_COVID-19_Vaccination_Requirement.pdf",
+        "wagtaildoc_title": "2025.01.22_USCIS Waives COVID-19 Vaccination Requirement for Adjustment of Status Applicants",
+        "file_size": 163381,
+        "file_hash": "3b69f64c96c681bcf9f6e88e0fe884fdc2ccffdf",
+        "slug": "uscis-waives-covid-19-vaccination-requirement-for"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.761357Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "page_ptr_id": 2041,
+  "title": "USCIS allows processing of H-2A petitions for unnamed beneficiaries prior to labor certification approval",
+  "slug": "dhs-streamlines-uscis-and-dol-processing-of-h-2a-applications",
+  "url_path": "/home/policies/dhs-streamlines-uscis-and-dol-processing-of-h-2a-applications/",
+  "live": true,
+  "announced_date": "2025-09-30",
+  "effective_date": "2025-10-02",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"664uc\">DHS issued a final rule allowing U.S. Citizenship and Immigration Services (USCIS) to begin processing H-2A petitions that seek unnamed beneficiaries, but not those seeking named beneficiaries, after Department of Labor (DOL) issues a notice of acceptance of application for temporary labor certification (TLC). The rule enables USCIS to simultaneously process eligible H-2A petitions for temporary agricultural workers while DOL evaluates whether the employment would adversely affect American workers. Although USCIS can begin processing the petition, USCIS cannot approve any petition until DOL officially approves the TLC.</p><p data-block-key=\"bok3e\"></p><p data-block-key=\"ab8g1\">In a press release, USCIS announced that the streamlined process will only apply to applicants who file via a newly-announced Form I-129H2A, which may only be filed online. Initially, this form will not be available for named beneficiaries or petitions filed with a Form G-28 [Notice of Entry Appearance as Attorney or Accredited Representative]. However, USCIS states that it will remove this restriction &quot;[i]n the coming weeks.&quot;</p><p data-block-key=\"g88s\">Trump 2.0 [ID #2041]</p>",
+  "description_text": "DHS issued a final rule allowing U.S. Citizenship and Immigration Services (USCIS) to begin processing H-2A petitions that seek unnamed beneficiaries, but not those seeking named beneficiaries, after Department of Labor (DOL) issues a notice of acceptance of application for temporary labor certification (TLC). The rule enables USCIS to simultaneously process eligible H-2A petitions for temporary agricultural workers while DOL evaluates whether the employment would adversely affect American workers. Although USCIS can begin processing the petition, USCIS cannot approve any petition until DOL officially approves the TLC.\n\nIn a press release, USCIS announced that the streamlined process will only apply to applicants who file via a newly-announced Form I-129H2A, which may only be filed online. Initially, this form will not be available for named beneficiaries or petitions filed with a Form G-28 [Notice of Entry Appearance as Attorney or Accredited Representative]. However, USCIS states that it will remove this restriction \"[i]n the coming weeks.\"\n\nTrump 2.0 [ID #2041]",
+  "search_document": "the any would weeks.&quot;Trump certification adversely agricultural eligible cannot issued processing states Citizenship who labor will with G-28 press that DOL #2041] petitions 2025.10.02 USCIS Final Rule - Facilitating Earlier Filing of Certain Electronically Submitted H-2A Petitions may release, (USCIS) U.S. Representative]. be [Notice not Department DHS 2025.10.03 USCIS Form I-129H2A - Instructions Entry while seeking final enables announced Initially, Rule streamlined USCIS petition, Appearance but file named allowing can process apply approves form seek evaluates via those workers. simultaneously Form employment or Attorney notice Accredited which beneficiaries, for [ID available TLC.In whether 2025.10.03 USCIS Form I-129H2A - Petition for a Nonimmigrant Worker approve restriction applicants H-2A as officially and 2025.09.30 USCIS: DHS Streamlines the Filing Process for Certain Agricultural Workers &quot;[i]n I-129H2A, application only Although it filed this issues Labor USCIS allows processing of H-2A petitions for unnamed beneficiaries prior to labor certification approval acceptance The a 2.0 begin petition Forms and Information Collection affect newly-announced temporary However, American Immigration (DOL) beneficiaries to until (TLC). workers after remove Services coming rule of online. unnamed",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      },
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7575,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-09-30",
+        "display_title": null,
+        "link_title": "2025.09.30 USCIS: DHS Streamlines the Filing Process for Certain Agricultural Workers",
+        "link": "https://www.uscis.gov/newsroom/news-releases/dhs-streamlines-the-filing-process-for-certain-agricultural-workers",
+        "description_html": "",
+        "wagtaildoc_id": 17108,
+        "wagtaildoc_file": "documents/DHS_Streamlines_the_Filing_Process_for_Certain_Agricultural_Workers___USCIS.pdf",
+        "wagtaildoc_title": "2025.09.30 USCIS: DHS Streamlines the Filing Process for Certain Agricultural Workers",
+        "file_size": 262857,
+        "file_hash": "b958cbaf0b8370a00a3052267e1598034ff37e9e",
+        "slug": "20250930-uscis-dhs-streamlines-the-filing-process"
+      },
+      {
+        "policydocument_id": 7576,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-10-02",
+        "display_title": null,
+        "link_title": "2025.10.02 USCIS Final Rule - Facilitating Earlier Filing of Certain Electronically Submitted H-2A Petitions",
+        "link": "https://www.federalregister.gov/documents/2025/10/02/2025-19235/facilitating-earlier-filing-of-certain-electronically-submitted-h-2a-petitions",
+        "description_html": "",
+        "wagtaildoc_id": 17107,
+        "wagtaildoc_file": "documents/2025-19235.pdf",
+        "wagtaildoc_title": "2025.10.02 USCIS Final Rule - Facilitating Earlier Filing of Certain Electronically Submitted H-2A Petitions",
+        "file_size": 217120,
+        "file_hash": "e50b4aa8a0a7b3c101e75ef3de6615558ed895b2",
+        "slug": "20251002-uscis-final-rule-facilitating-earlier-fil"
+      },
+      {
+        "policydocument_id": 7707,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-10-03",
+        "display_title": null,
+        "link_title": "2025.10.03 USCIS Form I-129H2A - Petition for a Nonimmigrant Worker",
+        "link": "https://www.regulations.gov/document/USCIS-2025-0238-0002",
+        "description_html": "",
+        "wagtaildoc_id": 17162,
+        "wagtaildoc_file": "documents/2025.10.03_USCIS_Form_I-129H2A_-_Petition_for_a_Nonimmigrant_Worker.pdf",
+        "wagtaildoc_title": "2025.10.03 USCIS Form I-129H2A - Petition for a Nonimmigrant Worker",
+        "file_size": 707177,
+        "file_hash": "148ef2749735759eb98dd3ed2c991533d2139e5a",
+        "slug": "20251003-uscis-form-i-129h2a-petition-for-a-nonimm"
+      },
+      {
+        "policydocument_id": 7708,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-10-03",
+        "display_title": null,
+        "link_title": "2025.10.03 USCIS Form I-129H2A - Instructions",
+        "link": "https://www.regulations.gov/document/USCIS-2025-0238-0003",
+        "description_html": "",
+        "wagtaildoc_id": 17163,
+        "wagtaildoc_file": "documents/2025.10.03_USCIS_Form_I-129H2A_-_Instructions.pdf",
+        "wagtaildoc_title": "2025.10.03 USCIS Form I-129H2A - Instructions",
+        "file_size": 420202,
+        "file_hash": "bd8eed4f5c4464024b91cbe199c9d3b3bfea472a",
+        "slug": "20251003-uscis-form-i-129h2a-instructions"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.688392Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

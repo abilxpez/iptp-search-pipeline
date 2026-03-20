@@ -1,0 +1,77 @@
+{
+  "page_ptr_id": 1766,
+  "title": "DHS promulgates final rule to replace \"gender\" with \"sex\" in TSA regulations",
+  "slug": "dhs-promulgates-final-rule-to-replace-gender-with-sex-in-tsa-regulations",
+  "url_path": "/home/policies/dhs-promulgates-final-rule-to-replace-gender-with-sex-in-tsa-regulations/",
+  "live": true,
+  "announced_date": "2025-05-20",
+  "effective_date": "2025-05-21",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"a5zln\">DHS promulgated a final rule making amendments to Transportation Security Administration (TSA) regulations to conform with EO 14168, &quot;Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government.&quot; The amendments replace the term “gender” with “sex” wherever it appears in TSA’s regulations.</p><p data-block-key=\"9fu1v\">Trump 2.0 [ID #1766]</p>",
+  "description_text": "DHS promulgated a final rule making amendments to Transportation Security Administration (TSA) regulations to conform with EO 14168, \"Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government.\" The amendments replace the term “gender” with “sex” wherever it appears in TSA’s regulations.\n\nTrump 2.0 [ID #1766]",
+  "search_document": "&quot;Defending Restoring EO “sex” with to regulations.Trump making in final Security amendments Biological Transportation Security Administration TSA’s Federal Register: DHS/TSA - Terminology Relating to Sex; Technical Amendments DHS Government.&quot; TSA Extremism the regulations Administration DHS promulgates final rule to replace \"gender\" with \"sex\" in TSA regulations Gender appears Rule Federal from (TSA) replace “gender” wherever Women 14168, it and Ideology Transportation [ID promulgated Truth #1766] rule 2.0 conform The a term",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Transportation Security Administration",
+        "agency_slug": "transportation-security-administration"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6296,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-21",
+        "display_title": null,
+        "link_title": "Federal Register: DHS/TSA - Terminology Relating to Sex; Technical Amendments",
+        "link": "https://www.federalregister.gov/public-inspection/2025-08920/terminology-relating-to-sex-technical-amendments",
+        "description_html": "",
+        "wagtaildoc_id": 16012,
+        "wagtaildoc_file": "documents/2025.05.21_TSA_Final_Rule_-_Terminology_Relating_to_Sex.pdf",
+        "wagtaildoc_title": "2025.05.21 TSA Final Rule - Terminology Relating to Sex; Technical Amendments",
+        "file_size": 231025,
+        "file_hash": "f8d128936d1c84542360d8aa9b484dfae7517d37",
+        "slug": "20250520-dhs-terminology-relating-to-sex-technical"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1421,
+      "title": "EO 14168 § 3(d) directs DOS and DHS to require that government-issued identification documents reflect \"immutable biological\" sex",
+      "slug": "eo-defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government-3d-direct-dos-and-dhs-to-require-that-government-issued-identification-documents-reflect-immutable-biological-sex",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:41.011582Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

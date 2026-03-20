@@ -1,0 +1,103 @@
+{
+  "assemble": {
+    "out_dir": "data/sample_100",
+    "cache_dir": "data/parquet_cache",
+    "n": 100,
+    "seed": 42,
+    "include_nonpdf": false,
+    "include_curation_notes": false
+  },
+  
+  "paths":
+    {
+    "policies_dir": "data/sample_100/policies",
+    "policies_index_jsonl": "data/sample_100/policies_index.jsonl",
+
+    "manifest_jsonl": "data/sample_100/manifest.jsonl",
+
+    "extract_pages_dir": "data/sample_100/extract_pages",
+    "extracted_pages_jsonl": "data/sample_100/extract_pages/extracted_pages.jsonl",
+    "extract_pages_log_jsonl": "data/sample_100/extract_pages/extract_log.jsonl",
+    "extract_pages_state_jsonl": "data/sample_100/extract_pages/extract_state.jsonl",
+    "extract_pages_stats_jsonl": "data/sample_100/extract_pages/pdf_stats.jsonl",
+    
+    "chunks_jsonl": "data/sample_100/chunks/chunks.jsonl",
+    "chunk_log_jsonl": "data/sample_100/chunks/chunk_log.jsonl",
+  
+    "stopwords_en_txt": "data/text/stopwords_en.txt",
+
+    "bm25_index_dir": "data/sample_100/indexes/bm25",
+    "bm25_build_log_jsonl": "data/sample_100/indexes/bm25/build_log.jsonl",
+
+    "bm25_docs_jsonl": "data/sample_100/indexes/bm25/docs.jsonl",
+    "bm25_inverted_index_jsonl": "data/sample_100/indexes/bm25/inverted_index.jsonl",
+
+    "bm25_offsets_sqlite": "data/sample_100/indexes/bm25/offsets.sqlite",
+    "bm25_docs_offsets_sqlite": "data/sample_100/indexes/bm25/docs_offsets.sqlite",
+    "bm25_chunks_offsets_sqlite": "data/sample_100/indexes/bm25/chunks_offsets.sqlite",
+
+    "bm25_corpus_stats_json": "data/sample_100/indexes/bm25/corpus_stats.json"
+
+  },
+  "extract_pages": {
+    "skip_scanned": false
+  },
+
+
+  "chunking": {
+    "target_chars": 1500,
+    "min_chars": 300,
+    "max_unit_chars": 2000,
+    "hard_split_chars": 800,
+    "large_pdf_page_threshold": 300,
+
+    "overlap": {
+      "enabled": true,
+      "units": 2,
+      "max_frac_of_target": 0.2,
+      "min_units": 1
+    }
+  },
+
+  
+  "text_processing": {
+    "use_stopwords": true,
+    "min_token_len": 2
+  },
+  
+  "bm25": {
+    "k1": 1.2,
+    "b": 0.75,
+    "top_k_default": 10,
+    "max_unique_terms_per_doc": 50000,
+
+    "min_meta_keys": [
+      "iptp_id",
+      "title",
+      "administration",
+      "original_date_announced",
+      "effective_date",
+      "agencies_affected",
+      "subject_matter"
+    ],
+
+    "strict_config_match": false
+  },
+
+  "download": {
+    "jobs": 12,
+    "skip_existing": true,
+    "verify_size": true,
+    "quiet": true,
+    "dry_run": false,
+    "failures_out": null
+  },
+  "aws": {
+    "backup_prefix": null,
+    "profile": null,
+    "region": null,
+    "documents_bucket": null
+  }
+
+}
+  

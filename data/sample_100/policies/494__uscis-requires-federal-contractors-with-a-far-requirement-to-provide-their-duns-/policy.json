@@ -1,0 +1,74 @@
+{
+  "page_ptr_id": 494,
+  "title": "USCIS requires federal contractors with a FAR requirement to provide their DUNS system during E-verify enrollment",
+  "slug": "uscis-requires-federal-contractors-with-a-far-requirement-to-provide-their-duns-system-during-e-verify-enrollment",
+  "url_path": "/home/policies/uscis-requires-federal-contractors-with-a-far-requirement-to-provide-their-duns-system-during-e-verify-enrollment/",
+  "live": true,
+  "announced_date": "2018-01-05",
+  "effective_date": "2018-01-05",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>Federal contractors and subcontractors with a Federal Acquisition Regulation (FAR) requirement must now provide their Data Universal Numbering System (DUNS) as they enroll in E-Verify. Existing contractors do not have to provide their DUNS but will be prompted to enter it when they update their profile. [ID #494]</p>",
+  "description_text": "Federal contractors and subcontractors with a Federal Acquisition Regulation (FAR) requirement must now provide their Data Universal Numbering System (DUNS) as they enroll in E-Verify. Existing contractors do not have to provide their DUNS but will be prompted to enter it when they update their profile. [ID #494]",
+  "search_document": "Numbering contractors not but with be [ID USCIS enroll it Data in and USCIS requires federal contractors with a FAR requirement to provide their DUNS system during E-verify enrollment profile. e-verify now USCIS Notice: E-Verify Requirement for New Federal Contractors (DUNS) Federal (FAR) Existing subcontractors their System as they #494] requirement U.S. Citizenship and Immigration Services DUNS update enter Employment Verification Agency Directive will when provide Regulation must E-Verify. Acquisition prompted do to Universal have government contractors a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Employment Verification",
+        "slug": "employment-verification"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1186,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": "USCIS Notice: E-Verify Requirement for New Federal Contractors",
+        "link_title": "USCIS Notice: E-Verify Requirement for New Federal Contractors",
+        "link": "https://www.aila.org/infonet/uscis-e-verify-requirement-for-new-fed-contractors",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.722373Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

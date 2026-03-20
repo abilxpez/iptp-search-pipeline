@@ -1,0 +1,138 @@
+{
+  "page_ptr_id": 1749,
+  "title": "DOS requests comments on proposed revisions to Form DS-71, Affidavit of Identifying Witness",
+  "slug": "dos-proposes-changes-to-the-affidavit-of-identifying-witness-form",
+  "url_path": "/home/policies/dos-proposes-changes-to-the-affidavit-of-identifying-witness-form/",
+  "live": true,
+  "announced_date": "2025-05-15",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"oaj7p\">The Department of State (DOS) issued a 60-day notice requesting public comment on proposed revisions to Form DS-71, Affidavit of Identifying Witness. The form is submitted in conjunction with a U.S. passport application when the applicant is unable to establish their identity to the satisfaction of the official reviewing the application.</p><p data-block-key=\"3g2nf\">Comments will be accepted for 60 days, until July 14, 2025.</p><p data-block-key=\"keej\">Trump 2.0 [ID# 1749]</p>",
+  "description_text": "The Department of State (DOS) issued a 60-day notice requesting public comment on proposed revisions to Form DS-71, Affidavit of Identifying Witness. The form is submitted in conjunction with a U.S. passport application when the applicant is unable to establish their identity to the satisfaction of the official reviewing the application.\n\nComments will be accepted for 60 days, until July 14, 2025.\n\nTrump 2.0 [ID# 1749]",
+  "search_document": "U.S. 60-day a Form is satisfaction Department July establish applicant of conjunction their DS-71, proposed comment requesting application on in The State Department posted a 30-day notice of request for public comments regarding revisions to Form DS-71, Affidavit of Identifying Witness, submitted in conjunction with applications for a U.S. passport.Comments will be accepted for 30 days until September 4, 2025. Witness. form 2025.08.05 DOS - Proposed Information Collection: Affidavit of Identifying Witness notice issued passport unable Other reviewing submitted accepted Federal Register - 60-Day Notice of Proposed Information Collection: Affidavit of Identifying Witness 1749] days, State identity with Affidavit (DOS) Identifying 60 official until revisions 14, [ID# be to for application.Comments Forms and Information Collection 2025.Trump The the DOS requests comments on proposed revisions to Form DS-71, Affidavit of Identifying Witness 2.0 when will public",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-5"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      },
+      {
+        "title": "Comment Period",
+        "slug": "comment-period"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6342,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-15",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 16034,
+        "wagtaildoc_file": "documents/Form_DS-71_DRAFT_2025.pdf",
+        "wagtaildoc_title": "Form DS-71_Draft May 2025",
+        "file_size": 1270792,
+        "file_hash": "33f3a4c46adad028af498a9abc3b787ec965e40f",
+        "slug": "form-ds-71_draft-may-2025"
+      },
+      {
+        "policydocument_id": 6240,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-15",
+        "display_title": null,
+        "link_title": "Federal Register - 60-Day Notice of Proposed Information Collection: Affidavit of Identifying Witness",
+        "link": "https://www.federalregister.gov/documents/2025/05/15/2025-08600/60-day-notice-of-proposed-information-collection-affidavit-of-identifying-witness",
+        "description_html": "",
+        "wagtaildoc_id": 15941,
+        "wagtaildoc_file": "documents/2025.05.15_DOS_Public_Notice_12721.pdf",
+        "wagtaildoc_title": "2025.05.15 DOS Public Notice 12721 - 60-Day Notice of Proposed Information Collection: Affidavit of Identifying Witness",
+        "file_size": 205457,
+        "file_hash": "3d910d6f65d6e70b01c61c2bfce73084195a8fd4",
+        "slug": "250515-affidavit-of-identifying-witness"
+      },
+      {
+        "policydocument_id": 7025,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2025-08-05",
+        "display_title": null,
+        "link_title": "2025.08.05 DOS - Proposed Information Collection: Affidavit of Identifying Witness",
+        "link": "https://www.federalregister.gov/documents/2025/08/05/2025-14816/30-day-notice-of-proposed-information-collection-affidavit-of-identifying-witness",
+        "description_html": "<p data-block-key=\"91q4z\">The State Department posted a 30-day notice of request for public comments regarding revisions to Form DS-71, Affidavit of Identifying Witness, submitted in conjunction with applications for a U.S. passport.<br/></p><p data-block-key=\"7490s\">Comments will be accepted for 30 days until September 4, 2025.</p>",
+        "wagtaildoc_id": 16620,
+        "wagtaildoc_file": "documents/2025.08.05_DOS_-_Proposed_Information_Collection-_Affidavit_of_Identifying_Witness.pdf",
+        "wagtaildoc_title": "2025.08.05 DOS - Proposed Information Collection: Affidavit of Identifying Witness.pdf",
+        "file_size": 205230,
+        "file_hash": "f9350a53089d23f77e3f023b0c760e70ef5f2eb7",
+        "slug": "20250805-dos-proposed-information-collection-affid"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1446,
+      "title": "DOS proposes changes to Form DS-11 (Application for a U.S. Passport), and will no longer issue passports with \"X\" sex markers",
+      "slug": "report-dos-will-no-longer-issue-passports-and-other-official-documents-with-x-sex-markers",
+      "announced_date": "2025-02-14",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1576,
+      "title": "DOS proposes changes to Form DS-5504 (Application for a U.S. Passport for Eligible Individuals: Correction, Name Change to Passport) to no longer allow \"X\" gender marker",
+      "slug": "dos-proposes-changes-to-form-ds-5504-application-for-a-us-passport-for-eligible-individuals-correction-name-change-to-passport-to-make-it-compliant-with-in-compliance-with-eo-14168",
+      "announced_date": "2025-02-18",
+      "effective_date": "2025-02-18",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1577,
+      "title": "DOS proposes changes to DS-82 (U.S. Passport Renewal Application) to eliminate \"X\" gender marker from application",
+      "slug": "dos-proposes-changes-to-ds-82-us-passport-renewal-application-to-make-it-compliant-with-eo-14168",
+      "announced_date": "2025-02-18",
+      "effective_date": "2025-02-18",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.734330Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

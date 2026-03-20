@@ -1,0 +1,155 @@
+{
+  "page_ptr_id": 2181,
+  "title": "HUD orders immediate citizenship-verification for tenants in HUD-funded housing",
+  "slug": "hud-orders-immediate-citizenship-verification-for-all-tenants-in-hud-funded-housing-nationwide",
+  "url_path": "/home/policies/hud-orders-immediate-citizenship-verification-for-all-tenants-in-hud-funded-housing-nationwide/",
+  "live": true,
+  "announced_date": "2026-01-23",
+  "effective_date": "2026-01-23",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"xgs19\">HUD instructs public-housing authorities (PHAs) and owners participating in HUD-funded housing to adequately &quot;verify the immigration eligibility of all HUD-assisted households&quot; within 30 days and &quot;and initiate corrective actions,&quot; or face sanctions. Public-housing officials are required to use HUD&#x27;s new EIV-SAVE Tenant Matching Report, which cross-references HUD data with USCIS Systematic Alien Verification for Entitlements (SAVE) data and &quot;includes a list of individuals whose citizenship or eligible immigration status needs to be confirmed by the PHA.&quot; The letter follows an audit by HUD and DHS of tenants across HUD-funded housing nationwide, which allegedly discovered nearly 200,000 tenants who had not been explicitly verified as eligible for housing assistance, as well as “nearly 6,000 ineligible non-American tenants.”</p><p data-block-key=\"dlpoh\">The directive references a letter from December 16, 2025, in which HUD reminded public-housing officials of their &quot;legal obligations under Section 214 of the Housing and Community Development Act of 1980 (Section 214) and President Trump’s Executive Order 14218, <i>Ending Taxpayer Subsidization of Open Borders</i>, to verify the citizenship and immigration status of all individuals prior to admission to the Public Housing or Housing Choice Voucher programs.&quot;</p><p data-block-key=\"69qom\">Trump 2.0 [ID #2181]</p>",
+  "description_text": "HUD instructs public-housing authorities (PHAs) and owners participating in HUD-funded housing to adequately \"verify the immigration eligibility of all HUD-assisted households\" within 30 days and \"and initiate corrective actions,\" or face sanctions. Public-housing officials are required to use HUD's new EIV-SAVE Tenant Matching Report, which cross-references HUD data with USCIS Systematic Alien Verification for Entitlements (SAVE) data and \"includes a list of individuals whose citizenship or eligible immigration status needs to be confirmed by the PHA.\" The letter follows an audit by HUD and DHS of tenants across HUD-funded housing nationwide, which allegedly discovered nearly 200,000 tenants who had not been explicitly verified as eligible for housing assistance, as well as “nearly 6,000 ineligible non-American tenants.”\n\nThe directive references a letter from December 16, 2025, in which HUD reminded public-housing officials of their \"legal obligations under Section 214 of the Housing and Community Development Act of 1980 (Section 214) and President Trump’s Executive Order 14218, Ending Taxpayer Subsidization of Open Borders, to verify the citizenship and immigration status of all individuals prior to admission to the Public Housing or Housing Choice Voucher programs.\"\n\nTrump 2.0 [ID #2181]",
+  "search_document": "(PHAs) Entitlements (Section DHS for from Housing HUD-funded verify and 2026.01.23 HUD Letter to Public Housing Agencies with references Report, individuals Executive Agency Directive #2181] households&quot; “nearly required the are Voucher use audit 14218, participating list Matching under 2.0 nationwide, Tenant initiate Development HUD&#x27;s data HUD-assisted letter PHA.&quot; programs.&quot;Trump tenants December [ID immigration discovered their in HUD (SAVE) allegedly 2025, nearly Interior confirmed eligibility eligible Community an 30 The New York Times reports on HUD’s demand, noting that HUD did not answer questions about what information it was seeking about tenants or address a request to see the referenced  audit&#x27;s results. The article also compares the second Trump administration&#x27;s approach to public-housing tenants with that of his first. HUD - 'Cleaning House’: HUD Orders Immediate Citizenship Verification for All Tenants in HUD-Funded Housing Nationwide as be reminded officials ineligible needs housing or had non-American who by USCIS Act of verified Subsidization EIV-SAVE cross-references been Public &quot;and &quot;legal Choice Trump’s 2025.12.16 HUD Letter to Public Housing Agencies &quot;includes directive Systematic adequately 200,000 across assistance, 1980 2026.01.23 New York Times - HUD Demands Public Housing Officials Check for Undocumented Immigrants to Borders, whose admission status public-housing Verification not HUD orders immediate citizenship-verification for tenants in HUD-funded housing prior obligations instructs 6,000 corrective all owners Ending actions,&quot; explicitly Alien Taxpayer 214) 16, Public-housing well days Order authorities Section tenants.”The Open Other new &quot;verify 214 face The Data and Reports sanctions. a follows within President citizenship which",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      },
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Interior",
+        "slug": "interior"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-6"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 8337,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-12-16",
+        "display_title": null,
+        "link_title": "2025.12.16 HUD Letter to Public Housing Agencies",
+        "link": "https://www.hud.gov/sites/dfiles/PIH/documents/PHA-Letter-on-Citizenship-and-Immigration-Status-Verification.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 17669,
+        "wagtaildoc_file": "documents/PHA-Letter-on-Citizenship-and-Immigration-Status-Verification.pdf",
+        "wagtaildoc_title": "2025.12.16 HUD Letter to Public Housing Agencies",
+        "file_size": 117265,
+        "file_hash": "95813dbf28b231f3a8448cbd6fbfa10d82742431",
+        "slug": "20251216-hud-letter-to-public-housing-agencies"
+      },
+      {
+        "policydocument_id": 8320,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2026-01-23",
+        "display_title": null,
+        "link_title": "2026.01.23 HUD Letter to Public Housing Agencies",
+        "link": "https://www.hud.gov/sites/default/files/PIH/documents/PHA-Letter-on-EIV-Report.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 17668,
+        "wagtaildoc_file": "documents/PHA-Letter-on-EIV-Report.pdf",
+        "wagtaildoc_title": "2026.01.23 HUD Letter to Public Housing Agencies",
+        "file_size": 72171,
+        "file_hash": "edc181b8e08527a2a20a31382285ffaf5ab44e36",
+        "slug": "20260123-hud-directive-cleaning-house-hud-orders-i"
+      },
+      {
+        "policydocument_id": 8338,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2026-01-23",
+        "display_title": null,
+        "link_title": "HUD - 'Cleaning House’: HUD Orders Immediate Citizenship Verification for All Tenants in HUD-Funded Housing Nationwide",
+        "link": "https://www.hud.gov/news/hud-no-26-008",
+        "description_html": "",
+        "wagtaildoc_id": 17682,
+        "wagtaildoc_file": "documents/2026.01.23_HUD_-_Cleaning_House.pdf",
+        "wagtaildoc_title": "2026.01.23 HUD - ‘Cleaning House’: HUD Orders Immediate Citizenship Verification for All Tenants in HUD-Funded Housing Nationwide",
+        "file_size": 141942,
+        "file_hash": "23c13c3a0cc5aecef819a6f0fe5c53e49009ea43",
+        "slug": "20260123-hud-cleaning-house-hud-orders-immediate-c"
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 8339,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2026-01-23",
+        "display_title": null,
+        "link_title": "2026.01.23 New York Times - HUD Demands Public Housing Officials Check for Undocumented Immigrants",
+        "link": "https://www.nytimes.com/2026/01/23/us/politics/hud-housing-undocumented-immigrants.html",
+        "description_html": "<p data-block-key=\"a4ekg\">The <i>New York Times</i> reports on HUD’s demand, noting that HUD did not answer questions about what information it was seeking about tenants or address a request to see the referenced  audit&#x27;s results. The article also compares the second Trump administration&#x27;s approach to public-housing tenants with that of his first.</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20260123-new-york-times-hud-demands-public-housing"
+      }
+    ]
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1571,
+      "title": "EO 14218: \"Ending Taxpayer Subsidization of Open Borders\"",
+      "slug": "eo-14218-ending-taxpayer-subsidization-of-open-borders",
+      "announced_date": "2025-02-19",
+      "effective_date": "2025-02-19",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1645,
+      "title": "HUD signs Memorandum of Understanding with DHS to prevent undocumented noncitizens from using federal housing programs",
+      "slug": "hud-signs-memorandum-of-understanding-with-dhs-to-prevent-undocumented-noncitizens-from-using-federal-housing-programs",
+      "announced_date": "2025-03-24",
+      "effective_date": "2025-03-24",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 2047,
+      "title": "HUD Eliminates Title I Loan Eligibility for Non-Permanent Residents",
+      "slug": "hud-eliminates-title-i-loan-eligibility-for-non-permanent-residents",
+      "announced_date": "2025-03-26",
+      "effective_date": "2025-05-25",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.915048Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

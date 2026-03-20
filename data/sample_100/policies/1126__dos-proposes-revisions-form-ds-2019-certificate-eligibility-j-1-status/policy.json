@@ -1,0 +1,90 @@
+{
+  "page_ptr_id": 1126,
+  "title": "DOS proposes revisions to Form DS-2019, Certificate of Eligibility for J-1 Status",
+  "slug": "dos-proposes-revisions-form-ds-2019-certificate-eligibility-j-1-status",
+  "url_path": "/home/policies/dos-proposes-revisions-form-ds-2019-certificate-eligibility-j-1-status/",
+  "live": true,
+  "announced_date": "2020-10-26",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"b2tu8\">DOS announces that the following information collection has been submitted to OMB for review and approval and that a 30-day notice and comment period has been provided on proposed revisions to Form DS-2019, Certificate of Eligibility for Exchange Visitor (J-1) Status. Comments are due Nov. 25, 2020. Minor changes have been made to the wording in the 212(e) section entitled Signature of Responsible Officer or Alternate Responsible Officer. This form is used by potential Exchange Visitor Program participants to request J-visas at U.S. Embassies and Consulates abroad [ID #1126]</p>",
+  "description_text": "DOS announces that the following information collection has been submitted to OMB for review and approval and that a 30-day notice and comment period has been provided on proposed revisions to Form DS-2019, Certificate of Eligibility for Exchange Visitor (J-1) Status. Comments are due Nov. 25, 2020. Minor changes have been made to the wording in the 212(e) section entitled Signature of Responsible Officer or Alternate Responsible Officer. This form is used by potential Exchange Visitor Program participants to request J-visas at U.S. Embassies and Consulates abroad [ID #1126]",
+  "search_document": "Bureau of Consular Affairs approval Responsible [ID provided is 30-day Signature by DOS proposes revisions to Form DS-2019, Certificate of Eligibility for J-1 Status U.S. Embassies potential in announces been Alternate at Exchange review 25, 212(e) Data and Reports form following DOS Consulates wording revisions made of REVIEWED Program section participants 2020. period have Officer. that for Form Nov. entitled J-visas changes Visitor comment CA to are information due (J-1) notice Comments Officer Certificate on Eligibility Status. request the collection #1126] and Minor abroad proposed This has OMB or DS-2019, a used submitted",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Visitor",
+        "slug": "visitor"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Bureau of Consular Affairs",
+        "agency_slug": "bureau-of-consular-affairs"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2700,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-10-26",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 12767,
+        "wagtaildoc_file": "documents/2020.10.26_DOS_requests_comments_on_proposed_revisions_to_Form_DS-2019_BjnJlM9.pdf",
+        "wagtaildoc_title": "DOS requests comments on proposed revisions to Form DS-2019",
+        "file_size": 244480,
+        "file_hash": "967dea9f525144c3f63567c0df5386fe8db4fcc3",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2758,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 12804,
+        "wagtaildoc_file": "documents/Final_-_Supporting_Statement_DS-2019_1.pdf",
+        "wagtaildoc_title": "Supporting Statement Submitted to OMB",
+        "file_size": 87366,
+        "file_hash": "d8824ca2eca6b524579327f75982db92705d89b1",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.637685Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

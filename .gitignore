@@ -1,0 +1,18 @@
+# Python artefacts
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Cache
+.pytest_cache/
+
+# Local secrets/config
+.env
+.env.*
+config.local.json
+*.local.json
+
+# Local/generated data (safe defaults; keep curated sample data tracked)
+data/parquet_cache/
+data/db_peek_auto/
+data/private/

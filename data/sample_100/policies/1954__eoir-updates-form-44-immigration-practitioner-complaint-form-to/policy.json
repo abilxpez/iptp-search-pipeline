@@ -1,0 +1,109 @@
+{
+  "page_ptr_id": 1954,
+  "title": "EOIR updates Privacy Act notice on Form EOIR-44, Immigration Practitioner/Organization Complaint Form",
+  "slug": "eoir-updates-form-44-immigration-practitioner-complaint-form-to",
+  "url_path": "/home/policies/eoir-updates-form-44-immigration-practitioner-complaint-form-to/",
+  "live": true,
+  "announced_date": "2025-07-02",
+  "effective_date": "2025-07-02",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"3ha1z\">The Executive Office for Immigration Review issued a notice and request for comments on proposed changes to Form EOIR-44, &quot;Immigration Practitioner/Organization Complaint Form.&quot; The form is used by individuals filing complaints regarding immigration practitioners’ behavior in proceedings before EOIR. The only changes to the form are to the Privacy Act notice on the final page. The updated version states that the form&#x27;s information collection is authorized by 8 U.S.C. § 1362 and 8 C.F.R. §§ 1003.101-1003.111. The prior version, revised in June 2023, states that the collection is authorized by 8 U.S.C. § 1362 and 8 C.F.R. §§ 1003.104, 1292.18. The updated version also directs the reader to access the online DOJ system of records and notices for a description of how EOIR may share the information submitted on Form EOIR-44.</p><p data-block-key=\"aorsd\">Comments are accepted for 60 days.</p><p data-block-key=\"3pih\">Trump 2.0 [ID #1954]</p>",
+  "description_text": "The Executive Office for Immigration Review issued a notice and request for comments on proposed changes to Form EOIR-44, \"Immigration Practitioner/Organization Complaint Form.\" The form is used by individuals filing complaints regarding immigration practitioners’ behavior in proceedings before EOIR. The only changes to the form are to the Privacy Act notice on the final page. The updated version states that the form's information collection is authorized by 8 U.S.C. § 1362 and 8 C.F.R. §§ 1003.101-1003.111. The prior version, revised in June 2023, states that the collection is authorized by 8 U.S.C. § 1362 and 8 C.F.R. §§ 1003.104, 1292.18. The updated version also directs the reader to access the online DOJ system of records and notices for a description of how EOIR may share the information submitted on Form EOIR-44.\n\nComments are accepted for 60 days.\n\nTrump 2.0 [ID #1954]",
+  "search_document": "Forms and Information Collection immigration 1003.101-1003.111. 2.0 form&#x27;s version, 1003.104, [ID is a 1362 by 2025.07.02 EOIR - Agency Information Collection Activities; Immigration Practitioner/Organization Complaint Form submitted notice 1292.18. EOIR updates Privacy Act notice on Form EOIR-44, Immigration Practitioner/Organization Complaint Form information authorized C.F.R. also comments collection issued regarding how notices on Privacy days.Trump U.S.C. EOIR. EOIR-44.Comments Review page. updated #1954] practitioners’ proceedings DOJ The updated Form EOIR-44, Immigration Practitioner/Organization Complaint Form, with proposed changes to the Privacy Act notice. that records 60 2023.06 Form EOIR-44 Complaint &quot;Immigration Form.&quot; complaints request Act system prior Executive Form reader § 8 for directs Other changes and Practitioner/Organization The prior version of Form EOIR-44, released in January 2023 and revised in June 2023. individuals before description The filing are EOIR-44, final EOIR proposed revised version states accepted access used only of may to online in §§ Office 2023, share June form the Immigration behavior Executive Office for Immigration Review",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      },
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      },
+      {
+        "title": "Comment Period",
+        "slug": "comment-period"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7144,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-07-02",
+        "display_title": null,
+        "link_title": "2025.07.02 EOIR - Agency Information Collection Activities; Immigration Practitioner/Organization Complaint Form",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2025-07-02/pdf/2025-12291.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 16746,
+        "wagtaildoc_file": "documents/2025.07.02_EOIR_-_Immigration_PractitionerOrganization_Complaint_Form.pdf",
+        "wagtaildoc_title": "2025.07.02 EOIR - Agency Information Collection Activities; Immigration Practitioner/Organization Complaint Form",
+        "file_size": 162766,
+        "file_hash": "68e4435182d18b40040225785d207f7a6eeddaa5",
+        "slug": "20250702-eoir-agency-information-collection-activi"
+      },
+      {
+        "policydocument_id": 7145,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-07-02",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"gxwx7\">The updated Form EOIR-44, Immigration Practitioner/Organization Complaint Form, with proposed changes to the Privacy Act notice.</p>",
+        "wagtaildoc_id": 16747,
+        "wagtaildoc_file": "documents/2025.06_Form_EOIR-44_-_Proposed_Draft.pdf",
+        "wagtaildoc_title": "2025.06 Form EOIR-44 - Proposed Draft",
+        "file_size": 424043,
+        "file_hash": "6dba2f26026f725451193a8fed580db5c370d118",
+        "slug": "202506-form-eoir-44-proposed-draft"
+      },
+      {
+        "policydocument_id": 7146,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2023-06-01",
+        "display_title": null,
+        "link_title": "2023.06 Form EOIR-44",
+        "link": "https://www.justice.gov/d9/2024-09/form_eoir-44_english_jan._2023_updated_jun._2023.pdf",
+        "description_html": "<p data-block-key=\"iy10u\">The prior version of Form EOIR-44, released in January 2023 and revised in June 2023.</p>",
+        "wagtaildoc_id": 16749,
+        "wagtaildoc_file": "documents/2023.06_Form_EOIR-44.pdf",
+        "wagtaildoc_title": "2023.06 Form EOIR-44",
+        "file_size": 377105,
+        "file_hash": "e8995bb272cbb5838ef2b81f79b9adad88b11cc0",
+        "slug": "202306-form-eoir-44"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.649814Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

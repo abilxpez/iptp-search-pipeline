@@ -1,0 +1,93 @@
+{
+  "page_ptr_id": 1440,
+  "title": "DHS terminates all advisory committee members",
+  "slug": "dhs-terminates-all-advisory-committee-members",
+  "url_path": "/home/policies/dhs-terminates-all-advisory-committee-members/",
+  "live": true,
+  "announced_date": "2025-01-20",
+  "effective_date": "2025-01-20",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"c0jte\">Acting DHS Secretary Benjamine Huffman issued a memorandum terminating all current memberships on advisory committees within DHS, effective immediately. The memo states that this decision is aligned with DHS&#x27;s &quot;commitment to eliminating the misuse of resources and ensuring that DHS activities prioritize our national security.&quot;</p><p data-block-key=\"u3uj\">Trump 2.0 [ID #1440]</p>",
+  "description_text": "Acting DHS Secretary Benjamine Huffman issued a memorandum terminating all current memberships on advisory committees within DHS, effective immediately. The memo states that this decision is aligned with DHS's \"commitment to eliminating the misuse of resources and ensuring that DHS activities prioritize our national security.\"\n\nTrump 2.0 [ID #1440]",
+  "search_document": "immediately. The that misuse #1440] our memorandum all with within prioritize security.&quot;Trump activities a decision of [ID the Benjamine and Secretary this effective DHS announced that it would it would terminate several discretionary federal advisory committees. The termination comes in response to EO 14217 &quot;Commencing the Reduction of the Federal Bureaucracy&quot; (Feb. 19, 2025, https://www.federalregister.gov/documents/2025/02/25/2025-03133/commencing-the-reduction-of-the-federal-bureaucracy), which directed senior administration officials to identify &quot;unnecessary governmental entities and Federal Advisory Committees that should be terminated.&quot;The list of DHS federal advisory communities to be terminated includes: The Homeland Security Academic Partnership Council, Tribal Homeland Security Advisory Council, Artificial Intelligence Safety and Security Board, Public-Private Analytic Exchange Program, Homeland Security Science and Technology Advisory Committee, Cyber Investigations Advisory Board, Critical Infrastructure Partnership Advisory Council, and Data Privacy and Integrity Advisory Committee. &quot;commitment issued DHS eliminating DHS Termination of Discretionary Federal Advisory Committees terminating 2.0 DHS&#x27;s is advisory committees aligned Acting ensuring on Other Huffman resources DHS terminates all advisory committee members current memberships to national states Agency Directive memo DHS Memorandum for all Members of Department of Homeland Security Advisory Committees DHS,",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 4852,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-01-20",
+        "display_title": null,
+        "link_title": "DHS Memorandum for all Members of Department of Homeland Security Advisory Committees",
+        "link": "https://www.documentcloud.org/documents/25500121-dhs-letter-on-termination-of-all-dhs-advisory-committee-members/",
+        "description_html": "",
+        "wagtaildoc_id": 14647,
+        "wagtaildoc_file": "documents/2025.01.20_DHS_Memorandum_for_all_Members_of_Department_of_Homeland_Security_A_iBvPF7T.pdf",
+        "wagtaildoc_title": "2025.01.20 DHS Memorandum for all Members of Department of Homeland Security Advisory Committees",
+        "file_size": 38147,
+        "file_hash": "536ade4d0ecb86a66b13ef98cd95e0d4a7ae270c",
+        "slug": "20250120-dhs-memorandum-for-all-members-of-departm"
+      },
+      {
+        "policydocument_id": 5595,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2025-03-12",
+        "display_title": null,
+        "link_title": "DHS Termination of Discretionary Federal Advisory Committees",
+        "link": "https://www.federalregister.gov/public-inspection/2025-04011/termination-of-discretionary-federal-advisory-committees",
+        "description_html": "<p data-block-key=\"j8vc7\">DHS announced that it would it would terminate several discretionary federal advisory committees. The termination comes in response to EO 14217 &quot;Commencing the Reduction of the Federal Bureaucracy&quot; (Feb. 19, 2025, https://www.federalregister.gov/documents/2025/02/25/2025-03133/commencing-the-reduction-of-the-federal-bureaucracy), which directed senior administration officials to identify &quot;unnecessary governmental entities and Federal Advisory Committees that should be terminated.&quot;</p><p data-block-key=\"a0i12\">The list of DHS federal advisory communities to be terminated includes: The Homeland Security Academic Partnership Council, Tribal Homeland Security Advisory Council, Artificial Intelligence Safety and Security Board, Public-Private Analytic Exchange Program, Homeland Security Science and Technology Advisory Committee, Cyber Investigations Advisory Board, Critical Infrastructure Partnership Advisory Council, and Data Privacy and Integrity Advisory Committee.</p>",
+        "wagtaildoc_id": 15446,
+        "wagtaildoc_file": "documents/2025.03.12_DHS_Notice_of_Termination_of_FACs.pdf",
+        "wagtaildoc_title": "2025.03.12 DHS Notice of Termination of Discretionary Federal Advisory Committees",
+        "file_size": 147408,
+        "file_hash": "73829087e1fa7f84d25ea4572e5f859d7c034a6d",
+        "slug": "20250312-dhs-notice-of-termination-of-discretionar"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1409,
+      "title": "EO 14159 § 11 directs DHS to maximally authorize state and local law enforcement to be immigration officers",
+      "slug": "potus-issues-executive-order-directing-dhs-to-engage-states-and-local-officials-to-participate-in-287g-agreements",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.772648Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

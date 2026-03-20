@@ -1,0 +1,96 @@
+{
+  "page_ptr_id": 249,
+  "title": "POTUS issues EO 13776, creating task force on \"illegal immigration\"",
+  "slug": "executive-order-13776-creates-task-force-on-illegal-immigration",
+  "url_path": "/home/policies/executive-order-13776-creates-task-force-on-illegal-immigration/",
+  "live": true,
+  "announced_date": "2017-02-09",
+  "effective_date": "2017-02-09",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>Executive Order 13776, &quot;Task Force on Crime Reduction and Public Safety,&quot; directs the Attorney General to create a task force to develop policies that “comprehensively address illegal immigration, drug trafficking and violent crime.” [ID #249]</p>",
+  "description_text": "Executive Order 13776, \"Task Force on Crime Reduction and Public Safety,\" directs the Attorney General to create a task force to develop policies that “comprehensively address illegal immigration, drug trafficking and violent crime.” [ID #249]",
+  "search_document": "[ID Attorney crime.” Task Force on Crime Reduction and Public Safety and task create Force develop Other Reduction General “comprehensively immigration, AG Sessions states: &quot;I created the Task Force in February and it has provided me with recommendations on a rolling basis. Dedicated professionals from throughout the Department have been listening to our partners in state, local, and tribal law enforcement; identifying successful violent crime reduction strategies; and developing recommendations on actions the Department can take to help improve public safety. I have been acting on the Task Force&#x27;s recommendations to set the policy of the Department.&quot; Attorney General Executive Order 13776: Task Force on Crime Reduction and Public Safety crime reduction directs on Safety,&quot; violent Executive Recommendations From the Task Force on Crime Reduction and Public Safety force Order AG Presidential Orders trafficking 13776, that the illegal policies POTUS issues EO 13776, creating task force on \"illegal immigration\" Crime AG Sessions Statement Task Force on Crime Reduction and Public Safety #249] drug address to Public &quot;Task a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Presidential Orders",
+        "slug": "presidential-orders"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Attorney General",
+        "agency_slug": "attorney-general"
+      },
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 634,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2017-02-09",
+        "display_title": "Executive Order 13776: Task Force on Crime Reduction and Public Safety",
+        "link_title": "Task Force on Crime Reduction and Public Safety",
+        "link": "https://www.whitehouse.gov/presidential-actions/presidential-executive-order-task-force-crime-reduction-public-safety/",
+        "description_html": "",
+        "wagtaildoc_id": 1173,
+        "wagtaildoc_file": "documents/Executive_Order_13776_.pdf",
+        "wagtaildoc_title": "Executive Order 13776: Task Force on Crime Reduction and Public Safety",
+        "file_size": 177031,
+        "file_hash": "6319f9d0a2d7c096b28025f4bee0648f7ee6b1fb",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 635,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2017-07-26",
+        "display_title": "AG Sessions Statement Task Force on Crime Reduction and Public Safety",
+        "link_title": "Recommendations From the Task Force on Crime Reduction and Public Safety",
+        "link": "https://www.justice.gov/opa/pr/statement-attorney-general-jeff-sessions-recommendations-task-force-crime-reduction-and",
+        "description_html": "<p>AG Sessions states: &quot;I created the Task Force in February and it has provided me with recommendations on a rolling basis. Dedicated professionals from throughout the Department have been listening to our partners in state, local, and tribal law enforcement; identifying successful violent crime reduction strategies; and developing recommendations on actions the Department can take to help improve public safety. I have been acting on the Task Force&#x27;s recommendations to set the policy of the Department.&quot;</p>",
+        "wagtaildoc_id": 12609,
+        "wagtaildoc_file": "documents/2017.07.26_AG_Sessions_Statement_Task_Force_on_Crime_Reduction_and_Public_Safety.pdf",
+        "wagtaildoc_title": "AG Sessions Statement Task Force on Crime Reduction and Public Safety",
+        "file_size": 53400,
+        "file_hash": "00fd2d104f1e8f68090b30166d2bcfa7a85ff527",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.999042Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

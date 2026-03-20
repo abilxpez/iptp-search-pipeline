@@ -1,0 +1,107 @@
+{
+  "page_ptr_id": 875,
+  "title": "USCIS redesigns processing times webpage and tests new way of calculating processing times",
+  "slug": "uscis-publicizes-data-on-form-processing-times",
+  "url_path": "/home/policies/uscis-publicizes-data-on-form-processing-times/",
+  "live": true,
+  "announced_date": "2018-03-22",
+  "effective_date": "2018-03-22",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>USCIS launches a website pilot to display processing time data in an easier-to-read format and also tests a new way of collecting data and calculating the processing times for Form N-400 (Naturalization), Form I-90 (Replace Permanent Resident Card), Form I-485 (Register Permanent Residence or Adjust Status), and Form I-751 (Remove Conditions on Residence). The updated website shows the time it takes to complete 50 percent of cases, and the time it takes to complete 93 percent of cases. [ID #875]</p>",
+  "description_text": "USCIS launches a website pilot to display processing time data in an easier-to-read format and also tests a new way of collecting data and calculating the processing times for Form N-400 (Naturalization), Form I-90 (Replace Permanent Resident Card), Form I-485 (Register Permanent Residence or Adjust Status), and Form I-751 (Remove Conditions on Residence). The updated website shows the time it takes to complete 50 percent of cases, and the time it takes to complete 93 percent of cases. [ID #875]",
+  "search_document": "format Naturalization Residence). USCIS also I-751 calculating it (Replace new and display I-90 (Register #875] The (Naturalization), I-485 an for Form N-400 Resident Conditions easier-to-read data cases, pilot takes [ID website Data and Reports or Residence (Remove in Adjust times 50 shows Forms and Information Collection cases. of on updated 93 tests launches USCIS News Release: USCIS Updates Webpage to Share More Accurate Processing Times time Card), U.S. Citizenship and Immigration Services way American Immigration Council: How USCIS Estimates Application and Petition Processing Times percent Permanent collecting processing the Status), USCIS redesigns processing times webpage and tests new way of calculating processing times to complete a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      },
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-3"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      },
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Naturalization",
+        "slug": "naturalization"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1978,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-03-22",
+        "display_title": "USCIS News Release: USCIS Updates Webpage to Share More Accurate Processing Times",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 2931,
+        "wagtaildoc_file": "documents/USCIS_Updates_Webpage_to_Share_More_Accurate_Processing_Times.pdf",
+        "wagtaildoc_title": "USCIS News Release: USCIS Updates Webpage to Share More Accurate Processing Times",
+        "file_size": 415556,
+        "file_hash": "1b323ebe3331c60857296b46dbb28ffc0adb897d",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 1979,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2018-07-18",
+        "display_title": "American Immigration Council: How USCIS Estimates Application and Petition Processing Times",
+        "link_title": "American Immigration Council: How USCIS Estimates Application and Petition Processing Times",
+        "link": "https://www.americanimmigrationcouncil.org/research/uscis-data-application-and-petition-processing-times",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.910881Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

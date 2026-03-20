@@ -1,0 +1,147 @@
+{
+  "page_ptr_id": 611,
+  "title": "DOJ files denaturalization complaints against 3 U.S. citizens",
+  "slug": "doj-files-denaturalization-complaints-against-3-us-citizens",
+  "url_path": "/home/policies/doj-files-denaturalization-complaints-against-3-us-citizens/",
+  "live": true,
+  "announced_date": "2017-09-19",
+  "effective_date": "2017-09-19",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>DOJ filed civil denaturalization complaints in federal court against three individuals who allegedly obtained their naturalized U.S. citizenship by fraud. Each of the three individuals had been U.S. citizens for over 10 years. Two Pakistan-born and one India-born individuals’ alleged frauds involved concealing their prior orders of exclusion and deportation under different identities than the identity under which they naturalized. [ID #611]</p>",
+  "description_text": "DOJ filed civil denaturalization complaints in federal court against three individuals who allegedly obtained their naturalized U.S. citizenship by fraud. Each of the three individuals had been U.S. citizens for over 10 years. Two Pakistan-born and one India-born individuals’ alleged frauds involved concealing their prior orders of exclusion and deportation under different identities than the identity under which they naturalized. [ID #611]",
+  "search_document": "individuals’ which alleged USCIS DOJ years. who concealing civil and different 10 Pakistan-born federal deportation by fraud. orders identity for involved Justice Department Secures First Denaturalization As a Result of Operation Janus DOJ News Release: United States Files Denaturalization Complaints allegedly Change in Practice over Each had Office of Inspector General- \"Potentially Ineligible Individuals Have Been Granted U.S. Citizenship Because of Incomplete Fingerprint Records\" individuals DOJ News Release: United States Files Denaturalization Complaints in Florida, Connecticut and New Jersey Against Three Individuals Who Fraudulently Naturalized After Having Been Ordered Deported Under Different Identities [ID three one under citizenship Under Trump, the rare act of denaturalizing U.S. citizens on the rise DOJ files denaturalization complaints against 3 U.S. citizens exclusion identities in citizens U.S. Other At least one individual was denaturalized. #611] India-born denaturalization their of naturalized been complaints against they OIG Report obtained U.S. Citizenship and Immigration Services Two frauds court than prior the filed From 2009 to 2016, an average of 16 civil denaturalization cases were filed each year, Department of Justice data show. In 2017, more than 25 cases were filed. Through mid-July of 2018, the Justice Department has filed 20 more. naturalized.",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-5"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      },
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1403,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2017-09-19",
+        "display_title": "DOJ News Release: United States Files Denaturalization Complaints in Florida, Connecticut and New Jersey Against Three Individuals Who Fraudulently Naturalized After Having Been Ordered Deported Under Different Identities",
+        "link_title": "DOJ News Release: United States Files Denaturalization Complaints",
+        "link": "https://www.justice.gov/opa/pr/united-states-files-denaturalization-complaints-florida-connecticut-and-new-jersey-against",
+        "description_html": "",
+        "wagtaildoc_id": 747,
+        "wagtaildoc_file": "documents/Denaturalization_Complaints.pdf",
+        "wagtaildoc_title": "DOJ News Release: United States Files Denaturalization Complaints in Florida, Connecticut and New Jersey Against Three Individuals Who Fraudulently Naturalized After Having Been Ordered Deported Under Different Identities",
+        "file_size": 564442,
+        "file_hash": "e80607fce6bb484cd9937c901cbf61ae11b8deae",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1404,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2016-09-08",
+        "display_title": "Office of Inspector General- \"Potentially Ineligible Individuals Have Been Granted U.S. Citizenship Because of Incomplete Fingerprint Records\"",
+        "link_title": "OIG Report",
+        "link": "https://www.oig.dhs.gov/sites/default/files/assets/2017/OIG-17-111-Sep17.pdf",
+        "description_html": "From 2009 to 2016, an average of 16 civil denaturalization cases were filed each year, Department of Justice data show. In 2017, more than 25 cases were filed. Through mid-July of 2018, the Justice Department has filed 20 more.",
+        "wagtaildoc_id": 1935,
+        "wagtaildoc_file": "documents/OIG_report.pdf",
+        "wagtaildoc_title": "Office of Inspector General- \"Potentially Ineligible Individuals Have Been Granted U.S. Citizenship Because of Incomplete Fingerprint Records\"",
+        "file_size": 2428472,
+        "file_hash": "999a39896b33657a067525b3408b3d4fc4cb5eee",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1405,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2018-08-12",
+        "display_title": "Under Trump, the rare act of denaturalizing U.S. citizens on the rise",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 2475,
+        "wagtaildoc_file": "documents/Under_Trump_the_rare_act_of_denaturali...tizens_on_the_rise_-_Los_Angeles_Times.pdf",
+        "wagtaildoc_title": "Under Trump, the rare act of denaturalizing U.S. citizens on the rise",
+        "file_size": 1552201,
+        "file_hash": "691fea6daeacbac9afbdd427e2acff19b5130cf6",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1406,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": null,
+        "display_title": "Justice Department Secures First Denaturalization As a Result of Operation Janus",
+        "link_title": "Justice Department Secures First Denaturalization As a Result of Operation Janus",
+        "link": "https://www.justice.gov/opa/pr/justice-department-secures-first-denaturalization-result-operation-janus",
+        "description_html": "At least one individual was denaturalized.",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 622,
+      "title": "USCIS reportedly launches a large-scale denaturalization operation",
+      "slug": "uscis-reportedly-launches-a-large-scale-denaturalization-operation",
+      "announced_date": "2018-06-11",
+      "effective_date": "2018-06-11",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 237,
+      "title": "DOJ announces OIL unit dedicated to denaturalization cases",
+      "slug": "doj-announces-section-dedicated-to-denaturalization-cases",
+      "announced_date": "2020-02-26",
+      "effective_date": "2020-02-26",
+      "expired_date": null,
+      "current_status": "Fully in Effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.994497Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "page_ptr_id": 2179,
+  "title": "Reported: Trump administration targets 14 blue states and D.C. with sweeping federal funding review",
+  "slug": "reported-trump-administration-targets-14-blue-states-with-sweeping-federal-funding-review",
+  "url_path": "/home/policies/reported-trump-administration-targets-14-blue-states-with-sweeping-federal-funding-review/",
+  "live": true,
+  "announced_date": "2026-01-22",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"0fgfk\"><i>CNN</i> reports that the Office of Management and Budget (OMB) issued a budget data request to almost all federal departments, directing them to supply data on federal funding provided to 14 states and Washington, DC, &quot;as well as their localities, institutions of higher education and nonprofit organizations operating or performing award activities there.&quot; The states include California, Colorado, Connecticut, Delaware, Illinois, Massachusetts, Minnesota, New Jersey, New York, Oregon, Rhode Island, Vermont, Virginia, Washington, and Washington, DC. All of the states voted for Democratic nominee and former Vice President Kamala Harris in the 2024 election and 12 currently have Democratic governors.</p><p data-block-key=\"c79hj\">The news comes after Trump promised to cut off funding to sanctuary cities during a speech in Detroit, stating that &quot;[s]tarting February 1, we’re not making any payments to sanctuary cities or states having sanctuary cities because they do everything possible to protect criminals at the expense of American citizens.&quot; The OMB memo, however, states that the purpose of the data request is to “facilitate efforts to reduce the improper and fraudulent use of those funds&quot; and &quot;does not involve withholding funds.&quot;</p><p data-block-key=\"84v67\">Trump 2.0 [ID #2179]</p>",
+  "description_text": "CNN reports that the Office of Management and Budget (OMB) issued a budget data request to almost all federal departments, directing them to supply data on federal funding provided to 14 states and Washington, DC, \"as well as their localities, institutions of higher education and nonprofit organizations operating or performing award activities there.\" The states include California, Colorado, Connecticut, Delaware, Illinois, Massachusetts, Minnesota, New Jersey, New York, Oregon, Rhode Island, Vermont, Virginia, Washington, and Washington, DC. All of the states voted for Democratic nominee and former Vice President Kamala Harris in the 2024 election and 12 currently have Democratic governors.\n\nThe news comes after Trump promised to cut off funding to sanctuary cities during a speech in Detroit, stating that \"[s]tarting February 1, we’re not making any payments to sanctuary cities or states having sanctuary cities because they do everything possible to protect criminals at the expense of American citizens.\" The OMB memo, however, states that the purpose of the data request is to “facilitate efforts to reduce the improper and fraudulent use of those funds\" and \"does not involve withholding funds.\"\n\nTrump 2.0 [ID #2179]",
+  "search_document": "reports payments Management for Detroit, any citizens.&quot; governors.The request &quot;as improper stating organizations and them cities having the 12 New use 14 Washington, Trump American currently 2.0 voted 1, funds.&quot;Trump Vermont, CNN award Illinois, operating activities nominee involve we’re data off purpose localities, institutions [ID 2026.01.22 Reported: Trump administration targets 14 blue states with sweeping federal funding review - CNN after their however, Island, in those states news reduce higher as February Virginia, departments, Minnesota, at funding there.&quot; possible they speech or do DC. include &quot;does of withholding Office OMB education California, former Oregon, Reported: Trump administration targets 14 blue states and D.C. with sweeping federal funding review Vice comes directing to &quot;[s]tarting Rhode federal almost protect not memo, #2179] election sanctuary supply criminals all (OMB) fraudulent because performing Budget All provided everything “facilitate York, Harris Sanctuary Restrictions funds&quot; nonprofit cut is Colorado, Massachusetts, Kamala expense well Delaware, Other 2024 during Democratic issued budget that Connecticut, The Data and Reports a Jersey, making DC, President have efforts promised on",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Data and Reports",
+        "slug": "data-and-reports"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Sanctuary Restrictions",
+        "slug": "sanctuary-restrictions"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-6"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      },
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 8334,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": "2026.01.22 Reported: Trump administration targets 14 blue states with sweeping federal funding review - CNN",
+        "link": "https://www.cnn.com/2026/01/22/politics/trump-federal-funding-democratic-states",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20260122-reported-trump-administration-targets-14"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1391,
+      "title": "EO 14159 § 17 directs DOJ and DHS to take civil and criminal enforcement actions against “sanctuary jurisdictions”",
+      "slug": "potus-issues-executive-order-directing-doj-and-dhs-to-take-civil-and-criminal-enforcement-action-against-sanctuary-jurisdictions",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 2001,
+      "title": "FEMA withholds preparedness-grant money until states comply with conditions",
+      "slug": "fema-withholds-preparedness-grant-money-until-states-account-for-deportations",
+      "announced_date": "2025-03-25",
+      "effective_date": "2025-03-25",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1484,
+      "title": "Department of Transportation issues order requiring states and localities to cooperate with federal immigration enforcement for funding",
+      "slug": "department-of-transportation-issued-order-requiring-local-government-cooperation-with-federal-immigration-enforcement-in-order-to-receive-funding",
+      "announced_date": "2025-01-29",
+      "effective_date": "2025-01-29",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.865238Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "page_ptr_id": 1132,
+  "title": "AG Barr certifies Matter of A-M-R-C-, a 15 years' closed asylum case",
+  "slug": "ag-barr-certifies-matter-m-r-c-15-years-closed-asylum-case",
+  "url_path": "/home/policies/ag-barr-certifies-matter-m-r-c-15-years-closed-asylum-case/",
+  "live": true,
+  "announced_date": "2020-06-17",
+  "effective_date": "2020-06-17",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>AG Barr certifies to himself <i>Matter of A-M-R-C-</i>, an asylum case that reportedly was granted and concluded nearly 15 years ago. The reason for certifying the case is not disclosed. The certification order invites the parties and amici to respond to the following questions:</p><ol><li>Would the delay in certifying this case cause the respondent to suffer any “prejudice from any inability to prove his defenses,” or otherwise prevent the AG from reviewing the BIA decision?</li><li>Did the BIA err in determining, as a matter of discretion, that there was not probable cause that the respondent had committed a “serious nonpolitical crime”? Did the BIA correctly conclude that the crime of the respondent&#x27;s <i>in absentia</i> conviction was not “disproportionate to the objective” or “of an atrocious or barbarous character”?</li><li>Did the BIA err in determining that the persecutor bar at did not apply to the respondent’s asylum claim?</li><li>Did the BIA apply the correct legal standard in concluding that the respondent’s <i>in absentia</i> trial suffered from due process problems even though the State Department had found the trial had satisfied due process?</li></ol><p>[ID #1132]</p>",
+  "description_text": "AG Barr certifies to himself Matter of A-M-R-C-, an asylum case that reportedly was granted and concluded nearly 15 years ago. The reason for certifying the case is not disclosed. The certification order invites the parties and amici to respond to the following questions:\n\n- Would the delay in certifying this case cause the respondent to suffer any “prejudice from any inability to prove his defenses,” or otherwise prevent the AG from reviewing the BIA decision?\n- Did the BIA err in determining, as a matter of discretion, that there was not probable cause that the respondent had committed a “serious nonpolitical crime”? Did the BIA correctly conclude that the crime of the respondent's in absentia conviction was not “disproportionate to the objective” or “of an atrocious or barbarous character”?\n- Did the BIA err in determining that the persecutor bar at did not apply to the respondent’s asylum claim?\n- Did the BIA apply the correct legal standard in concluding that the respondent’s in absentia trial suffered from due process problems even though the State Department had found the trial had satisfied due process?\n\n[ID #1132]",
+  "search_document": "ago. bar certification AG Barr certifies Matter of A-M-R-C-, a 15 years' closed asylum case prove years concluding respondent Adjudication granted correctly discretion, and invites there determining, concluded nonpolitical “serious The atrocious a was Attorney General correct delay any conclude disclosed. an Politico: He thought he had asylum. Now, he could face a death sentence. BIA reviewing for AG otherwise apply suffer State Matter of A-M-R-C-, 28 I&N Dec. 7 (A.G. 2020) “prejudice that problems #1132] trial though standard nearly Did err had “disproportionate legal Matter due cause inability decision?Did reason parties not Asylum, Withholding and CAT or persecutor determining satisfied in at committed respond from claim?Did conviction following matter barbarous of did even certifies probable character”?Did absentia process found as Department suffered crime amici himself respondent&#x27;s crime”? Barr is order 15 objective” case this respondent’s the agcert questions:Would defenses,” his prevent asylum A-M-R-C-, process?[ID to certifying “of reportedly",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Adjudication",
+        "slug": "adjudication"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Asylum, Withholding and CAT",
+        "slug": "asylum-withholding-and-cat"
+      },
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Attorney General",
+        "agency_slug": "attorney-general"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2753,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-06-17",
+        "display_title": null,
+        "link_title": "Matter of A-M-R-C-, 28 I&N Dec. 7 (A.G. 2020)",
+        "link": "https://www.justice.gov/eoir/page/file/1286356/download",
+        "description_html": "",
+        "wagtaildoc_id": 12800,
+        "wagtaildoc_file": "documents/Matter_of_A-M-R-C-_28_IN_Dec._7_A.G._2020.pdf",
+        "wagtaildoc_title": "Matter of A-M-R-C-, 28 I&N Dec. 7 (A.G. 2020)",
+        "file_size": 15642,
+        "file_hash": "368bdc01fb87ab21d43632d06a4d3e31c042f415",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 2754,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2020-07-24",
+        "display_title": null,
+        "link_title": "Politico: He thought he had asylum. Now, he could face a death sentence.",
+        "link": "https://www.politico.com/news/2020/07/24/rashed-chowdhury-asylum-death-sentence-381075",
+        "description_html": "",
+        "wagtaildoc_id": 12799,
+        "wagtaildoc_file": "documents/Politico_-_He_thought_he_had_asylum_YoVgla2.pdf",
+        "wagtaildoc_title": "Politico: He thought he had asylum. Now, he could face a death sentence.",
+        "file_size": 266577,
+        "file_hash": "5f0cd2282b2157d17e2ad89fb16635257a060f86",
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.680447Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "page_ptr_id": 949,
+  "title": "DOL requests comment on proposed revisions to Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form",
+  "slug": "dol-requests-comment-on-whether-migrant-and-seasonal-farmworker-monitoring-report-and-complaint-form-is-necessary",
+  "url_path": "/home/policies/dol-requests-comment-on-whether-migrant-and-seasonal-farmworker-monitoring-report-and-complaint-form-is-necessary/",
+  "live": true,
+  "announced_date": "2019-09-25",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>DOL seeks comments on proposed revisions to an information collection titled, Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form. Form ETA–5148, Services to Migrant and Seasonal Farmworkers Report, collects data that monitors and measures how a State Workforce Agency delivers services to MSFWs. Form ETA–8429, One-Stop Career Center Compliance Referral Record, collects and documents complaints, including trafficking and sexual harassment/coercion/assault complaints. [ID #949]</p>",
+  "description_text": "DOL seeks comments on proposed revisions to an information collection titled, Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form. Form ETA–5148, Services to Migrant and Seasonal Farmworkers Report, collects data that monitors and measures how a State Workforce Agency delivers services to MSFWs. Form ETA–8429, One-Stop Career Center Compliance Referral Record, collects and documents complaints, including trafficking and sexual harassment/coercion/assault complaints. [ID #949]",
+  "search_document": "including Form. and farm worker Workforce proposed Center Compliance eta-5148 Farmworker Farmworkers collects harassment/coercion/assault an Monitoring complaints. DOL measures Report ETA–5148, documents State comments Agency Information Collection Activities; Submission for OMB Review; Comment Request; Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form Form that data sexual Complaint/Apparent farmworker State & Local Entities delivers Seasonal [ID how #949] ETA–8429, complaints, One-Stop MSFWs. Other monitors OMB approved this information collection (without change). Forms and Information Collection Services Supporting Statement Report, DOL requests comment on proposed revisions to Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form Record, Migrant Supporting Statement submitted to OMB. S&L titled, on seeks Violation information services h-2a Career trafficking Agency OMB approved this information collection request (MSFW) Referral Employment-Based revisions assault coercion eta 8429 to collection a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Employment-Based",
+        "slug": "employment-based"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Labor",
+        "department_slug": "department-of-labor",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-3"
+      },
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "State & Local Entities",
+        "agency_slug": "state-local-entities"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2185,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-09-25",
+        "display_title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1798,
+        "wagtaildoc_file": "documents/Migrant_and_seasonal_farmworker.pdf",
+        "wagtaildoc_title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form",
+        "file_size": 294892,
+        "file_hash": "32331a7f033b1937a16df93c591aa7aef03d9543",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2186,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": "Supporting Statement",
+        "link_title": "",
+        "link": "",
+        "description_html": "Supporting Statement submitted to OMB.",
+        "wagtaildoc_id": 12498,
+        "wagtaildoc_file": "documents/Supporting_statement.pdf",
+        "wagtaildoc_title": "Supporting Statement",
+        "file_size": 668571,
+        "file_hash": "ce7bef5d0785cee578e528bea9ee5739b9fbf8cf",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2187,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-12-21",
+        "display_title": "OMB approved this information collection request",
+        "link_title": "",
+        "link": "",
+        "description_html": "OMB approved this information collection (without change).",
+        "wagtaildoc_id": 12497,
+        "wagtaildoc_file": "documents/201908-1205-002_300597.pdf",
+        "wagtaildoc_title": "OMB approved this information collection request",
+        "file_size": 39880,
+        "file_hash": "3d14fdb33bed94d9b8b589e2756220b4249db934",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.784496Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

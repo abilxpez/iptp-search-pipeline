@@ -1,0 +1,123 @@
+{
+  "page_ptr_id": 518,
+  "title": "SSA announces return of \"no-match\" letters",
+  "slug": "ssa-announces-return-of-no-match-letters",
+  "url_path": "/home/policies/ssa-announces-return-of-no-match-letters/",
+  "live": true,
+  "announced_date": "2018-07-01",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>SSA notifies employers that it intends to resume sending &quot;no-match&quot; letters to employers in 2019. The letters indicate that tax information submitted by an employer does not match the SSA&#x27;s records. Such letters could potentially suggest that an employee is an undocumented immigrant. [ID #518]</p>",
+  "description_text": "SSA notifies employers that it intends to resume sending \"no-match\" letters to employers in 2019. The letters indicate that tax information submitted by an employer does not match the SSA's records. Such letters could potentially suggest that an employee is an undocumented immigrant. [ID #518]",
+  "search_document": "not [ID suggest The SSA began sending no-match letters again in May 2019. immigrant. it sending in employer employers could The match employee &quot;no-match&quot; Press Report: Mismatched SSNs Could Pave New Path for Immigration Enforcement by tax resume potentially undocumented an Know Your Rights about the Social Security \"No-Match\" letter information is SSA&#x27;s Social Security Administration does Feds’ ID verification letters frighten eateries, hotels that hire immigrants that #518] records. submitted letters Change in Practice FAQ: Social Security No Match Letter SSA the Workplace Enforcement Such SSA announces return of \"no-match\" letters 2019. intends to notifies indicate",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Workplace Enforcement",
+        "slug": "workplace-enforcement"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Social Security Administration",
+        "agency_slug": "social-security-administration"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1225,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-07-01",
+        "display_title": "Press Report: Mismatched SSNs Could Pave New Path for Immigration Enforcement",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1805,
+        "wagtaildoc_file": "documents/Mismatched_SSNs_Could_Pave_New_Path_for_Immigration_Enforcement_Bloomberg_Law.pdf",
+        "wagtaildoc_title": "Press Report: Mismatched SSNs Could Pave New Path for Immigration Enforcement",
+        "file_size": 1087508,
+        "file_hash": "7bb28c69d3c8c014443f48a169c7a92acee77956",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1228,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-05-15",
+        "display_title": "Feds’ ID verification letters frighten eateries, hotels that hire immigrants",
+        "link_title": "",
+        "link": "",
+        "description_html": "The SSA began sending no-match letters again in May 2019.",
+        "wagtaildoc_id": 1245,
+        "wagtaildoc_file": "documents/Feds_frighten_eateries_hotels_that_hire_immigrants_with_raids.pdf",
+        "wagtaildoc_title": "Feds’ ID verification letters frighten eateries, hotels that hire immigrants",
+        "file_size": 1532057,
+        "file_hash": "697fa9268df5f055d1ac4fdfebe456cf32c8bcef",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 1226,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": null,
+        "display_title": "FAQ: Social Security No Match Letter",
+        "link_title": "FAQ: Social Security No Match Letter",
+        "link": "https://www.nilc.org/issues/workersrights/no-match-letter-toolkit/social-security-no-match-letters-faq/",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1227,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": null,
+        "display_title": "Know Your Rights about the Social Security \"No-Match\" letter",
+        "link_title": "Know Your Rights about the Social Security \"No-Match\" letter",
+        "link": "https://www.nilc.org/wp-content/uploads/2019/03/no-match-know-your-rights-2019.pdf",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.823277Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

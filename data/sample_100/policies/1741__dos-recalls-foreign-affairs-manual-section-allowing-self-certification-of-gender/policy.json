@@ -1,0 +1,143 @@
+{
+  "page_ptr_id": 1741,
+  "title": "DOS recalls Foreign Affairs Manual section allowing self-certification of gender on passport applications",
+  "slug": "dos-recalls-foreign-affairs-manual-section-allowing-self-certification-of-gender",
+  "url_path": "/home/policies/dos-recalls-foreign-affairs-manual-section-allowing-self-certification-of-gender/",
+  "live": true,
+  "announced_date": "2025-01-29",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"usn48\">DOS revised the Foreign Affairs Manual to recall 8 FAM 403.3, “Gender Designation.&quot; As evidenced in a <a href=\"https://web.archive.org/web/20241224164412/https://fam.state.gov/fam/08fam/08fam040303.html\">version of the manual from December 24, 2024</a>, the section previously allowed applicants for US passports and Consular Report of Birth of a US Citizen Abroad to self-certify their gender markers as “M” or “F” regardless of the gender marker listed on their evidence of identity and/or citizenship. The section currently appears as &quot;unassigned&quot; in the manual.</p><p data-block-key=\"7nf6m\">Trump 2.0 [ID #1741]</p>",
+  "description_text": "DOS revised the Foreign Affairs Manual to recall 8 FAM 403.3, “Gender Designation.\" As evidenced in a version of the manual from December 24, 2024, the section previously allowed applicants for US passports and Consular Report of Birth of a US Citizen Abroad to self-certify their gender markers as “M” or “F” regardless of the gender marker listed on their evidence of identity and/or citizenship. The section currently appears as \"unassigned\" in the manual.\n\nTrump 2.0 [ID #1741]",
+  "search_document": "recall #1741] their applicants citizenship. or Wayback Machine - DOS - 8 FAM 403.3 revised Designation.&quot; Change in Practice 2024, self-certify US Manual manual.Trump Consular The FAM marker DOS - 8 FAM Table of Contents 8 “Gender version regardless evidenced “M” appears listed 24, for as Abroad section &quot;unassigned&quot; gender from Other As currently and “F” on passports Birth and/or identity DOS Affairs the Foreign 2.0 of manual to a previously Citizen December in [ID DOS recalls Foreign Affairs Manual section allowing self-certification of gender on passport applications allowed evidence Report 403.3, markers",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-5"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6204,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-01-29",
+        "display_title": null,
+        "link_title": "Wayback Machine - DOS - 8 FAM 403.3",
+        "link": "https://web.archive.org/web/20250129224900/https://fam.state.gov/fam/08fam/08fam040303.html",
+        "description_html": "",
+        "wagtaildoc_id": 15894,
+        "wagtaildoc_file": "documents/2025.01.29_Wayback_Machine_-_DOS_-_8_FAM_403.3.pdf",
+        "wagtaildoc_title": "2025.01.29 Wayback Machine - DOS - 8 FAM 403.3",
+        "file_size": 63941,
+        "file_hash": "b28253755403d4922f88e2e024afe4e01f1e09d4",
+        "slug": "20250129-wayback-machine-dos-8-fam-4033"
+      },
+      {
+        "policydocument_id": 6203,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-09",
+        "display_title": null,
+        "link_title": "DOS - 8 FAM Table of Contents",
+        "link": "https://fam.state.gov/Volumes/Details/08FAM",
+        "description_html": "",
+        "wagtaildoc_id": 15893,
+        "wagtaildoc_file": "documents/2025.05.09_DOS_-_8_FAM_Table_of_Contents.pdf",
+        "wagtaildoc_title": "2025.05.09 DOS - 8 FAM Table of Contents",
+        "file_size": 235369,
+        "file_hash": "8206e520bc7b074c8b63ed4092d384bcfbba0486",
+        "slug": "20250509-dos-8-fam-table-of-contents"
+      },
+      {
+        "policydocument_id": 6205,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2024-12-24",
+        "display_title": null,
+        "link_title": "Wayback Machine - DOS - 8 FAM 403.3",
+        "link": "https://web.archive.org/web/20241224164412/https://fam.state.gov/fam/08fam/08fam040303.html",
+        "description_html": "",
+        "wagtaildoc_id": 15895,
+        "wagtaildoc_file": "documents/2024.12.24_Wayback_Machine_-_DOS_-_8_FAM_403.3.pdf",
+        "wagtaildoc_title": "2024.12.24 Wayback Machine - DOS - 8 FAM 403.3",
+        "file_size": 147258,
+        "file_hash": "caaba80d6c71f803d5a69e7def06ff5005f26872",
+        "slug": "20241224-wayback-machine-dos-8-fam-4033"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1421,
+      "title": "EO 14168 § 3(d) directs DOS and DHS to require that government-issued identification documents reflect \"immutable biological\" sex",
+      "slug": "eo-defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government-3d-direct-dos-and-dhs-to-require-that-government-issued-identification-documents-reflect-immutable-biological-sex",
+      "announced_date": "2025-01-20",
+      "effective_date": "2025-01-20",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1576,
+      "title": "DOS proposes changes to Form DS-5504 (Application for a U.S. Passport for Eligible Individuals: Correction, Name Change to Passport) to no longer allow \"X\" gender marker",
+      "slug": "dos-proposes-changes-to-form-ds-5504-application-for-a-us-passport-for-eligible-individuals-correction-name-change-to-passport-to-make-it-compliant-with-in-compliance-with-eo-14168",
+      "announced_date": "2025-02-18",
+      "effective_date": "2025-02-18",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1577,
+      "title": "DOS proposes changes to DS-82 (U.S. Passport Renewal Application) to eliminate \"X\" gender marker from application",
+      "slug": "dos-proposes-changes-to-ds-82-us-passport-renewal-application-to-make-it-compliant-with-eo-14168",
+      "announced_date": "2025-02-18",
+      "effective_date": "2025-02-18",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1446,
+      "title": "DOS proposes changes to Form DS-11 (Application for a U.S. Passport), and will no longer issue passports with \"X\" sex markers",
+      "slug": "report-dos-will-no-longer-issue-passports-and-other-official-documents-with-x-sex-markers",
+      "announced_date": "2025-02-14",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.792307Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

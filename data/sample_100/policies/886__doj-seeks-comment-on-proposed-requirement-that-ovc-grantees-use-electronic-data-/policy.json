@@ -1,0 +1,112 @@
+{
+  "page_ptr_id": 886,
+  "title": "DOJ seeks comment on proposal that OVC grantees must use TIMS, an electronic database",
+  "slug": "doj-seeks-comment-on-proposed-requirement-that-ovc-grantees-use-electronic-data-submission-tool",
+  "url_path": "/home/policies/doj-seeks-comment-on-proposed-requirement-that-ovc-grantees-use-electronic-data-submission-tool/",
+  "live": true,
+  "announced_date": "2018-05-22",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>The DOJ Office for Victims of Crime (OVC) Training and Technical Assistance Center seeks comment on a currently existing information collection regarding proposed revisions to the OVC Trafficking Information Management System (TIMS), a web-based database and reporting system for the Victims of Human Trafficking Grant and the Enhanced Collaborative Model Grant initiatives. OVC will require OVC Grantees to use this electronic tool to submit grant performance data, including demographics about human trafficking victims. [ID #886]</p>",
+  "description_text": "The DOJ Office for Victims of Crime (OVC) Training and Technical Assistance Center seeks comment on a currently existing information collection regarding proposed revisions to the OVC Trafficking Information Management System (TIMS), a web-based database and reporting system for the Victims of Human Trafficking Grant and the Enhanced Collaborative Model Grant initiatives. OVC will require OVC Grantees to use this electronic tool to submit grant performance data, including demographics about human trafficking victims. [ID #886]",
+  "search_document": "initiatives. currently including Supporting statement submitted to OMB. DOJ submit and Training proposed The Office Center System system for Trafficking require OMB approved this information collection request. will demographics grant Enhanced comment Crime victims. Victims [ID existing trafficking victim #886] DOJ seeks comment on proposal that OVC grantees must use TIMS, an electronic database Model (OVC) human Technical performance tool Other Collaborative data, regarding Forms and Information Collection Supporting Statement of on OVC seeks Assistance electronic database information Information trafficking Federal Register Notice: Proposed eCollection eComments Requested; Revision of a Currently Approved Collection: Office for Victims of Crime Training and Technical Assistance Center—Trafficking Information Management System (TIMS) use OMB approved this information collection request revisions web-based this Grant the reporting Management Grantees (TIMS), to about Human collection a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother"
+      },
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-2"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-2"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2002,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-05-22",
+        "display_title": "Federal Register Notice: Proposed eCollection eComments Requested; Revision of a Currently Approved Collection: Office for Victims of Crime Training and Technical Assistance Center—Trafficking Information Management System (TIMS)",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 12519,
+        "wagtaildoc_file": "documents/2018-10853.pdf",
+        "wagtaildoc_title": "Federal Register Notice: Proposed eCollection eComments Requested; Revision of a Currently Approved Collection: Office for Victims of Crime Training and Technical Assistance Center—Trafficking Information Management System (TIMS)",
+        "file_size": 227759,
+        "file_hash": "670e0d54950458ea93179f6366db9dc3736b6ae5",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2003,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": null,
+        "display_title": "Supporting Statement",
+        "link_title": "",
+        "link": "",
+        "description_html": "Supporting statement submitted to OMB.",
+        "wagtaildoc_id": 12518,
+        "wagtaildoc_file": "documents/Supporting_statement_tg8ITJn.pdf",
+        "wagtaildoc_title": "Supporting Statement",
+        "file_size": 651853,
+        "file_hash": "d8f57c74c9dea55b61dfb7fc754a20a8bfe4dbf0",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 2004,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2018-08-09",
+        "display_title": "OMB approved this information collection request",
+        "link_title": "",
+        "link": "",
+        "description_html": "OMB approved this information collection request.",
+        "wagtaildoc_id": 12517,
+        "wagtaildoc_file": "documents/201805-1121-001_290602.pdf",
+        "wagtaildoc_title": "OMB approved this information collection request",
+        "file_size": 38939,
+        "file_hash": "540c836eb11ff33327456eb7af82570a84cde8f0",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.692302Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

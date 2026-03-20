@@ -1,0 +1,91 @@
+{
+  "page_ptr_id": 798,
+  "title": "CBP reportedly terminates Accenture hiring contract",
+  "slug": "cbp-reportedly-terminates-accenture-hiring-contract",
+  "url_path": "/home/policies/cbp-reportedly-terminates-accenture-hiring-contract/",
+  "live": true,
+  "announced_date": "2019-04-05",
+  "effective_date": "2019-04-05",
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>CBP reportedly terminates $297 million hiring contract with Accenture. According to news reports, CBP signed the contract in November 2017 to streamline the administration&#x27;s border security-related hiring, in response to EO 13767. CBP paid around $19 million to the company in start-up costs and around $2 million for 58 individuals who received job offers.</p><p>[ID #798]</p><p></p>",
+  "description_text": "CBP reportedly terminates $297 million hiring contract with Accenture. According to news reports, CBP signed the contract in November 2017 to streamline the administration's border security-related hiring, in response to EO 13767. CBP paid around $19 million to the company in start-up costs and around $2 million for 58 individuals who received job offers.\n\n[ID #798]",
+  "search_document": "with CNN - CBP terminates controversial $297 million Accenture contract amid continued staffing struggles hiring received $19 #798] terminates paid to in who and 2019.04.05 CNN - CBP terminates Accenture contract DHS OIG - Management Alert — CBP Needs to Address Serious Performance Issues on the Accenture Hiring Contract EO reports, According A December 2018 DHS OIG report identified serious issues with this contract. response $2 DHS OIG - CBP Needs to Address Serious Performance Issues on the Accenture Hiring Contract signed job streamline news administration&#x27;s million start-up offers.[ID Border hiring, CBP reportedly terminates Accenture hiring contract for 2017 around border costs CBP November Program Termination the contract 58 Accenture. individuals security-related 13767. $297 company Customs and Border Protection reportedly",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Program Termination",
+        "slug": "program-termination"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Border",
+        "slug": "border"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Customs and Border Protection",
+        "agency_slug": "customs-and-border-protection"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1791,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-04-05",
+        "display_title": "2019.04.05 CNN - CBP terminates Accenture contract",
+        "link_title": "CNN - CBP terminates controversial $297 million Accenture contract amid continued staffing struggles",
+        "link": "https://www.cnn.com/2019/04/05/politics/cbp-terminate-hiring-contract-accenture/index.html",
+        "description_html": "",
+        "wagtaildoc_id": 11795,
+        "wagtaildoc_file": "documents/2019.04.05_CNN_-_CBP_terminates_Accenture_contract.pdf",
+        "wagtaildoc_title": "2019.04.05 CNN - CBP terminates Accenture contract",
+        "file_size": 205784,
+        "file_hash": "43e23c1678dbdf6d1b4470ed2c11881b902d27a4",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 1792,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2018-12-06",
+        "display_title": "DHS OIG - CBP Needs to Address Serious Performance Issues on the Accenture Hiring Contract",
+        "link_title": "DHS OIG - Management Alert — CBP Needs to Address Serious Performance Issues on the Accenture Hiring Contract",
+        "link": "https://www.oig.dhs.gov/sites/default/files/assets/2018-12/OIG-19-13-Nov18.pdf",
+        "description_html": "A December 2018 DHS OIG report identified serious issues with this contract.",
+        "wagtaildoc_id": 11796,
+        "wagtaildoc_file": "documents/DHS_OIG_-_CBP_Needs_to_Address_Serious_Performance_Issues_on_the_Accenture_Hir_Mqt2ONu.pdf",
+        "wagtaildoc_title": "DHS OIG - CBP Needs to Address Serious Performance Issues on the Accenture Hiring Contract",
+        "file_size": 1435868,
+        "file_hash": "81c8e19311896b20bcfab0e87353f289ca895191",
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.803810Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

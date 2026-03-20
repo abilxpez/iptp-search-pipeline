@@ -1,0 +1,83 @@
+{
+  "page_ptr_id": 1785,
+  "title": "DOS announces proposed reorganization of DOS",
+  "slug": "dos-announces-proposed-reorganization-of-dos",
+  "url_path": "/home/policies/dos-announces-proposed-reorganization-of-dos/",
+  "live": false,
+  "announced_date": "2025-05-29",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"2psdi\">Secretary of State Rubio announced the submission to Congress of a plan to reorganize DOS. The announcement included the organizational chart for the proposed reorganization.</p><p data-block-key=\"bqvga\">Trump 2.0 [</p>",
+  "description_text": "Secretary of State Rubio announced the submission to Congress of a plan to reorganize DOS. The announcement included the organizational chart for the proposed reorganization.\n\nTrump 2.0 [",
+  "search_document": "Other 2.0 State plan #1785] DOS - Proposed Organizational Chart Rubio [ID announced reorganize submission Congress DOS. a the Agency Directive Secretary to reorganization.Trump included DOS - Next Steps on Building an America First State Department announcement proposed organizational for The UNPUB DOS announces proposed reorganization of DOS chart of",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      }
+    ],
+    "subject_matter": [],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6399,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-29",
+        "display_title": null,
+        "link_title": "DOS - Next Steps on Building an America First State Department",
+        "link": "https://www.state.gov/releases/office-of-the-spokesperson/2025/05/next-steps-on-building-an-america-first-state-department/",
+        "description_html": "",
+        "wagtaildoc_id": 16061,
+        "wagtaildoc_file": "documents/2025.05.29_DOS_-_Next_Steps_on_Building_an_America_First_State_Department.pdf",
+        "wagtaildoc_title": "2025.05.29 DOS - Next Steps on Building an America First State Department",
+        "file_size": 708668,
+        "file_hash": "ac37dbda3766bc6444b63d1e125032ec2b63bac7",
+        "slug": "20250529-dos-next-steps-on-building-an-america-fir"
+      },
+      {
+        "policydocument_id": 6400,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-05-29",
+        "display_title": null,
+        "link_title": "DOS - Proposed Organizational Chart",
+        "link": "https://www.state.gov/wp-content/uploads/2025/05/2025.05.29-Proposed-New-Organizational-Chart.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 16062,
+        "wagtaildoc_file": "documents/2025.05.29_DOS_-_Proposed_Organizational_Chart.pdf",
+        "wagtaildoc_title": "2025.05.29 DOS - Proposed Organizational Chart",
+        "file_size": 90716,
+        "file_hash": "e78c2717c126f5642b5da527a62488d82ba00eb0",
+        "slug": "20250529-dos-proposed-organizational-chart"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.737776Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

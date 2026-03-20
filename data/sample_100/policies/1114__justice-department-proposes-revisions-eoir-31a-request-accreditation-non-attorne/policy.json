@@ -1,0 +1,148 @@
+{
+  "page_ptr_id": 1114,
+  "title": "EOIR proposes revisions to Form EOIR-31A, Request for Accreditation of Non-Attorney Representative",
+  "slug": "justice-department-proposes-revisions-eoir-31a-request-accreditation-non-attorney-representative",
+  "url_path": "/home/policies/justice-department-proposes-revisions-eoir-31a-request-accreditation-non-attorney-representative/",
+  "live": true,
+  "announced_date": "2020-07-13",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"qzjti\">EOIR announces proposed revisions to Form EOIR-31A, Request by Organization for Accreditation or Renewal Accreditation of Non-Attorney Representative and provides a 60-day comment period. [ID #1114].</p>",
+  "description_text": "EOIR announces proposed revisions to Form EOIR-31A, Request by Organization for Accreditation or Renewal Accreditation of Non-Attorney Representative and provides a 60-day comment period. [ID #1114].",
+  "search_document": "EOIR-31A, EOIR Accreditation Executive Office for Immigration Review revisions a of [ID Non-Attorney Federal Register. period. by EOIR announces that proposed revisions to Form EOIR-31A have been submitted to OMB for review and approval and that 30-day comment period has been provided. REVIEWED and comment Forms and Information Collection #1114]. Under the second Trump administration, EOIR proposed additional changes to Form EOIR-31A.For more information, please see this Trump 2.0 Policy Entry. or announces for provides EOIR announces that the proposed information collection request is currently under review for additional edits, and the agency will publish a new 30-day notice for public commenting in place of the previous publication. 60-day to Representative Form Renewal EOIR proposes revisions to Form EOIR-31A, Request for Accreditation of Non-Attorney Representative Request proposed Organization",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Forms and Information Collection",
+        "slug": "forms-and-information-collection"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 2652,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2020-07-07",
+        "display_title": null,
+        "link_title": null,
+        "link": "https://www.govinfo.gov/content/pkg/FR-2020-07-13/pdf/2020-14954.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 12725,
+        "wagtaildoc_file": "documents/2020.7.13_Justice_Department_proposes_revisions_to_EOIR-31A.pdf",
+        "wagtaildoc_title": "Proposed Revisions to Form EOIR-31A",
+        "file_size": 248788,
+        "file_hash": "448b7df0444ab8998e50b892bd5b79caf72689c1",
+        "slug": "proposed-revisions-to-form-eoir-31a"
+      },
+      {
+        "policydocument_id": 2981,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": null,
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 13018,
+        "wagtaildoc_file": "documents/Form_EOIR-31.pdf",
+        "wagtaildoc_title": "Current version of Form EOIR-31A (Rev. Feb. 2020)",
+        "file_size": 220964,
+        "file_hash": "66e423d61c85643d162454c12e6b4a49ec696f48",
+        "slug": "current-version-of-form-eoir-31a-rev-feb-2020"
+      },
+      {
+        "policydocument_id": 2653,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2020-10-20",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"09wa5\">EOIR announces that proposed revisions to Form EOIR-31A have been submitted to OMB for review and approval and that 30-day comment period has been provided.</p>",
+        "wagtaildoc_id": 12726,
+        "wagtaildoc_file": "documents/2020.10.20_Time_extension_for_proposes_revisions_to_EOIR-31A.pdf",
+        "wagtaildoc_title": "EOIR Extension of Comment Period on Proposed Revisions to Form EOIR-31A",
+        "file_size": 227711,
+        "file_hash": "4291a15aa659ae9ec7795e464e2fc15cc7c493ed",
+        "slug": "eoir-extension-of-comment-period-on-proposed-revis"
+      },
+      {
+        "policydocument_id": 2852,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2020-11-06",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"qmkx2\">EOIR announces that the proposed information collection request is currently under review for additional edits, and the agency will publish a new 30-day notice for public commenting in place of the previous publication.</p>",
+        "wagtaildoc_id": 12855,
+        "wagtaildoc_file": "documents/2020.11.06_Additional_edits_for_Form_EIOR-31A.pdf",
+        "wagtaildoc_title": "Form EOIR-31A under review for additional edits",
+        "file_size": 246304,
+        "file_hash": "8ffb99719ba895af23e3c60a65d8d68097b91790",
+        "slug": "form-eoir-31a-under-review-for-additional-edits"
+      },
+      {
+        "policydocument_id": 5665,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2025-03-14",
+        "display_title": null,
+        "link_title": "Federal Register.",
+        "link": "https://www.federalregister.gov/documents/2025/03/14/2025-04128/agency-information-collection-activities-proposed-collection-comments-requested-extension-of-a",
+        "description_html": "<p data-block-key=\"l9b1h\">Under the second Trump administration, EOIR proposed additional changes to Form EOIR-31A.</p><p data-block-key=\"7arpe\"><i>For more information, please see</i> <a href=\"https://immpolicytracking.org/policies/eoir-proposes-changes-to-form-eoir-31a-regarding-accreditation-of-non-attorney-representative/\"><i>this Trump 2.0 Policy Entry.</i></a></p>",
+        "wagtaildoc_id": 15500,
+        "wagtaildoc_file": "documents/2025.03.14_Federal_Reigster_Notice_EOIR-31A.pdf",
+        "wagtaildoc_title": "2025.03.14_Federal Reigster Notice, EOIR-31A",
+        "file_size": 203790,
+        "file_hash": "258160ce4b0e462b784f7c4358e464320ccf36fb",
+        "slug": "20250314_federal-reigster-notice-eoir-31a"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1618,
+      "title": "EOIR proposes changes to Form EOIR-31A, Request by Organization for Accreditation or Renewal of Accreditation of Non-Attorney Representative",
+      "slug": "eoir-proposes-changes-to-form-eoir-31a-regarding-accreditation-of-non-attorney-representative",
+      "announced_date": "2025-03-14",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:41.020009Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

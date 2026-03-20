@@ -1,0 +1,124 @@
+{
+  "page_ptr_id": 1948,
+  "title": "AG Bondi issues Matter of S-S-F-M-, restricting asylum claims based on domestic violence",
+  "slug": "ag-bondi-issues-matter-of-s-s-f-m",
+  "url_path": "/home/policies/ag-bondi-issues-matter-of-s-s-f-m/",
+  "live": true,
+  "announced_date": "2025-09-02",
+  "effective_date": "2025-09-02",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"km38b\">Attorney General Pamela Bondi overruled the <i>Matter of A-B- III</i>, a 2021 decision issued by Attorney General Merrick Garland, and reinstated the legal standards from <i>Matter of A-B- I</i> and <i>Matter of A-B- II</i> that were issued by Attorney General Jeff Sessions and Attorney General Jeffrey Rosen, respectively. The new decision also effectively overruled <i>Matter of A-C-R-G-</i>, 26 I&amp;N Dec. 388 (BIA 2014), and its progeny. The legal standard now applicable largely rejects domestic violence as grounds for asylum.</p><p data-block-key=\"8v5ru\">Bondi indicated this decision was influenced by the fact that &quot;there may be circumstances when a government&#x27;s failure to control private conduct itself amounts to persecution, [but it is] entirely correct to treat those circumstances as few and far between.&quot;</p><p data-block-key=\"7duaq\">Trump 2.0 [ID #1948]</p>",
+  "description_text": "Attorney General Pamela Bondi overruled the Matter of A-B- III, a 2021 decision issued by Attorney General Merrick Garland, and reinstated the legal standards from Matter of A-B- I and Matter of A-B- II that were issued by Attorney General Jeff Sessions and Attorney General Jeffrey Rosen, respectively. The new decision also effectively overruled Matter of A-C-R-G-, 26 I&N Dec. 388 (BIA 2014), and its progeny. The legal standard now applicable largely rejects domestic violence as grounds for asylum.\n\nBondi indicated this decision was influenced by the fact that \"there may be circumstances when a government's failure to control private conduct itself amounts to persecution, [but it is] entirely correct to treat those circumstances as few and far between.\"\n\nTrump 2.0 [ID #1948]",
+  "search_document": "&quot;there I Bondi effectively standard private Garland, ICE its few I&amp;N be USCIS fact standards III, by decision #1948] a may from A-C-R-G-, now 388 for AG rejects 2.0 circumstances violence Jeff influenced Matter A-B- when Matter of A-B- 28 I&N Dec. 307 (A.G. 2021) and Rosen, Attorney General Asylum, Withholding and CAT as 2025.09.02 AG Decision - Matter of S-S-F-M- Sessions Dec. legal itself is] entirely were amounts The General of 2021 the also largely issued [but new far respectively. grounds progeny. U.S. Citizenship and Immigration Services that (BIA correct failure [ID applicable asylum conduct 26 Immigration and Customs Enforcement II this persecution, government&#x27;s asylum.Bondi control overruled indicated reinstated Attorney EOIR 2014), treat Jeffrey it AG Bondi issues Matter of S-S-F-M-, restricting asylum claims based on domestic violence Adjudication domestic to Pamela Merrick was between.&quot;Trump agcert Executive Office for Immigration Review those",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Adjudication",
+        "slug": "adjudication"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Asylum, Withholding and CAT",
+        "slug": "asylum-withholding-and-cat"
+      },
+      {
+        "category": "Hearings and Adjudications",
+        "category_slug": "hearings-and-adjudications",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-7"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Immigration and Customs Enforcement",
+        "agency_slug": "immigration-and-customs-enforcement"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      },
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Attorney General",
+        "agency_slug": "attorney-general"
+      },
+      {
+        "department": "Department of Justice",
+        "department_slug": "department-of-justice",
+        "agency": "Executive Office for Immigration Review",
+        "agency_slug": "executive-office-for-immigration-review"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7041,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-09-02",
+        "display_title": null,
+        "link_title": "2025.09.02 AG Decision - Matter of S-S-F-M-",
+        "link": "https://www.justice.gov/eoir/media/1412696/dl?inline",
+        "description_html": "",
+        "wagtaildoc_id": 16702,
+        "wagtaildoc_file": "documents/2025.09.02_AG_Decision_-_Matter_of_S-S-F-M-.pdf",
+        "wagtaildoc_title": "2025.09.02 AG Decision - Matter of S-S-F-M-",
+        "file_size": 164776,
+        "file_hash": "cee9635fb4c2f5a43e7e4f1c02c1a0f98f48f491",
+        "slug": "matter-of-s-s-f-m-29-in-dec-207-ag-2025"
+      },
+      {
+        "policydocument_id": 7053,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2021-06-16",
+        "display_title": null,
+        "link_title": "Matter of A-B- 28 I&N Dec. 307 (A.G. 2021)",
+        "link": "https://www.justice.gov/eoir/page/file/1404796/dl",
+        "description_html": "",
+        "wagtaildoc_id": 16703,
+        "wagtaildoc_file": "documents/Matter_of_A-B-_28_IN_Dec._307_A.G._2021.pdf",
+        "wagtaildoc_title": "Matter of A-B-, 28 I&N Dec. 307 (A.G. 2021)",
+        "file_size": 153939,
+        "file_hash": "7ac3ac3eb6059eec369f43fa0797217d4490384a",
+        "slug": "matter-of-a-b-28-in-dec-307-ag-2021-3"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 169,
+      "title": "AG Sessions issues Matter of A-B-, restricting asylum claims based on domestic or gang violence",
+      "slug": "ag-sessions-vacates-matter-of-a-b-",
+      "announced_date": "2018-03-07",
+      "effective_date": "2018-06-11",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.718535Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

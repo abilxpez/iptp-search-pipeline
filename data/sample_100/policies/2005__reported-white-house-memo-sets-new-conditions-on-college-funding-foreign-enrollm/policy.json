@@ -1,0 +1,93 @@
+{
+  "page_ptr_id": 2005,
+  "title": "Reported: White House memo sets new conditions on college funding, foreign enrollment, and diversity",
+  "slug": "reported-white-house-memo-sets-new-conditions-on-college-funding-foreign-enrollment-and-diversity-rules",
+  "url_path": "/home/policies/reported-white-house-memo-sets-new-conditions-on-college-funding-foreign-enrollment-and-diversity-rules/",
+  "live": true,
+  "announced_date": "2025-10-01",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"cp246\"><i>Reuters</i> reports that the White House issued a memo outlining a 10-point plan that ties preferential federal-funding for U.S. colleges to new conditions on admissions, hiring, and foreign enrollment. The memo demands that schools limit undergraduate international-student enrollment to 15%, with no more than 5% from any single country, ban use of race or sex in admissions and hiring, freeze tuition for five years, and require standardized tests for admissions. It also calls for efforts to promote “viewpoint diversity” and eliminate institutional units that “punish [or] belittle” conservative ideas, and urges colleges &quot;to screen out students who demonstrate hostility to the United States, its allies, or its values.&quot; Colleges would need to share all known information about international students, including discipline records, upon request by DHS and DOS.</p><p data-block-key=\"n39c\">Letters were sent to Vanderbilt University, Dartmouth College, the University of Pennsylvania, USC, MIT, the University of Texas, the University of Arizona, Brown University, and the University of Virginia. Universities that sign will receive &quot;substantial and meaningful federal grants.&quot; Civil rights and academic-freedom advocates warn that the policy could undermine diversity, privacy, and institutional autonomy amid a broader crackdown on campus dissent and foreign students.</p><p data-block-key=\"12n43\">Trump 2.0 [ID #2005]</p>",
+  "description_text": "Reuters reports that the White House issued a memo outlining a 10-point plan that ties preferential federal-funding for U.S. colleges to new conditions on admissions, hiring, and foreign enrollment. The memo demands that schools limit undergraduate international-student enrollment to 15%, with no more than 5% from any single country, ban use of race or sex in admissions and hiring, freeze tuition for five years, and require standardized tests for admissions. It also calls for efforts to promote “viewpoint diversity” and eliminate institutional units that “punish [or] belittle” conservative ideas, and urges colleges \"to screen out students who demonstrate hostility to the United States, its allies, or its values.\" Colleges would need to share all known information about international students, including discipline records, upon request by DHS and DOS.\n\nLetters were sent to Vanderbilt University, Dartmouth College, the University of Pennsylvania, USC, MIT, the University of Texas, the University of Arizona, Brown University, and the University of Virginia. Universities that sign will receive \"substantial and meaningful federal grants.\" Civil rights and academic-freedom advocates warn that the policy could undermine diversity, privacy, and institutional autonomy amid a broader crackdown on campus dissent and foreign students.\n\nTrump 2.0 [ID #2005]",
+  "search_document": "dissent DOS.Letters diversity, also any tests all screen Texas, f-1 conservative Civil about enrollment colleges limit United and rights units MIT, than more [ID sent international-student &quot;substantial known 2025.10.02 Reported: US memo to colleges proposes terms on ideology, foreign enrollment for federal funds - Reuters USC, undermine reports 2.0 urges discipline students, or It warn no DHS grants.&quot; Presidential Orders its upon were freeze Brown Virginia. hiring, share standardized Colleges students.Trump “viewpoint will that eliminate efforts admissions. admissions from out crackdown outlining advocates ideas, on single ban could Reported: White House memo sets new conditions on college funding, foreign enrollment, and diversity institutional U.S. #2005] sign 5% promote schools require plan Reuters request sex in information privacy, University records, international House undergraduate by memo conditions amid demonstrate ties a [or] values.&quot; students receive meaningful University, use for federal race with would enrollment. of including five federal-funding broader admissions, calls “punish new need 10-point States, years, Pennsylvania, foreign Student tuition demands Dartmouth academic-freedom Arizona, campus College, the to policy belittle” allies, who issued White Vanderbilt Universities preferential The Other autonomy country, &quot;to diversity” hostility 15%,",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Presidential Orders",
+        "slug": "presidential-orders"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Student",
+        "slug": "student"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-6"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 7520,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-10-01",
+        "display_title": null,
+        "link_title": "2025.10.02 Reported: US memo to colleges proposes terms on ideology, foreign enrollment for federal funds - Reuters",
+        "link": "https://www.reuters.com/world/us/white-house-sets-hiring-foreign-enrolment-terms-colleges-get-funding-advantage-2025-10-02/",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20251002-reported-us-memo-to-colleges-proposes-ter"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1472,
+      "title": "EO 14188 § 3(e) directs agencies to report on recommendations for higher-education institutions to monitor and report noncitizen students and staff for possible removal",
+      "slug": "eo-additional-measures-to-combat-anti-semitism",
+      "announced_date": "2025-01-29",
+      "effective_date": "2025-01-29",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1593,
+      "title": "State Department launches \"Catch and Revoke\" initiative to revoke visas of students engaged in \"pro-Hamas\" activity",
+      "slug": "reported-state-department-plans-to-use-ai-to-revoke-visas-of-students-engaged-in-pro-hamas-activity",
+      "announced_date": "2025-03-06",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.741490Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

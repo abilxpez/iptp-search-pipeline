@@ -1,0 +1,90 @@
+{
+  "page_ptr_id": 1897,
+  "title": "HHS issues final rule making DACA recipients ineligible for ACA health coverage",
+  "slug": "hhs-issues-final-rule-making-daca-recipients-ineligible-for-aca-health-coverage",
+  "url_path": "/home/policies/hhs-issues-final-rule-making-daca-recipients-ineligible-for-aca-health-coverage/",
+  "live": true,
+  "announced_date": "2025-06-25",
+  "effective_date": "2025-08-25",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"61wcg\">The Centers for Medicare &amp; Medicaid Services (CMS), a division of HHS, issued a final rule changing the definition of &quot;lawfully present&quot; under the Affordable Care Act (ACA) to exclude DACA recipients. The new rule makes DACA recipients ineligible to access health coverage under the ACA. Under the Biden administration, HHS had expanded the definition of &quot;lawfully present&quot; to include DACA recipients, making them eligible to access health coverage under the ACA.</p><p data-block-key=\"512l8\">The rule goes into effect on August 25, 2025.</p><p data-block-key=\"eorjv\">Trump 2.0 [ID #1897]</p>",
+  "description_text": "The Centers for Medicare & Medicaid Services (CMS), a division of HHS, issued a final rule changing the definition of \"lawfully present\" under the Affordable Care Act (ACA) to exclude DACA recipients. The new rule makes DACA recipients ineligible to access health coverage under the ACA. Under the Biden administration, HHS had expanded the definition of \"lawfully present\" to include DACA recipients, making them eligible to access health coverage under the ACA.\n\nThe rule goes into effect on August 25, 2025.\n\nTrump 2.0 [ID #1897]",
+  "search_document": "2025.Trump Medicaid changing makes administration, (CMS), health care present&quot; making Under recipients, 2.0 into to HHS - Final Rule: Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability for healthcare HHS daca access had new recipients. ACA. them recipients issued a include Centers effect expanded Services rule 2024.05.08 HHS - Clarifying the Eligibility of DACA Recipients for a Qualified Health Plan DACA on &amp; HHS, exclude #1897] (ACA) eligible of &quot;lawfully division under health August [ID goes definition Other Medicare The the Care HHS issues final rule making DACA recipients ineligible for ACA health coverage 25, Biden Rule Affordable final ineligible Act coverage ACA.The",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "DACA",
+        "slug": "daca"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Health & Human Services",
+        "department_slug": "health-human-services",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-5"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6847,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-06-25",
+        "display_title": null,
+        "link_title": "HHS - Final Rule: Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2025-06-25/pdf/2025-11606.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 16481,
+        "wagtaildoc_file": "documents/2025.06.25_HHS_-_Final_Rule-_Patient_Protection_and_ACA.pdf",
+        "wagtaildoc_title": "2025.06.25 HHS - Final Rule: Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability",
+        "file_size": 1390527,
+        "file_hash": "8d61ff63b95d5dd37d9f8c7abfe92aee601ef76c",
+        "slug": "20250625-hhs-final-rule-patient-protection-and-aff"
+      },
+      {
+        "policydocument_id": 6848,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2024-05-08",
+        "display_title": null,
+        "link_title": "2024.05.08 HHS - Clarifying the Eligibility of DACA Recipients for a Qualified Health Plan",
+        "link": "https://www.federalregister.gov/documents/2024/05/08/2024-09661/clarifying-the-eligibility-of-deferred-action-for-childhood-arrivals-daca-recipients-and-certain",
+        "description_html": "",
+        "wagtaildoc_id": 16480,
+        "wagtaildoc_file": "documents/2024.05.08_HHS_-_Clarifying_Eligibility_of_DACA.pdf",
+        "wagtaildoc_title": "2024.05.08 HHS - Clarifying the Eligibility of DACA Recipients for a Qualified Health Plan",
+        "file_size": 4535261,
+        "file_hash": "323e07930e5e497d000de4290af4023d4586ea4e",
+        "slug": "20240508-hhs-clarifying-the-eligibility-of-daca-re"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.695938Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

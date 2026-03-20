@@ -1,0 +1,93 @@
+{
+  "page_ptr_id": 1873,
+  "title": "Dept. of Education rule imposes citizenship requirements on adult education programs",
+  "slug": "dept-of-education-rule-imposes-citizenship-requirements-on-adult-education-programs",
+  "url_path": "/home/policies/dept-of-education-rule-imposes-citizenship-requirements-on-adult-education-programs/",
+  "live": true,
+  "announced_date": "2025-07-11",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"rjmm5\">The Department of Education issued a rule reinterpreting “Federal Public Benefit” as used in Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). Programs that fall within that category are only available to citizens and “qualifying aliens.” The new rule states that postsecondary education programs, including adult education programs and career and technical education programs, will now be subject to these requirements.</p><p data-block-key=\"c29se\"></p><p data-block-key=\"biej6\">Trump 2.0 [ID #1873]</p>",
+  "description_text": "The Department of Education issued a rule reinterpreting “Federal Public Benefit” as used in Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). Programs that fall within that category are only available to citizens and “qualifying aliens.” The new rule states that postsecondary education programs, including adult education programs and career and technical education programs, will now be subject to these requirements.\n\nTrump 2.0 [ID #1873]",
+  "search_document": "requirements.Trump #1873] now within of Act postsecondary The in 1996 used a Other are Title as to “Federal Benefit” programs these programs, the and reinterpreting Rule Dept. of Education rule imposes citizenship requirements on adult education programs aliens.” Public education subject that adult Department Reconciliation career issued states [ID Work available citizens including only 2025.07.11 Interpretive Rule - Clarification of Federal Public Benefits Under the Personal Responsibility and Work Opportunity Reconciliation Act fall new rule (PRWORA). “qualifying Education Programs Personal will technical Opportunity be Responsibility IV 2.0 category",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Rule",
+        "slug": "rule"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-5"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-6"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6774,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-07-11",
+        "display_title": null,
+        "link_title": "2025.07.11 Interpretive Rule - Clarification of Federal Public Benefits Under the Personal Responsibility and Work Opportunity Reconciliation Act",
+        "link": "https://www.govinfo.gov/content/pkg/FR-2025-07-11/pdf/2025-12925.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 16419,
+        "wagtaildoc_file": "documents/2025.07.11_Dept_of_Educ_-_Clarification_of_Federal_Public_Benefits_Under_PRWORA.pdf",
+        "wagtaildoc_title": "2025.07.11 Dept of Educ - Clarification of Federal Public Benefits Under PRWORA",
+        "file_size": 213814,
+        "file_hash": "d04c6beb83cd79a521cc667bc6c69ea3093098f7",
+        "slug": "20250711-dept-of-educ-clarification-of-federal-pub"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 1845,
+      "title": "HHS issues notice excluding undocumented immigrants from additional federal benefits",
+      "slug": "department-of-health-and-human-services-announces-termination-of-migrant-eligibility-for-federal-social-programs",
+      "announced_date": "2025-07-14",
+      "effective_date": "2025-07-14",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1571,
+      "title": "EO 14218: \"Ending Taxpayer Subsidization of Open Borders\"",
+      "slug": "eo-14218-ending-taxpayer-subsidization-of-open-borders",
+      "announced_date": "2025-02-19",
+      "effective_date": "2025-02-19",
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.788406Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

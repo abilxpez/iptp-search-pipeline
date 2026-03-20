@@ -1,0 +1,175 @@
+{
+  "page_ptr_id": 379,
+  "title": "White House FY2020 Budget Proposal includes $8.6 billion in border wall funding",
+  "slug": "white-house-releases-fy2020-budget-proposal",
+  "url_path": "/home/policies/white-house-releases-fy2020-budget-proposal/",
+  "live": true,
+  "announced_date": "2019-03-11",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"rpd8m\">President Trump requests $8.6 billion in border wall funding as part of the fiscal year 2020 budget proposal. CBP&#x27;s budget would increase by 22% and additional provisions of the budget proposal include creation of a new “Border Security and Immigration Enforcement Fund.” Trump&#x27;s budget proposes increases in immigration filing fees and worksite enforcement penalties as well as financing from “mandatory receipts,” which could refer to visa application fees, customs fees and other sources of revenue, and tax dollars appropriated for other purposes. [ID #379]</p>",
+  "description_text": "President Trump requests $8.6 billion in border wall funding as part of the fiscal year 2020 budget proposal. CBP's budget would increase by 22% and additional provisions of the budget proposal include creation of a new “Border Security and Immigration Enforcement Fund.” Trump's budget proposes increases in immigration filing fees and worksite enforcement penalties as well as financing from “mandatory receipts,” which could refer to visa application fees, customs fees and other sources of revenue, and tax dollars appropriated for other purposes. [ID #379]",
+  "search_document": "fees refer This Biden administration policy would, if enacted, revoke in its entirety the Trump-era policy identified in this entry.On April 9, 2021, OMB issued a Summary of the President’s Discretionary Funding Request. Although &quot;[t]he President’s 2022 discretionary request provides $52.0 billion for DHS,&quot; it &quot;includes no additional funding for border wall construction and proposes the cancellation of prior-year balances that are unobligated at the end of 2021.&quot; billion CBP&#x27;s funding Border House Armed Services chairman denies $1 billion transfer for Trump wall sources proposal. FY 2020: A Budget for a Better America [ID $8.6 a and tax increase immigration Immigration and Customs Enforcement part Fund.” Biden administration revocation fees, penalties proposal appropriated well Democratic Representative Adam Smith, the committee’s chairman, said the panel did not approve the proposed use of Pentagon funds. His stance could end up being symbolic, as the Pentagon insists it has the authority to shift the money. However, it could prompt Congress to change the law to prevent presidents from taking similar action in the future. budget which The House Committee on Armed Services denies reprogramming request to transfer $1.0 billion for border wall construction Trump&#x27;s as year “Border #379] Customs and Border Protection Enforcement by White House FY2020 Budget Proposal includes $8.6 billion in border wall funding fiscal ICE new CBP filing additional Interior The President’s FY 2022 Discretionary Request REVIEWED requests could dollars include Vox: Trump budget proposes raising fees for legal immigrants would “mandatory provisions from USCIS Security proposes enforcement Trump for An administration official told Politico that between the 2020 budget, the 2019 authorization and emergency declaration, and the barriers the administration has built or is building from 2017 and 2018 funds, Trump would be able to boast the completion of 722 miles of barriers in time for the 2020 presidential election. The administration official described this as “finishing the wall.&quot; border security purposes. 2020 receipts,” to revenue, 22% increases President of Other Budget of the U.S. Government, FY 2020: A Budget for a Better America financing wall worksite border Immigration U.S. Citizenship and Immigration Services creation visa the other Legislation customs application in",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Legislation",
+        "slug": "legislation"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Border",
+        "slug": "border"
+      },
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Interior",
+        "slug": "interior"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Customs and Border Protection",
+        "agency_slug": "customs-and-border-protection"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "Immigration and Customs Enforcement",
+        "agency_slug": "immigration-and-customs-enforcement"
+      },
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      },
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-6"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Proposed",
+        "slug": "proposed"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 3466,
+        "document_type": "Biden Administration Action",
+        "document_type_slug": "biden-administration-policy",
+        "date": "2021-04-09",
+        "display_title": null,
+        "link_title": "The President’s FY 2022 Discretionary Request",
+        "link": "https://www.whitehouse.gov/omb/fy-2022-discretionary-request/",
+        "description_html": "<p data-block-key=\"cv8c1\">This Biden administration policy would, if enacted, revoke in its entirety the Trump-era policy identified in this entry.</p><p data-block-key=\"lkxdm\">On April 9, 2021, OMB issued a Summary of the President’s Discretionary Funding Request. Although &quot;[t]he President’s 2022 discretionary request provides $52.0 billion for DHS,&quot; it &quot;includes no additional funding for border wall construction and proposes the cancellation of prior-year balances that are unobligated at the end of 2021.&quot;</p>",
+        "wagtaildoc_id": 13471,
+        "wagtaildoc_file": "documents/FY2022-Discretionary-Request.pdf",
+        "wagtaildoc_title": "Summary of the President’s Discretionary Funding Request (FY 2022)",
+        "file_size": 1452011,
+        "file_hash": "32bece9cff945671e932211fed8133ed09945861",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 965,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-03-11",
+        "display_title": "Budget of the U.S. Government, FY 2020: A Budget for a Better America",
+        "link_title": "FY 2020: A Budget for a Better America",
+        "link": "https://www.whitehouse.gov/wp-content/uploads/2019/03/budget-fy2020.pdf",
+        "description_html": "",
+        "wagtaildoc_id": 2442,
+        "wagtaildoc_file": "documents/Trump_s_2020_Budget_Proposal.pdf",
+        "wagtaildoc_title": "Budget of the U.S. Government, FY 2020: A Budget for a Better America",
+        "file_size": 1987181,
+        "file_hash": "7b70ae34730f0aefe60d45dc1ab55f334ef3206a",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 967,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2019-03-26",
+        "display_title": "The House Committee on Armed Services denies reprogramming request to transfer $1.0 billion for border wall construction",
+        "link_title": "House Armed Services chairman denies $1 billion transfer for Trump wall",
+        "link": "https://www.reuters.com/article/us-usa-defense/house-armed-services-chairman-denies-1-billion-transfer-for-trump-wall-idUSKCN1R724J",
+        "description_html": "<p data-block-key=\"do6bf\">Democratic Representative Adam Smith, the committee’s chairman, said the panel did not approve the proposed use of Pentagon funds. His stance could end up being symbolic, as the Pentagon insists it has the authority to shift the money. However, it could prompt Congress to change the law to prevent presidents from taking similar action in the future.</p>",
+        "wagtaildoc_id": 1416,
+        "wagtaildoc_file": "documents/House_Committee_DoD_Border_Funding_Denial.pdf",
+        "wagtaildoc_title": "The House Committee on Armed Services denies reprogramming request to transfer $1.0 billion for border wall construction",
+        "file_size": 207721,
+        "file_hash": "e597cfcdd6dbede23c8cce16763ffdd06c0cb794",
+        "slug": ""
+      }
+    ],
+    "commentary": [
+      {
+        "policydocument_id": 966,
+        "document_type": "Commentary",
+        "document_type_slug": "commentary",
+        "date": "2019-03-12",
+        "display_title": "Vox: Trump budget proposes raising fees for legal immigrants",
+        "link_title": "Vox: Trump budget proposes raising fees for legal immigrants",
+        "link": "https://www.vox.com/2019/3/12/18260770/immigration-fee-filing-trump-budget",
+        "description_html": "<p data-block-key=\"9roua\">An administration official told Politico that between the 2020 budget, the 2019 authorization and emergency declaration, and the barriers the administration has built or is building from 2017 and 2018 funds, Trump would be able to boast the completion of 722 miles of barriers in time for the 2020 presidential election. The administration official described this as “finishing the wall.&quot;</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ]
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 427,
+      "title": "Pentagon approves diversion of military construction funds for border wall",
+      "slug": "pentagon-approves-diversion-of-military-construction-funds-for-border-wall",
+      "announced_date": "2019-09-03",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 375,
+      "title": "POTUS declares national emergency to \"build the wall\" along the southern U.S. border",
+      "slug": "trump-declares-national-emergency-to-build-the-wall-along-the-southern-us-border",
+      "announced_date": "2019-02-15",
+      "effective_date": "2019-02-15",
+      "expired_date": null,
+      "current_status": "Not in effect"
+    },
+    {
+      "page_ptr_id": 379,
+      "title": "White House FY2020 Budget Proposal includes $8.6 billion in border wall funding",
+      "slug": "white-house-releases-fy2020-budget-proposal",
+      "announced_date": "2019-03-11",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": "Not in effect"
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.642186Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

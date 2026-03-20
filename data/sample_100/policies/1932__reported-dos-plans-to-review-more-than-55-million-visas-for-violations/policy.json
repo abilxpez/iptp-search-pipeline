@@ -1,0 +1,133 @@
+{
+  "page_ptr_id": 1932,
+  "title": "Reported: DOS flags 55 million visas for potential violations",
+  "slug": "reported-dos-plans-to-review-more-than-55-million-visas-for-violations",
+  "url_path": "/home/policies/reported-dos-plans-to-review-more-than-55-million-visas-for-violations/",
+  "live": true,
+  "announced_date": "2025-08-21",
+  "effective_date": "2025-08-21",
+  "expired_date": null,
+  "current_status": {
+    "title": null,
+    "slug": null
+  },
+  "description_html": "<p data-block-key=\"f6iao\">The Department of State (DOS) told the Associated Press that all 55 million visa holders are subject to &quot;continuous vetting&quot; of social media accounts, home country criminal and immigration records, and violations of U.S. law. Throughout this review process, DOS searches for ineligibility factors such as visa overstays, criminal activity, threats to public safety, and &quot;engaging in any form of terrorist activity.&quot;</p><p data-block-key=\"6bamu\">Trump 2.0 [ID# 1932]</p>",
+  "description_text": "The Department of State (DOS) told the Associated Press that all 55 million visa holders are subject to \"continuous vetting\" of social media accounts, home country criminal and immigration records, and violations of U.S. law. Throughout this review process, DOS searches for ineligibility factors such as visa overstays, criminal activity, threats to public safety, and \"engaging in any form of terrorist activity.\"\n\nTrump 2.0 [ID# 1932]",
+  "search_document": "review process, [ID# terrorist Department U.S. of that criminal all records, any 2.0 threats Reported: DOS flags 55 million visas for potential violations (DOS) media public DOS announced on X that it has revoked over 100,000 visas since the start of the Trump administration, including 8,000 student visas and 2,500 &quot;specialized visas for individuals who had encounters with U.S. law enforcement for criminal activity.&quot; form State accounts, activity.&quot;Trump told overstays, as vetting&quot; and Associated searches &quot;engaging are Change in Practice for subject &quot;continuous such this holders safety, 1932] DOS activity, 55 Press in DOS Post on X - 100,000 Visas Revoked violations Other The 2025.08.21 Reported: Trump administration vetting all 55 million U.S. visa holders in growing crackdown ineligibility to social country immigration the home Throughout visa million factors law.",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Non-Immigrant Visas",
+        "category_slug": "non-immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-3"
+      },
+      {
+        "category": "Immigrant Visas",
+        "category_slug": "immigrant-visas",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-4"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of State",
+        "department_slug": "department-of-state",
+        "agency": "Unspecified/Other",
+        "agency_slug": "unspecifiedother-4"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 6945,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2025-08-21",
+        "display_title": null,
+        "link_title": "2025.08.21 Reported: Trump administration vetting all 55 million U.S. visa holders in growing crackdown",
+        "link": "https://apnews.com/article/trump-visas-deportations-068ad6cd5724e7248577f17592327ca4",
+        "description_html": "",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "20250821-reported-trump-administration-vetting-all"
+      },
+      {
+        "policydocument_id": 8258,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2026-01-12",
+        "display_title": null,
+        "link_title": "DOS Post on X - 100,000 Visas Revoked",
+        "link": "https://x.com/StateDept/status/2010740549469557010",
+        "description_html": "<p data-block-key=\"fhfbm\">DOS announced on X that it has revoked over 100,000 visas since the start of the Trump administration, including 8,000 student visas and 2,500 &quot;specialized visas for individuals who had encounters with U.S. law enforcement for criminal activity.&quot;</p>",
+        "wagtaildoc_id": 17644,
+        "wagtaildoc_file": "documents/2026.01.12_DOS_Post_on_X_-_100000_visas_revoked.pdf",
+        "wagtaildoc_title": "2026.01.12 DOS Post on X - 100,000 Visas Revoked",
+        "file_size": 947165,
+        "file_hash": "9e97e0cd2a6c9051c95720f8163cecc8ae81c5c0",
+        "slug": "20260112-dos-post-on-x-100000-visas-revoked"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [
+    {
+      "page_ptr_id": 876,
+      "title": "DOS proposes changes to Form DS-260, Immigrant Visa and Alien Registration Application, to collect social media information",
+      "slug": "dos-requests-comment-on-a-revision-of-a-currently-existing-information-collection-from-ds-260-electronic-application-for-immigrant-visa-and-alien-registration",
+      "announced_date": "2018-03-30",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1585,
+      "title": "USCIS proposes to collect social media identifiers on certain forms to enhance screening and vetting of applicants",
+      "slug": "uscis-proposes-to-collect-social-media-identifiers-on-certain-forms-to-enhance-screening-and-vetting-of-applicants",
+      "announced_date": "2025-03-05",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1657,
+      "title": "DOS directive instructs consular officers to review all student-visa applicants' social media for terrorism-related inadmissibility",
+      "slug": "dos-directive-instructs-consular-officers-to-review-all-visa-applicants-social-media-for-evidence-of-advocating-for-or-sympathizing-with-a-terrorist-organization",
+      "announced_date": "2025-03-25",
+      "effective_date": "2025-03-25",
+      "expired_date": null,
+      "current_status": null
+    },
+    {
+      "page_ptr_id": 1593,
+      "title": "State Department launches \"Catch and Revoke\" initiative to revoke visas of students engaged in \"pro-Hamas\" activity",
+      "slug": "reported-state-department-plans-to-use-ai-to-revoke-visas-of-students-engaged-in-pro-hamas-activity",
+      "announced_date": "2025-03-06",
+      "effective_date": null,
+      "expired_date": null,
+      "current_status": null
+    }
+  ],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.967118Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

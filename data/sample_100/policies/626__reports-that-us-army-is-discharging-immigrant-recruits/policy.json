@@ -1,0 +1,110 @@
+{
+  "page_ptr_id": 626,
+  "title": "Reports that U.S. Army is discharging immigrant recruits",
+  "slug": "reports-that-us-army-is-discharging-immigrant-recruits",
+  "url_path": "/home/policies/reports-that-us-army-is-discharging-immigrant-recruits/",
+  "live": true,
+  "announced_date": "2018-07-05",
+  "effective_date": "2018-07-05",
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"5b85u\">According to the Associated Press, some immigrant U.S. Army reservists and recruits who enlisted in the military under the MAVNI program which offered eligibility for citizenship are being abruptly discharged. At least 40 individuals are reported to have been improperly discharged. Service in the military provides eligibility for citizenship. [ID #626]</p>",
+  "description_text": "According to the Associated Press, some immigrant U.S. Army reservists and recruits who enlisted in the military under the MAVNI program which offered eligibility for citizenship are being abruptly discharged. At least 40 individuals are reported to have been improperly discharged. Service in the military provides eligibility for citizenship. [ID #626]",
+  "search_document": "At Department of Defense reported Press, A memo shared with the Associated Press dated July 20 orders high-ranking Army officials to stop processing discharges of men and women who enlisted in the special immigrant program, effective immediately. Army DOD in have enlisted recruits provides been some individuals and Service being According are which the [ID U.S. under offered 40 The U.S. Army administered a program which recruits annually thousands of individuals with legal status to join the military with a promised path to citizenship. Change in Practice Associated citizenship. reservists #626] AP NewsBreak: US Army quietly discharging immigrant recruits program citizenship NY Post: Army stops discharges of immigrant recruits — for now military Reports that U.S. Army is discharging immigrant recruits immigrant for to eligibility discharged. least REVIEWED abruptly MAVNI 8 USC 1439 Naturalization through service in the armed forces improperly who",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Citizenship",
+        "category_slug": "citizenship",
+        "title": "Unspecified/Other",
+        "slug": "unspecifiedother-5"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Other",
+        "department_slug": "other",
+        "agency": "Department of Defense",
+        "agency_slug": "department-of-defense"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Reported",
+        "slug": "reported"
+      },
+      {
+        "title": "Rescinded",
+        "slug": "rescinded"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1435,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2018-07-06",
+        "display_title": "AP NewsBreak: US Army quietly discharging immigrant recruits",
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 434,
+        "wagtaildoc_file": "documents/AP_NewsBreak_US_Army_quietly_discharging_immigrant_recruits.pdf",
+        "wagtaildoc_title": "AP NewsBreak: US Army quietly discharging immigrant recruits",
+        "file_size": 520192,
+        "file_hash": "2c953c7662ced9754ab64bf648fd8ac5d186b028",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1436,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2003-11-24",
+        "display_title": "8 USC 1439 Naturalization through service in the armed forces",
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"7941d\">The U.S. Army administered a program which recruits annually thousands of individuals with legal status to join the military with a promised path to citizenship.</p>",
+        "wagtaildoc_id": 181,
+        "wagtaildoc_file": "documents/8_USC_1439-_Naturalization_through_service_in_the_armed_forces.pdf",
+        "wagtaildoc_title": "8 USC 1439 Naturalization through service in the armed forces",
+        "file_size": 209646,
+        "file_hash": "7a6b881fffa4cfde26ed1d473330be1e1d07ee9d",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1437,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2018-07-20",
+        "display_title": "NY Post: Army stops discharges of immigrant recruits — for now",
+        "link_title": "NY Post: Army stops discharges of immigrant recruits — for now",
+        "link": "https://nypost.com/2018/08/09/army-stops-discharges-of-immigrant-recruits-for-now/",
+        "description_html": "<p data-block-key=\"ayaea\">A memo shared with the Associated Press dated July 20 orders high-ranking Army officials to stop processing discharges of men and women who enlisted in the special immigrant program, effective immediately.</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.765083Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

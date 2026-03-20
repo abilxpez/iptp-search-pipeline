@@ -1,0 +1,138 @@
+{
+  "page_ptr_id": 549,
+  "title": "President Trump proposes cutting funding to E-Verify program",
+  "slug": "president-trump-proposes-cutting-funding-to-e-verify-program",
+  "url_path": "/home/policies/president-trump-proposes-cutting-funding-to-e-verify-program/",
+  "live": true,
+  "announced_date": "2019-03-19",
+  "effective_date": null,
+  "expired_date": null,
+  "current_status": {
+    "title": "Fully in Effect",
+    "slug": "fully-in-effect"
+  },
+  "description_html": "<p>President Trump&#x27;s FY2020 budget proposes an 8 percent funding cut to the E-Verify program. The Trump administration requests only $122 million in fiscal year 2020, compared to $133 million in fiscal years 2019 and 2018. USCIS states that a higher funding level is no longer needed because of technological modernization. [ID #549]</p>",
+  "description_text": "President Trump's FY2020 budget proposes an 8 percent funding cut to the E-Verify program. The Trump administration requests only $122 million in fiscal year 2020, compared to $133 million in fiscal years 2019 and 2018. USCIS states that a higher funding level is no longer needed because of technological modernization. [ID #549]",
+  "search_document": "Trump administration eyes mandatory employment checks for immigration plan [ID President E-Verify because only USCIS 2018. states years FY2020 White House may include mandatory E-Verify in immigration proposal modernization. FY 2018 Budget in Brief in needed budget and Legislation higher e-verify program. The funding year compared of 8 technological FY 2019 Budget in Brief $122 million an Trump&#x27;s longer level $133 is U.S. Citizenship and Immigration Services percent Employment Verification administration 2019 cut Border Security: 2020 Budget Fact Sheet that requests 2020, President Trump proposes cutting funding to E-Verify program the Trump proposes no #549] fiscal to a",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Legislation",
+        "slug": "legislation"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Labor",
+        "category_slug": "labor",
+        "title": "Employment Verification",
+        "slug": "employment-verification"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Department of Homeland Security",
+        "department_slug": "department-of-homeland-security",
+        "agency": "U.S. Citizenship and Immigration Services",
+        "agency_slug": "us-citizenship-and-immigration-services"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Final/Actual",
+        "slug": "final-actual"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 1279,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2019-03-19",
+        "display_title": "Border Security: 2020 Budget Fact Sheet",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 494,
+        "wagtaildoc_file": "documents/Border_Security_2020_Budget_Fact_Sheet.pdf",
+        "wagtaildoc_title": "Border Security: 2020 Budget Fact Sheet",
+        "file_size": 192774,
+        "file_hash": "0eee6ed59be6f8cf78a9afbba5f77bc89d43346a",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1282,
+        "document_type": "Other",
+        "document_type_slug": "other",
+        "date": "2019-05-09",
+        "display_title": "White House may include mandatory E-Verify in immigration proposal",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 2863,
+        "wagtaildoc_file": "documents/White_House_may_include_mandatory_E-Verify_in_immigration_proposal.pdf",
+        "wagtaildoc_title": "White House may include mandatory E-Verify in immigration proposal",
+        "file_size": 294201,
+        "file_hash": "56ce6770495d3944a8e235135716f7e4eaae82d6",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1283,
+        "document_type": "Other",
+        "document_type_slug": "other",
+        "date": "2019-05-09",
+        "display_title": "Trump administration eyes mandatory employment checks for immigration plan",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 2423,
+        "wagtaildoc_file": "documents/Trump_administration_eyes_mandatory_employment_checks_for_immigration_plan.pdf",
+        "wagtaildoc_title": "Trump administration eyes mandatory employment checks for immigration plan",
+        "file_size": 6836381,
+        "file_hash": "44cc35bab5075c1a5b7c77fa1763d3e599f793df",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1280,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2019-03-19",
+        "display_title": "FY 2019 Budget in Brief",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1326,
+        "wagtaildoc_file": "documents/FY_2019_Budget_in_Brief.pdf",
+        "wagtaildoc_title": "FY 2019 Budget in Brief",
+        "file_size": 9916945,
+        "file_hash": "3f9b1a2aad6342b1947841e06073ebe44ac69f74",
+        "slug": ""
+      },
+      {
+        "policydocument_id": 1281,
+        "document_type": "Prior Policy",
+        "document_type_slug": "prior-policy",
+        "date": "2019-03-19",
+        "display_title": "FY 2018 Budget in Brief",
+        "link_title": "",
+        "link": "",
+        "description_html": "",
+        "wagtaildoc_id": 1329,
+        "wagtaildoc_file": "documents/FY2018_Budget_in_Brief.pdf",
+        "wagtaildoc_title": "FY 2018 Budget in Brief",
+        "file_size": 7208576,
+        "file_hash": "c11c9641c842f02d59ec9d2b30f122ea9cde84b6",
+        "slug": ""
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:41.030431Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}

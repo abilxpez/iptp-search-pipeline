@@ -1,0 +1,186 @@
+{
+  "page_ptr_id": 1342,
+  "title": "ORR requires Director-level authorization of custodial releases of certain unaccompanied children",
+  "slug": "orr-implements-policy-requiring-director-review-of-releases-of-unaccompanied-children",
+  "url_path": "/home/policies/orr-implements-policy-requiring-director-review-of-releases-of-unaccompanied-children/",
+  "live": true,
+  "announced_date": "2017-03-24",
+  "effective_date": "2017-03-27",
+  "expired_date": null,
+  "current_status": {
+    "title": "Not in effect",
+    "slug": "not-in-effect"
+  },
+  "description_html": "<p data-block-key=\"orhv0\">On March 24, 2017, a few hours after Scott Lloyd became Director of the Office of Refugee Resettlement (ORR), an email was sent to ORR staff requiring that no unaccompanied children (UC) be released from secure or staff secure facilities without written authorization from the Deputy Director for UC Programs at ORR headquarters. [ID #1342]</p>",
+  "description_text": "On March 24, 2017, a few hours after Scott Lloyd became Director of the Office of Refugee Resettlement (ORR), an email was sent to ORR staff requiring that no unaccompanied children (UC) be released from secure or staff secure facilities without written authorization from the Deputy Director for UC Programs at ORR headquarters. [ID #1342]",
+  "search_document": "was ORR Unaccompanied Children Program Policy Guide: Section 2 Minors children unaccompanied minors of Agency Directive to written after Change in Practice for requiring ORR requires Director-level authorization of custodial releases of certain unaccompanied children released a unaccompanied Office of Refugee Resettlement Detention The new policy announced on March 24, 2017, requiring that no unaccompanied children (UC) be released from secure or staff secure facilities without written authorization from ORR headquarters was added to Rule 2.7 of the ORR Unaccompanied Children Program Policy Guide. The policy guidance expands the requirement for written authorization over release decisions to cover UCs who are not now--but once were--in a secure or staff secure facility: &quot;The ORR/FFS elevates release decisions to the ORR Director, or the Director’s designee, for any UAC in a secure or staff secure facility, or for any UAC who had previously been in a secure or staff secure facility. The ORR Director or designee makes release decisions for children in these types of facilities.&quot; On June 27, 2018, Judge Paul A. Crotty of the Southern District of New York preliminarily enjoined the ORR director review policy as contained in Rule 2.7 of the ORR Unaccompanied Children Program Policy Guide in L.V. M. v. Lloyd et al, 1:18-CV-01453. an or (ORR), Refugee the ORR email uac, unaccomanpanied minor, unaccompanied minor, unacommpanied minor On hours UC #1342] 2017, few Director Resettlement March from Interior without Scott Deputy became Office On December 12, 2023, Judge Paul A. Crotty entered an order approving a settlement agreement whereby ORR agrees to abide by the preliminary injunction entered on July 27, 2018, for a three-year term beginning on the date of final approval of the settlement by the court.**Litigation is listed for informational purposes and is not comprehensive. For the current status of legal challenges, check other sources.** (UC) 24, secure Lloyd headquarters. On July 30, 2018, Judge Dolly Gee of the Central District of California in overseeing compliance with the settlement agreement in Flores v. Sessions, CV-854544-DMG, ordered ORR to cease requiring approval by the ORR Director or their designee prior to the release of class members who &quot;(1) were previously placed in secure or staff-\u0002secure facilities but have since been transferred to less restrictive settings; (2) prevailed on their Flores bond hearings; and/or (3) were placed in secure or staff-secure facilities based on incomplete, inaccurate, or erroneous information. at On March 28, 2023, the ORR Unaccompanied Children Program Policy Guide was revised to revoke the director review policy and clarify that Federal Field Specialists act as agents of ORR to approve all UC release requests. that facilities sent no staff be [ID Programs authorization",
+  "filters": {
+    "administrative_actions": [
+      {
+        "title": "Agency Directive",
+        "slug": "agency-directive"
+      },
+      {
+        "title": "Change in Practice",
+        "slug": "change-in-practice"
+      }
+    ],
+    "subject_matter": [
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Detention",
+        "slug": "detention"
+      },
+      {
+        "category": "Enforcement",
+        "category_slug": "enforcement",
+        "title": "Interior",
+        "slug": "interior"
+      },
+      {
+        "category": "Humanitarian",
+        "category_slug": "humanitarian",
+        "title": "Minors",
+        "slug": "minors"
+      }
+    ],
+    "agencies": [
+      {
+        "department": "Health & Human Services",
+        "department_slug": "health-human-services",
+        "agency": "Office of Refugee Resettlement",
+        "agency_slug": "office-of-refugee-resettlement"
+      }
+    ],
+    "status_tags": [
+      {
+        "title": "Enjoined/Vacated",
+        "slug": "enjoined"
+      }
+    ]
+  },
+  "documents": {
+    "attachments": [
+      {
+        "policydocument_id": 4466,
+        "document_type": "Biden Administration Action",
+        "document_type_slug": "biden-administration-policy",
+        "date": "2023-03-28",
+        "display_title": null,
+        "link_title": "ORR Unaccompanied Children Program Policy Guide: Section 2",
+        "link": "https://www.acf.hhs.gov/orr/policy-guidance/unaccompanied-children-program-policy-guide-section-2#2.7",
+        "description_html": "<p data-block-key=\"e716s\">On March 28, 2023, the ORR Unaccompanied Children Program Policy Guide was revised to revoke the director review policy and clarify that Federal Field Specialists act as agents of ORR to approve all UC release requests.</p>",
+        "wagtaildoc_id": null,
+        "wagtaildoc_file": null,
+        "wagtaildoc_title": null,
+        "file_size": null,
+        "file_hash": null,
+        "slug": "orr-unaccompanied-children-program-policy-guide-se"
+      },
+      {
+        "policydocument_id": 4460,
+        "document_type": "New Policy",
+        "document_type_slug": "new-policy",
+        "date": "2017-03-24",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 14317,
+        "wagtaildoc_file": "documents/2017.03.24_Email_To_ORR_Staff_Announcing_New_Policy.pdf",
+        "wagtaildoc_title": "2017.03.24 Email To ORR Staff Announcing New Policy",
+        "file_size": 128064,
+        "file_hash": "4659b3642afceb61134e5aa766a353035216f7c1",
+        "slug": "20170324-email-to-orr-staff-announcing-new-policy"
+      },
+      {
+        "policydocument_id": 4465,
+        "document_type": "Other",
+        "document_type_slug": "other",
+        "date": "2024-01-22",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "",
+        "wagtaildoc_id": 14322,
+        "wagtaildoc_file": "documents/2024.01.22_ORR_Policy_Guide_Record_of_Posting_and_Revision_Dates.pdf",
+        "wagtaildoc_title": "2024.01.22 ORR Policy Guide Record of Posting and Revision Dates",
+        "file_size": 863852,
+        "file_hash": "ec0a468d5d1adb6809554b40a724fd02f208c52c",
+        "slug": "20240122-orr-policy-guide-record-of-posting-and-re"
+      },
+      {
+        "policydocument_id": 4461,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2017-06-12",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"e716s\">The new policy announced on March 24, 2017, requiring that no unaccompanied children (UC) be released from secure or staff secure facilities without written authorization from ORR headquarters was added to Rule 2.7 of the ORR Unaccompanied Children Program Policy Guide. The policy guidance expands the requirement for written authorization over release decisions to cover UCs who are not now--but once were--in a secure or staff secure facility: &quot;The ORR/FFS elevates release decisions to the ORR Director, or the Director’s designee, for any UAC in a secure or staff secure facility, or for any UAC who had previously been in a secure or staff secure facility. The ORR Director or designee makes release decisions for children in these types of facilities.&quot;</p><p data-block-key=\"e4q8m\"></p>",
+        "wagtaildoc_id": 14318,
+        "wagtaildoc_file": "documents/2017.06.12_ORR_Policy_Manual_Rule_2.7_Amended.pdf",
+        "wagtaildoc_title": "2017.06.12 ORR Policy Manual Rule 2.7 Amended",
+        "file_size": 541098,
+        "file_hash": "da77530903a8da2c69e07ce9146ab0f6b6aa0676",
+        "slug": "20170612-orr-policy-manual-rule-27-amended"
+      },
+      {
+        "policydocument_id": 4462,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2018-06-27",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"e716s\">On June 27, 2018, Judge Paul A. Crotty of the Southern District of New York preliminarily enjoined the ORR director review policy as contained in Rule 2.7 of the ORR Unaccompanied Children Program Policy Guide in <i>L.V. M. v. Lloyd et al</i>, 1:18-CV-01453.</p>",
+        "wagtaildoc_id": 14319,
+        "wagtaildoc_file": "documents/2018.06.27_Preliminary_Injuction_of_ORR_Director_Review_Policy.pdf",
+        "wagtaildoc_title": "2018.06.27 Preliminary Injunction of ORR Director Review Policy",
+        "file_size": 890374,
+        "file_hash": "3acbdde1710a004137f9a7b57ada800f401ca9ab",
+        "slug": "20180627-preliminary-injunction-of-orr-director-re"
+      },
+      {
+        "policydocument_id": 4463,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2018-07-30",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"e716s\">On July 30, 2018, Judge Dolly Gee of the Central District of California in overseeing compliance with the settlement agreement in <i>Flores v. Sessions</i>, CV-854544-DMG, ordered ORR to cease requiring approval by the ORR Director or their designee prior to the release of class members who &quot;(1) were previously placed in secure or staff-\u0002secure facilities but have since been transferred to less restrictive settings; (2) prevailed on their <i>Flores</i> bond hearings; and/or (3) were placed in secure or staff-secure facilities based on incomplete, inaccurate, or erroneous information.</p>",
+        "wagtaildoc_id": 14320,
+        "wagtaildoc_file": "documents/2018.07.30_Motion_Enforcing_Flores_Settlement_Agreement.pdf",
+        "wagtaildoc_title": "2018.07.30 Motion Enforcing Flores Settlement Agreement",
+        "file_size": 883187,
+        "file_hash": "8f5ba0384bf3c4491ebadfea49b9c85f6075bc53",
+        "slug": "20180730-motion-enforcing-flores-settlement-agreem"
+      },
+      {
+        "policydocument_id": 4464,
+        "document_type": "Subsequent Action",
+        "document_type_slug": "subsequent-action",
+        "date": "2023-12-12",
+        "display_title": null,
+        "link_title": null,
+        "link": null,
+        "description_html": "<p data-block-key=\"e716s\">On December 12, 2023, Judge Paul A. Crotty entered an order approving a settlement agreement whereby ORR agrees to abide by the preliminary injunction entered on July 27, 2018, for a three-year term beginning on the date of final approval of the settlement by the court.</p><p data-block-key=\"ej6gc\"></p><p data-block-key=\"1md7m\"><b>**Litigation is listed for informational purposes and is not comprehensive. For the current status of legal challenges, check other sources.**</b></p>",
+        "wagtaildoc_id": 14321,
+        "wagtaildoc_file": "documents/2023.12.12_Order_Approving_Settlement_Agreement.pdf",
+        "wagtaildoc_title": "2023.12.12 Order Approving Settlement Agreement",
+        "file_size": 445700,
+        "file_hash": "30044a9968cb2f50e293afd6d2e2598204c7aa1f",
+        "slug": "20231212-order-approving-settlement-agreement"
+      }
+    ],
+    "commentary": []
+  },
+  "related_policies": [],
+  "dataset": {
+    "assembled_at": "2026-02-11T04:33:40.755696Z",
+    "backup_prefix": "s3://<backup-bucket>/<snapshot>/iptp_db",
+    "seed": 42
+  }
+}
