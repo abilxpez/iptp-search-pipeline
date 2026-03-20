@@ -1,4 +1,4 @@
-# Hybrid Legal Policy Retrieval: Design Choices, Tradeoffs, and Empirical Behavior (Scaffold v2)
+# Hybrid Legal Policy Retrieval: Design Choices, Tradeoffs, and Empirical Behavior 
 
 ## Abstract
 This document presents a production-oriented retrieval system for legal and policy search. The pipeline combines lexical retrieval (BM25), dense semantic retrieval (FAISS-based), reciprocal rank fusion (RRF), and cross-encoder reranking. Rather than treating architecture as fixed, this scaffold makes implementation knobs explicit: chunking policy, pooling strategy, embedding normalization, ANN index/search parameters, fusion constant, rerank depth, and text truncation. We evaluate each stage under shared relevance labels and report `nDCG@5`, `MRR@5`, `Success@5`, and `P@5` to show where additional complexity helps, where it does not, and why. The goal is to provide both a clear systems blueprint and a defensible decision record that can guide follow-up ablations.
