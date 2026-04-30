@@ -39,6 +39,7 @@ import argparse
 import json
 import os
 import sqlite3
+import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence, Tuple
@@ -50,6 +51,11 @@ from scripts.semantic.bge_embedder import BGEConfig, BGEEmbedder
 
 DEFAULT_RUN_DIR = Path("data/embeddings/bge_mean_norm")
 DEFAULT_CHUNKS_PATH = Path("data/sample_100/chunks/chunks.jsonl")
+
+
+def _record_timing(timings: Optional[Dict[str, float]], key: str, started: float) -> None:
+    if timings is not None:
+        timings[key] = round((time.perf_counter() - started) * 1000.0, 2)
 
 
 # -----------------------------
@@ -827,23 +833,33 @@ def search_faiss(
     snippet_chars: int,
     max_candidates: Optional[int],
     sort_by_announced_date: bool = False,
+    timings: Optional[Dict[str, float]] = None,
 ) -> List[SearchResult]:
+    total_started = time.perf_counter()
+    phase_started = time.perf_counter()
     mf = load_manifest(run_dir)
     index_path, mapping_path, faiss_meta = resolve_faiss_artifacts(run_dir, mf)
     dim, metric, _normalize_flag = get_index_semantics(mf, faiss_meta)
+    _record_timing(timings, "faiss.manifest_and_artifacts", phase_started)
 
     # Ensure row offsets exist (streaming build once)
+    phase_started = time.perf_counter()
     offsets_path = row_offsets_path_for(mapping_path)
     build_row_offsets_if_missing(mapping_path, offsets_path)
     row_offsets = load_row_offsets(offsets_path, mmap=True)
+    _record_timing(timings, "faiss.row_offsets", phase_started)
 
     # Ensure chunks sqlite exists (streaming build once)
+    phase_started = time.perf_counter()
     sqlite_path = chunks_sqlite_path_for(chunks_path)
     build_chunks_sqlite_if_missing(chunks_path, sqlite_path)
+    _record_timing(timings, "faiss.ensure_chunks_sqlite", phase_started)
 
     # Load index
+    phase_started = time.perf_counter()
     index = load_faiss_index(index_path)
     maybe_set_hnsw_ef_search(index, ef_search)
+    _record_timing(timings, "faiss.load_index", phase_started)
 
     # Basic sanity
     if int(getattr(index, "d", dim)) != int(dim):
@@ -854,10 +870,15 @@ def search_faiss(
         raise RuntimeError("FAISS index is empty")
 
     # Embed query
+    phase_started = time.perf_counter()
     embedder = build_embedder_from_manifest(mf, device=device, batch_size=batch_size)
+    _record_timing(timings, "faiss.build_embedder", phase_started)
+
+    phase_started = time.perf_counter()
     qvec = embedder.embed_texts([query])  # (1, d)
     if qvec.shape != (1, dim):
         raise RuntimeError(f"Query embedding shape mismatch: got {qvec.shape}, expected (1, {dim})")
+    _record_timing(timings, "faiss.embed_query", phase_started)
 
     # Candidate strategy: oversample, and if filters are strict, retry with larger pool once.
     k0 = max(int(top_k), 1) * max(int(oversample), 1)
@@ -869,9 +890,11 @@ def search_faiss(
     candidates: List[Dict[str, Any]] = []
 
     # Open SQLite once
+    phase_started = time.perf_counter()
     conn = open_sqlite(sqlite_path)
     try:
         init_chunks_sqlite(conn)
+        _record_timing(timings, "faiss.open_chunks_sqlite", phase_started)
 
         for attempt in range(2):
             k_candidate = k0 if attempt == 0 else min(ntotal, k0 * max_expand_factor)
@@ -879,7 +902,9 @@ def search_faiss(
                 continue
             tried.append(k_candidate)
 
+            phase_started = time.perf_counter()
             D, I = faiss_search_rows(index, qvec, k_candidate)
+            _record_timing(timings, f"faiss.search_rows_attempt_{attempt + 1}", phase_started)
 
             # Convert to a consistent "higher is better" score for ranking/printing.
             # - IP: larger is better already (cosine if normalized).
@@ -890,6 +915,7 @@ def search_faiss(
                 scores = D
 
             # Iterate candidates in returned order
+            phase_started = time.perf_counter()
             reached_candidate_limit = False
             for score, row in zip(scores.tolist(), I.tolist()):
                 # FAISS uses -1 for empty results sometimes; skip
@@ -931,19 +957,25 @@ def search_faiss(
                 if max_candidates and len(candidates) >= int(max_candidates):
                     reached_candidate_limit = True
                     break
+            _record_timing(timings, f"faiss.hydrate_candidates_attempt_{attempt + 1}", phase_started)
 
+            phase_started = time.perf_counter()
             aggregated = aggregate_candidates(
                 candidates, snippet_chars, chunks_path, sort_by_announced_date=sort_by_announced_date
             )
+            _record_timing(timings, f"faiss.aggregate_attempt_{attempt + 1}", phase_started)
             if len(aggregated) >= int(top_k) or reached_candidate_limit:
                 break
 
+        phase_started = time.perf_counter()
         aggregated = aggregate_candidates(
             candidates, snippet_chars, chunks_path, sort_by_announced_date=sort_by_announced_date
         )
+        _record_timing(timings, "faiss.aggregate_final", phase_started)
         return aggregated[: int(top_k)]
     finally:
         conn.close()
+        _record_timing(timings, "faiss.total", total_started)
 
 
 # -----------------------------

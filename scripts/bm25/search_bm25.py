@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import json
 import sqlite3
+import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
@@ -39,6 +40,11 @@ from scripts.common.text_processing import init_text_processing_from_config, tok
 # Default BM25 parameters (should match build defaults unless you tune intentionally)
 BM25_K1_DEFAULT = 1.2
 BM25_B_DEFAULT = 0.75
+
+
+def _record_timing(timings: Optional[Dict[str, float]], key: str, started: float) -> None:
+    if timings is not None:
+        timings[key] = round((time.perf_counter() - started) * 1000.0, 2)
 
 
 @dataclass(frozen=True)
@@ -332,6 +338,7 @@ def score_query(
     max_candidates: Optional[int] = None,
     oversample: int = 10,
     sort_by_announced_date: bool = False,
+    timings: Optional[Dict[str, float]] = None,
 ) -> List[SearchResult]:
     # Tokenize query using the initialized text processing config (stopwords/min_token_len/etc).
     q_tokens = tokenize(query)
@@ -641,17 +648,22 @@ def search_bm25(
     max_candidates: Optional[int] = None,
     oversample: int = 10,
     sort_by_announced_date: bool = False,
+    timings: Optional[Dict[str, float]] = None,
 ) -> List[SearchResult]:
     """
     Streamlined wrapper that loads config + artifacts, then runs score_query.
     Mirrors the CLI defaults and keeps setup centralized for reuse.
     """
+    total_started = time.perf_counter()
+    phase_started = time.perf_counter()
     cfg = load_config(config_path)
     base_dir = config_path.parent.resolve()
 
     # Initialize tokenization config (stopwords/min_token_len/etc)
     init_text_processing_from_config(config_path)
+    _record_timing(timings, "bm25.config_and_text_processing", phase_started)
 
+    phase_started = time.perf_counter()
     chunks_path = get_path(cfg, "paths.chunks_jsonl", base_dir=base_dir)
     docs_path = get_path(cfg, "paths.bm25_docs_jsonl", base_dir=base_dir)
     inv_path = get_path(cfg, "paths.bm25_inverted_index_jsonl", base_dir=base_dir)
@@ -672,13 +684,17 @@ def search_bm25(
     b_cfg = get_cfg_value(cfg, "bm25.b")
     k1_val = float(k1) if k1 is not None else (float(k1_cfg) if k1_cfg is not None else BM25_K1_DEFAULT)
     b_val = float(b) if b is not None else (float(b_cfg) if b_cfg is not None else BM25_B_DEFAULT)
+    _record_timing(timings, "bm25.resolve_artifacts", phase_started)
 
+    phase_started = time.perf_counter()
     offsets_conn = _sqlite_ro(offsets_db_path)
     docs_offsets_conn = _sqlite_ro(docs_offsets_db_path)
     chunks_offsets_conn = _sqlite_ro(chunks_offsets_db_path)
+    _record_timing(timings, "bm25.open_sqlite", phase_started)
 
     try:
-        return score_query(
+        phase_started = time.perf_counter()
+        results = score_query(
             query=str(query),
             top_k=int(top_k),
             k1=k1_val,
@@ -697,6 +713,8 @@ def search_bm25(
             oversample=int(oversample),
             sort_by_announced_date=sort_by_announced_date,
         )
+        _record_timing(timings, "bm25.score_query", phase_started)
+        return results
     finally:
         try:
             offsets_conn.close()
@@ -710,6 +728,7 @@ def search_bm25(
             chunks_offsets_conn.close()
         except Exception:
             pass
+        _record_timing(timings, "bm25.total", total_started)
 
 
 # -----------------------------

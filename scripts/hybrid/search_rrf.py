@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import time
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
@@ -36,6 +37,11 @@ from typing import Any, Dict, List, Optional, Set
 from scripts.bm25.search_bm25 import search_bm25  # type: ignore
 from scripts.semantic.search_faiss import search_faiss  # type: ignore
 from scripts.bm25.search_bm25 import format_excerpt  # type: ignore
+
+
+def _record_timing(timings: Optional[Dict[str, float]], key: str, started: float) -> None:
+    if timings is not None:
+        timings[key] = round((time.perf_counter() - started) * 1000.0, 2)
 
 
 @dataclass
@@ -51,6 +57,10 @@ class RRFHit:
     doc_id: Optional[str] = None
     attachment_id: Optional[str] = None
     snippet: Optional[str] = None
+    full_chunk_text: Optional[str] = None
+    source_path: Optional[str] = None
+    page_start: Optional[int] = None
+    page_end: Optional[int] = None
     title: Optional[str] = None
     summary: Optional[str] = None
     announced_date: Optional[str] = None
@@ -140,6 +150,31 @@ def _merge_hit(
         hit.attachment_id = _norm_attachment_id(doc)
     if hit.snippet is None and snippet:
         hit.snippet = snippet
+        full_text = doc.get("text")
+        if isinstance(full_text, str) and full_text.strip():
+            hit.full_chunk_text = full_text
+    elif hit.full_chunk_text is None:
+        full_text = doc.get("text")
+        if isinstance(full_text, str) and full_text.strip():
+            hit.full_chunk_text = full_text
+    if hit.source_path is None:
+        source_path = doc.get("source_path")
+        if isinstance(source_path, str) and source_path.strip():
+            hit.source_path = source_path
+    if hit.page_start is None:
+        page_start = doc.get("page_start")
+        try:
+            if page_start is not None and str(page_start).strip() != "":
+                hit.page_start = int(page_start)
+        except Exception:
+            pass
+    if hit.page_end is None:
+        page_end = doc.get("page_end")
+        try:
+            if page_end is not None and str(page_end).strip() != "":
+                hit.page_end = int(page_end)
+        except Exception:
+            pass
     if hit.title is None and title:
         hit.title = title
     if hit.summary is None and summary:
@@ -290,7 +325,10 @@ def run_rrf(
     rrf_k: int,
     filters: Dict[str, Optional[str]],
     sort_by_announced_date: bool = False,
+    timings: Optional[Dict[str, float]] = None,
 ) -> List[RRFHit]:
+    total_started = time.perf_counter()
+    phase_started = time.perf_counter()
     bm25_results = search_bm25(
         config_path=config_path,
         query=str(query),
@@ -302,8 +340,11 @@ def run_rrf(
         max_candidates=bm25_max_candidates,
         oversample=int(bm25_oversample),
         sort_by_announced_date=sort_by_announced_date,
+        timings=timings,
     )
+    _record_timing(timings, "rrf.bm25_total", phase_started)
 
+    phase_started = time.perf_counter()
     faiss_results = search_faiss(
         run_dir=run_dir,
         chunks_path=chunks_path,
@@ -317,13 +358,19 @@ def run_rrf(
         snippet_chars=int(snippet_chars),
         max_candidates=faiss_max_candidates,
         sort_by_announced_date=sort_by_announced_date,
+        timings=timings,
     )
+    _record_timing(timings, "rrf.faiss_total", phase_started)
 
-    return rrf_fuse(
+    phase_started = time.perf_counter()
+    fused = rrf_fuse(
         bm25_results=bm25_results,
         faiss_results=faiss_results,
         rrf_k=int(rrf_k),
     )
+    _record_timing(timings, "rrf.fuse", phase_started)
+    _record_timing(timings, "rrf.total", total_started)
+    return fused
 
 
 def write_rrf_jsonl(path: Path, hits: List[RRFHit]) -> None:
