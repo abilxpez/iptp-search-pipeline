@@ -641,8 +641,12 @@ def aggregate_candidates(
     snippet_chars: int,
     chunks_path: Path,
     sort_by_announced_date: bool = False,
+    title_summary_maps: Optional[Tuple[Dict[str, str], Dict[str, str]]] = None,
 ) -> List[SearchResult]:
-    title_by_entry, summary_by_entry = build_title_summary_maps(chunks_path)
+    if title_summary_maps is None:
+        title_by_entry, summary_by_entry = build_title_summary_maps(chunks_path)
+    else:
+        title_by_entry, summary_by_entry = title_summary_maps
     entry_hits: Dict[Any, Dict[str, Any]] = {}
     hit_rank = 0
     for candidate in candidates:
@@ -834,6 +838,7 @@ def search_faiss(
     max_candidates: Optional[int],
     sort_by_announced_date: bool = False,
     timings: Optional[Dict[str, float]] = None,
+    title_summary_maps: Optional[Tuple[Dict[str, str], Dict[str, str]]] = None,
 ) -> List[SearchResult]:
     total_started = time.perf_counter()
     phase_started = time.perf_counter()
@@ -961,7 +966,11 @@ def search_faiss(
 
             phase_started = time.perf_counter()
             aggregated = aggregate_candidates(
-                candidates, snippet_chars, chunks_path, sort_by_announced_date=sort_by_announced_date
+                candidates,
+                snippet_chars,
+                chunks_path,
+                sort_by_announced_date=sort_by_announced_date,
+                title_summary_maps=title_summary_maps,
             )
             _record_timing(timings, f"faiss.aggregate_attempt_{attempt + 1}", phase_started)
             if len(aggregated) >= int(top_k) or reached_candidate_limit:
@@ -969,7 +978,11 @@ def search_faiss(
 
         phase_started = time.perf_counter()
         aggregated = aggregate_candidates(
-            candidates, snippet_chars, chunks_path, sort_by_announced_date=sort_by_announced_date
+            candidates,
+            snippet_chars,
+            chunks_path,
+            sort_by_announced_date=sort_by_announced_date,
+            title_summary_maps=title_summary_maps,
         )
         _record_timing(timings, "faiss.aggregate_final", phase_started)
         return aggregated[: int(top_k)]

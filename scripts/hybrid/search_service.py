@@ -1,10 +1,19 @@
 from __future__ import annotations
 
 import time
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from scripts.bm25.search_bm25 import search_bm25  # type: ignore
+from scripts.bm25.search_bm25 import (  # type: ignore
+    BM25_B_DEFAULT,
+    BM25_K1_DEFAULT,
+    _sqlite_ro,
+    read_json,
+    score_query,
+)
+from scripts.common.config import get_cfg_value, get_path, load_config  # type: ignore
+from scripts.common.text_processing import init_text_processing_from_config  # type: ignore
 from scripts.hybrid.search_rrf import RRFHit, rrf_fuse  # type: ignore
 from scripts.semantic.search_faiss import (  # type: ignore
     SearchResult as SemanticSearchResult,
@@ -12,6 +21,7 @@ from scripts.semantic.search_faiss import (  # type: ignore
     build_chunks_sqlite_if_missing,
     build_embedder_from_manifest,
     build_row_offsets_if_missing,
+    build_title_summary_maps,
     chunks_sqlite_path_for,
     doc_passes_filters,
     faiss_search_rows,
@@ -35,6 +45,79 @@ def _record_timing(timings: Optional[Dict[str, float]], key: str, started: float
         timings[key] = round((time.perf_counter() - started) * 1000.0, 2)
 
 
+@dataclass
+class CrossEncoderState:
+    model_id: str
+    tokenizer: Any
+    model: Any
+    device: Any
+    batch_size: int
+    max_chars: int
+
+
+def _resolve_cross_encoder_device(device_override: Optional[str]) -> Any:
+    import torch
+
+    if device_override:
+        return torch.device(device_override)
+    if torch.cuda.is_available():
+        return torch.device("cuda")
+    if hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
+        return torch.device("mps")
+    return torch.device("cpu")
+
+
+def load_cross_encoder_state(
+    *,
+    model_id: str,
+    device: Optional[str],
+    batch_size: int,
+    max_chars: int,
+    timings: Optional[Dict[str, float]] = None,
+) -> CrossEncoderState:
+    started = time.perf_counter()
+    import torch
+    from transformers import AutoModelForSequenceClassification, AutoTokenizer
+
+    ce_device = _resolve_cross_encoder_device(device)
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    model = AutoModelForSequenceClassification.from_pretrained(model_id)
+    model.eval()
+    model.to(ce_device)
+    _record_timing(timings, "service.ce.load_model", started)
+
+    return CrossEncoderState(
+        model_id=model_id,
+        tokenizer=tokenizer,
+        model=model,
+        device=ce_device,
+        batch_size=int(batch_size),
+        max_chars=int(max_chars),
+    )
+
+
+def warm_cross_encoder_state(
+    state: CrossEncoderState,
+    *,
+    query: str = "temporary protected status",
+    text: str = "Temporary Protected Status policy action.",
+    timings: Optional[Dict[str, float]] = None,
+) -> None:
+    started = time.perf_counter()
+    import torch
+
+    encoded = state.tokenizer(
+        [(query, text)],
+        padding=True,
+        truncation=True,
+        return_tensors="pt",
+    )
+    encoded = {k: v.to(state.device) for k, v in encoded.items()}
+    with torch.no_grad():
+        state.model(**encoded)
+    _record_timing(timings, "service.ce.warm_inference", started)
+
+
 class SearchService:
     def __init__(
         self,
@@ -46,6 +129,11 @@ class SearchService:
         batch_size: int = 16,
         ef_search: Optional[int] = None,
         warmup_query: Optional[str] = "temporary protected status",
+        ce_model_id: Optional[str] = None,
+        ce_device: Optional[str] = None,
+        ce_batch_size: int = 16,
+        ce_max_chars: int = 1500,
+        ce_warmup: bool = True,
         timings: Optional[Dict[str, float]] = None,
     ) -> None:
         self.config_path = Path(config_path)
@@ -54,8 +142,53 @@ class SearchService:
         self.device = device
         self.batch_size = int(batch_size)
         self.ef_search = ef_search
+        self.cross_encoder: Optional[CrossEncoderState] = None
 
         total_started = time.perf_counter()
+
+        phase_started = time.perf_counter()
+        self.bm25_config = load_config(self.config_path)
+        self.bm25_base_dir = self.config_path.parent.resolve()
+        init_text_processing_from_config(self.config_path)
+        self.bm25_chunks_path = get_path(self.bm25_config, "paths.chunks_jsonl", base_dir=self.bm25_base_dir)
+        self.bm25_docs_path = get_path(self.bm25_config, "paths.bm25_docs_jsonl", base_dir=self.bm25_base_dir)
+        self.bm25_inv_path = get_path(
+            self.bm25_config,
+            "paths.bm25_inverted_index_jsonl",
+            base_dir=self.bm25_base_dir,
+        )
+        self.bm25_offsets_db_path = get_path(
+            self.bm25_config,
+            "paths.bm25_offsets_sqlite",
+            base_dir=self.bm25_base_dir,
+        )
+        self.bm25_docs_offsets_db_path = get_path(
+            self.bm25_config,
+            "paths.bm25_docs_offsets_sqlite",
+            base_dir=self.bm25_base_dir,
+        )
+        self.bm25_chunks_offsets_db_path = get_path(
+            self.bm25_config,
+            "paths.bm25_chunks_offsets_sqlite",
+            base_dir=self.bm25_base_dir,
+        )
+        self.bm25_corpus_stats_path = get_path(
+            self.bm25_config,
+            "paths.bm25_corpus_stats_json",
+            base_dir=self.bm25_base_dir,
+        )
+        stats = read_json(self.bm25_corpus_stats_path)
+        self.bm25_n_docs = int(stats.get("n_docs", 0))
+        self.bm25_avgdl = float(stats.get("avgdl", 0.0))
+        if self.bm25_n_docs <= 0 or self.bm25_avgdl <= 0.0:
+            raise RuntimeError(
+                f"Invalid corpus_stats.json (n_docs={self.bm25_n_docs}, avgdl={self.bm25_avgdl})"
+            )
+        k1_cfg = get_cfg_value(self.bm25_config, "bm25.k1")
+        b_cfg = get_cfg_value(self.bm25_config, "bm25.b")
+        self.bm25_k1_default = float(k1_cfg) if k1_cfg is not None else BM25_K1_DEFAULT
+        self.bm25_b_default = float(b_cfg) if b_cfg is not None else BM25_B_DEFAULT
+        _record_timing(timings, "service.bm25_context", phase_started)
 
         phase_started = time.perf_counter()
         self.manifest = load_manifest(self.run_dir)
@@ -101,7 +234,197 @@ class SearchService:
                 raise RuntimeError(f"Warmup embedding shape mismatch: got {qvec.shape}, expected (1, {self.dim})")
             _record_timing(timings, "service.semantic_warm_embed", phase_started)
 
+        phase_started = time.perf_counter()
+        self.title_summary_maps = build_title_summary_maps(self.chunks_path)
+        _record_timing(timings, "service.title_summary_maps", phase_started)
+
+        if ce_model_id:
+            self.cross_encoder = load_cross_encoder_state(
+                model_id=str(ce_model_id),
+                device=ce_device,
+                batch_size=int(ce_batch_size),
+                max_chars=int(ce_max_chars),
+                timings=timings,
+            )
+            if ce_warmup:
+                warm_cross_encoder_state(self.cross_encoder, timings=timings)
+
         _record_timing(timings, "service.init_total", total_started)
+
+    def search_bm25(
+        self,
+        *,
+        query: str,
+        top_k: int,
+        filters: Dict[str, Optional[str]],
+        k1: Optional[float],
+        b: Optional[float],
+        snippet_chars: int,
+        max_candidates: Optional[int],
+        oversample: int,
+        sort_by_announced_date: bool = False,
+        timings: Optional[Dict[str, float]] = None,
+    ) -> List[Any]:
+        total_started = time.perf_counter()
+        k1_val = float(k1) if k1 is not None else self.bm25_k1_default
+        b_val = float(b) if b is not None else self.bm25_b_default
+
+        phase_started = time.perf_counter()
+        offsets_conn = _sqlite_ro(self.bm25_offsets_db_path)
+        docs_offsets_conn = _sqlite_ro(self.bm25_docs_offsets_db_path)
+        chunks_offsets_conn = _sqlite_ro(self.bm25_chunks_offsets_db_path)
+        _record_timing(timings, "service.bm25.open_sqlite", phase_started)
+
+        try:
+            phase_started = time.perf_counter()
+            results = score_query(
+                query=str(query),
+                top_k=int(top_k),
+                k1=k1_val,
+                b=b_val,
+                n_docs=self.bm25_n_docs,
+                avgdl=self.bm25_avgdl,
+                docs_path=self.bm25_docs_path,
+                inv_path=self.bm25_inv_path,
+                chunks_path=self.bm25_chunks_path,
+                offsets_conn=offsets_conn,
+                docs_offsets_conn=docs_offsets_conn,
+                chunks_offsets_conn=chunks_offsets_conn,
+                filters=filters,
+                snippet_chars=int(snippet_chars),
+                max_candidates=max_candidates,
+                oversample=int(oversample),
+                sort_by_announced_date=sort_by_announced_date,
+                title_summary_maps=self.title_summary_maps,
+            )
+            _record_timing(timings, "service.bm25.score_query", phase_started)
+            return results
+        finally:
+            try:
+                offsets_conn.close()
+            except Exception:
+                pass
+            try:
+                docs_offsets_conn.close()
+            except Exception:
+                pass
+            try:
+                chunks_offsets_conn.close()
+            except Exception:
+                pass
+            _record_timing(timings, "service.bm25.total", total_started)
+
+    # EXPERIMENTAL CE FILTER HELPERS: remove these methods if CE filtering is discarded.
+    def _text_for_cross_encoder_hit(self, hit: RRFHit) -> str:
+        parts: List[str] = []
+        if hit.title:
+            parts.append(str(hit.title))
+        if hit.summary:
+            parts.append(str(hit.summary))
+        if hit.full_chunk_text:
+            parts.append(str(hit.full_chunk_text))
+        elif hit.snippet:
+            parts.append(str(hit.snippet))
+
+        text = "\n\n".join(p.strip() for p in parts if p and str(p).strip())
+        if self.cross_encoder and self.cross_encoder.max_chars > 0 and len(text) > self.cross_encoder.max_chars:
+            return text[: self.cross_encoder.max_chars]
+        return text
+
+    def score_cross_encoder_hits(
+        self,
+        *,
+        query: str,
+        hits: List[RRFHit],
+        top_k: int,
+        timings: Optional[Dict[str, float]] = None,
+    ) -> List[RRFHit]:
+        if self.cross_encoder is None:
+            raise RuntimeError("Cross-encoder state is not loaded. Start API with --enable-ce-filter.")
+
+        total_started = time.perf_counter()
+        import torch
+
+        state = self.cross_encoder
+        scored_hits = list(hits)
+        to_score = scored_hits[: max(0, int(top_k))]
+        if not to_score:
+            _record_timing(timings, "service.ce.total", total_started)
+            return scored_hits
+
+        phase_started = time.perf_counter()
+        pairs = [(str(query), self._text_for_cross_encoder_hit(hit)) for hit in to_score]
+        _record_timing(timings, "service.ce.prepare_pairs", phase_started)
+        scores: List[float] = []
+
+        phase_started = time.perf_counter()
+        with torch.no_grad():
+            for start in range(0, len(pairs), state.batch_size):
+                batch = pairs[start : start + state.batch_size]
+                encoded = state.tokenizer(
+                    batch,
+                    padding=True,
+                    truncation=True,
+                    return_tensors="pt",
+                )
+                encoded = {k: v.to(state.device) for k, v in encoded.items()}
+                output = state.model(**encoded)
+                logits = output.logits
+                if logits.ndim == 2 and logits.shape[1] == 1:
+                    batch_scores = logits[:, 0]
+                elif logits.ndim == 2:
+                    batch_scores = logits[:, -1]
+                else:
+                    batch_scores = logits.reshape(-1)
+                scores.extend(float(v) for v in batch_scores.detach().cpu().tolist())
+        _record_timing(timings, "service.ce.inference", phase_started)
+
+        phase_started = time.perf_counter()
+        for hit, score in zip(to_score, scores):
+            setattr(hit, "ce_score", float(score))
+        _record_timing(timings, "service.ce.attach_scores", phase_started)
+
+        _record_timing(timings, "service.ce.total", total_started)
+        return scored_hits
+
+    def filter_cross_encoder_hits(
+        self,
+        *,
+        hits: List[RRFHit],
+        threshold: float,
+        min_return: int,
+        top_k: int,
+        timings: Optional[Dict[str, float]] = None,
+    ) -> List[RRFHit]:
+        started = time.perf_counter()
+        if not hits:
+            _record_timing(timings, "service.ce.filter", started)
+            return []
+
+        score_limit = max(0, int(top_k))
+        scored_window = hits[:score_limit] if score_limit else []
+        unscored_tail = hits[score_limit:] if score_limit else hits
+
+        kept = [
+            hit
+            for hit in scored_window
+            if getattr(hit, "ce_score", None) is not None and float(getattr(hit, "ce_score")) >= float(threshold)
+        ]
+
+        min_needed = max(0, int(min_return))
+        if min_needed and len(kept) < min_needed:
+            for hit in scored_window:
+                if hit not in kept:
+                    kept.append(hit)
+                if len(kept) >= min_needed:
+                    break
+
+        # For the prototype, only the CE-scored window is eligible for display.
+        # Keep this assignment so removing CE filtering later is a single-method deletion.
+        _unused_tail = unscored_tail
+
+        _record_timing(timings, "service.ce.filter", started)
+        return kept
 
     def search_semantic(
         self,
@@ -194,6 +517,7 @@ class SearchService:
                     snippet_chars,
                     self.chunks_path,
                     sort_by_announced_date=sort_by_announced_date,
+                    title_summary_maps=self.title_summary_maps,
                 )
                 _record_timing(timings, f"service.faiss.aggregate_attempt_{attempt + 1}", phase_started)
                 if len(aggregated) >= int(top_k) or reached_candidate_limit:
@@ -205,6 +529,7 @@ class SearchService:
                 snippet_chars,
                 self.chunks_path,
                 sort_by_announced_date=sort_by_announced_date,
+                title_summary_maps=self.title_summary_maps,
             )
             _record_timing(timings, "service.faiss.aggregate_final", phase_started)
             return aggregated[: int(top_k)]
@@ -228,13 +553,16 @@ class SearchService:
         rrf_k: int,
         filters: Dict[str, Optional[str]],
         sort_by_announced_date: bool = False,
+        ce_filter: bool = False,
+        ce_top_k: int = 10,
+        ce_threshold: float = 2.5,
+        ce_min_return: int = 1,
         timings: Optional[Dict[str, float]] = None,
     ) -> List[RRFHit]:
         total_started = time.perf_counter()
 
         phase_started = time.perf_counter()
-        bm25_results = search_bm25(
-            config_path=self.config_path,
+        bm25_results = self.search_bm25(
             query=str(query),
             top_k=bm25_top_k,
             filters=filters,
@@ -268,5 +596,23 @@ class SearchService:
             rrf_k=int(rrf_k),
         )
         _record_timing(timings, "service.rrf.fuse", phase_started)
+
+        if ce_filter:
+            if self.cross_encoder is None:
+                raise RuntimeError("CE filter requested, but cross-encoder is not loaded. Start API with --enable-ce-filter.")
+            fused = self.score_cross_encoder_hits(
+                query=str(query),
+                hits=fused,
+                top_k=int(ce_top_k),
+                timings=timings,
+            )
+            fused = self.filter_cross_encoder_hits(
+                hits=fused,
+                threshold=float(ce_threshold),
+                min_return=int(ce_min_return),
+                top_k=int(ce_top_k),
+                timings=timings,
+            )
+
         _record_timing(timings, "service.rrf.total", total_started)
         return fused

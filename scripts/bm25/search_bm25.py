@@ -339,6 +339,7 @@ def score_query(
     oversample: int = 10,
     sort_by_announced_date: bool = False,
     timings: Optional[Dict[str, float]] = None,
+    title_summary_maps: Optional[Tuple[Dict[str, str], Dict[str, str]]] = None,
 ) -> List[SearchResult]:
     # Tokenize query using the initialized text processing config (stopwords/min_token_len/etc).
     q_tokens = tokenize(query)
@@ -416,7 +417,10 @@ def score_query(
     )
     candidate_ids = sorted(scores.keys(), key=lambda d: scores[d], reverse=True)[:limit]
 
-    title_by_entry, summary_by_entry = build_title_summary_maps(chunks_path)
+    if title_summary_maps is None:
+        title_by_entry, summary_by_entry = build_title_summary_maps(chunks_path)
+    else:
+        title_by_entry, summary_by_entry = title_summary_maps
 
     hit_rank = 0
     entry_hits: Dict[Any, Dict[str, Any]] = {}
@@ -649,6 +653,7 @@ def search_bm25(
     oversample: int = 10,
     sort_by_announced_date: bool = False,
     timings: Optional[Dict[str, float]] = None,
+    title_summary_maps: Optional[Tuple[Dict[str, str], Dict[str, str]]] = None,
 ) -> List[SearchResult]:
     """
     Streamlined wrapper that loads config + artifacts, then runs score_query.
@@ -712,6 +717,7 @@ def search_bm25(
             max_candidates=max_candidates,
             oversample=int(oversample),
             sort_by_announced_date=sort_by_announced_date,
+            title_summary_maps=title_summary_maps,
         )
         _record_timing(timings, "bm25.score_query", phase_started)
         return results

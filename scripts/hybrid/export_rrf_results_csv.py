@@ -6,7 +6,7 @@ Usage:
 python -m scripts.hybrid.export_rrf_results_csv \
   --queries data/text/queries.txt \
   --top_k 5 \
-  --out data/text/rrf_results.csv \
+  --out data/text/results/rrf_results_full_chunks.csv \
   --snippet_chars 1000
 """
 
@@ -109,6 +109,11 @@ def _snippet_for_hit(*, doc: dict, hit, snippet_chars: int) -> str:
     return ""
 
 
+def _full_chunk_text_for_doc(doc: dict) -> str:
+    text = doc.get("text") if isinstance(doc, dict) else None
+    return str(text).strip() if isinstance(text, str) and text.strip() else ""
+
+
 def main() -> None:
     args = parse_args()
 
@@ -149,6 +154,7 @@ def main() -> None:
         "bm25_best_rank",
         "faiss_best_rank",
         "snippet",
+        "full_chunk_text",
     ]
 
     chunks_path = Path(args.chunks)
@@ -201,6 +207,7 @@ def main() -> None:
 
                     doc_id_str = str(h.doc_id) if getattr(h, "doc_id", None) is not None else ""
                     snippet = _snippet_for_hit(doc=doc, hit=h, snippet_chars=int(args.snippet_chars))
+                    full_chunk_text = _full_chunk_text_for_doc(doc)
 
                     writer.writerow(
                         {
@@ -225,6 +232,7 @@ def main() -> None:
                             "bm25_best_rank": getattr(h, "bm25_best_rank", 0) or 0,
                             "faiss_best_rank": getattr(h, "faiss_best_rank", 0) or 0,
                             "snippet": snippet or "",
+                            "full_chunk_text": full_chunk_text,
                         }
                     )
     finally:

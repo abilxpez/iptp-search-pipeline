@@ -78,6 +78,8 @@ def _hit_to_dict(hit: Any) -> Dict[str, Any]:
     source_path = data.get("source_path")
     data["source_path"] = str(source_path) if source_path else ""
     data["source_file_name"] = os.path.basename(data["source_path"]) if data["source_path"] else ""
+    ce_score = getattr(hit, "ce_score", None)
+    data["ce_score"] = float(ce_score) if ce_score is not None else None
     return data
 
 
@@ -87,24 +89,35 @@ class APIConfig:
     run_dir: Path
     chunks_path: Path
     allow_origin: str
-    bm25_top_k: int = 100
-    bm25_oversample: int = 10
+    bm25_top_k: int = 20
+    bm25_oversample: int = 5
     bm25_max_candidates: Optional[int] = None
     k1: Optional[float] = None
     b: Optional[float] = None
-    faiss_top_k: int = 100
-    faiss_oversample: int = 10
+    faiss_top_k: int = 20
+    faiss_oversample: int = 5
     faiss_max_candidates: Optional[int] = None
     device: Optional[str] = "cpu"
     batch_size: int = 16
     ef_search: Optional[int] = None
     snippet_chars: int = 220
     rrf_k: int = 60
-    final_k: int = 50
+    final_k: int = 10
+
+    # EXPERIMENTAL CE FILTER CONFIG: remove this block if CE filtering is discarded.
+    ce_filter_enabled: bool = False
+    ce_model_id: Optional[str] = None
+    ce_device: Optional[str] = None
+    ce_batch_size: int = 16
+    ce_max_chars: int = 1500
+    ce_top_k: int = 10
+    ce_threshold: float = 2.5
+    ce_min_return: int = 1
 
 
 class SearchAPIHandler(BaseHTTPRequestHandler):
     api_config: APIConfig
+    search_service: Any = None
 
     def _send_json(self, status: int, payload: Dict[str, Any]) -> None:
         body = json.dumps(payload).encode("utf-8")
@@ -153,6 +166,10 @@ class SearchAPIHandler(BaseHTTPRequestHandler):
                 "agency": _first_qs_value(qs, "agency"),
                 "subject": _first_qs_value(qs, "subject"),
                 "sort_by_announced_date": _first_qs_value(qs, "sort_by_announced_date"),
+                "ce_filter": _first_qs_value(qs, "ce_filter"),
+                "ce_top_k": _first_qs_value(qs, "ce_top_k"),
+                "ce_threshold": _first_qs_value(qs, "ce_threshold"),
+                "ce_min_return": _first_qs_value(qs, "ce_min_return"),
             }
             self._handle_search(payload)
             return
@@ -202,6 +219,12 @@ class SearchAPIHandler(BaseHTTPRequestHandler):
         batch_size = _parse_int(payload.get("batch_size"), cfg.batch_size, min_value=1, max_value=128)
         rrf_k = _parse_int(payload.get("rrf_k"), cfg.rrf_k, min_value=1, max_value=1000)
         sort_by_announced_date = _parse_bool(payload.get("sort_by_announced_date"), default=False)
+        ce_filter = _parse_bool(payload.get("ce_filter"), default=cfg.ce_filter_enabled)
+        ce_top_k = _parse_int(payload.get("ce_top_k"), cfg.ce_top_k, min_value=1, max_value=50)
+        ce_threshold = _parse_float(payload.get("ce_threshold"), cfg.ce_threshold)
+        if ce_threshold is None:
+            ce_threshold = cfg.ce_threshold
+        ce_min_return = _parse_int(payload.get("ce_min_return"), cfg.ce_min_return, min_value=0, max_value=50)
 
         bm25_max_candidates = payload.get("bm25_max_candidates", cfg.bm25_max_candidates)
         if bm25_max_candidates is not None:
@@ -224,27 +247,61 @@ class SearchAPIHandler(BaseHTTPRequestHandler):
 
         started = time.perf_counter()
         timings: Dict[str, float] = {}
+        timings["api.ce_filter_requested"] = 1.0 if ce_filter else 0.0
+        timings["api.ce_top_k"] = float(ce_top_k)
+        timings["api.ce_threshold"] = float(ce_threshold)
+        timings["api.ce_min_return"] = float(ce_min_return)
         try:
-            fused = _run_search(
-                cfg=cfg,
-                query=query,
-                bm25_top_k=bm25_top_k,
-                bm25_oversample=bm25_oversample,
-                bm25_max_candidates=bm25_max_candidates,
-                k1=k1,
-                b=b,
-                faiss_top_k=faiss_top_k,
-                faiss_oversample=faiss_oversample,
-                faiss_max_candidates=faiss_max_candidates,
-                device=device,
-                batch_size=batch_size,
-                ef_search=ef_search,
-                snippet_chars=snippet_chars,
-                rrf_k=rrf_k,
-                filters=filters,
-                sort_by_announced_date=sort_by_announced_date,
-                timings=timings,
+            use_service = (
+                self.search_service is not None
+                and device == cfg.device
+                and batch_size == cfg.batch_size
+                and ef_search == cfg.ef_search
             )
+            if use_service:
+                fused = self.search_service.search(
+                    query=query,
+                    bm25_top_k=bm25_top_k,
+                    bm25_oversample=bm25_oversample,
+                    bm25_max_candidates=bm25_max_candidates,
+                    k1=k1,
+                    b=b,
+                    faiss_top_k=faiss_top_k,
+                    faiss_oversample=faiss_oversample,
+                    faiss_max_candidates=faiss_max_candidates,
+                    snippet_chars=snippet_chars,
+                    rrf_k=rrf_k,
+                    filters=filters,
+                    sort_by_announced_date=sort_by_announced_date,
+                    ce_filter=ce_filter,
+                    ce_top_k=ce_top_k,
+                    ce_threshold=ce_threshold,
+                    ce_min_return=ce_min_return,
+                    timings=timings,
+                )
+                timings["api.search_backend"] = 1.0
+            else:
+                fused = _run_search(
+                    cfg=cfg,
+                    query=query,
+                    bm25_top_k=bm25_top_k,
+                    bm25_oversample=bm25_oversample,
+                    bm25_max_candidates=bm25_max_candidates,
+                    k1=k1,
+                    b=b,
+                    faiss_top_k=faiss_top_k,
+                    faiss_oversample=faiss_oversample,
+                    faiss_max_candidates=faiss_max_candidates,
+                    device=device,
+                    batch_size=batch_size,
+                    ef_search=ef_search,
+                    snippet_chars=snippet_chars,
+                    rrf_k=rrf_k,
+                    filters=filters,
+                    sort_by_announced_date=sort_by_announced_date,
+                    timings=timings,
+                )
+                timings["api.search_backend"] = 0.0
         except Exception as e:
             self._send_json(500, {"ok": False, "error": str(e)})
             return
@@ -391,6 +448,32 @@ def warm_search_backend(cfg: APIConfig) -> None:
     print(f"Search warmup timings: {json.dumps(timings, sort_keys=True)}")
 
 
+def build_search_service(cfg: APIConfig) -> Any:
+    started = time.perf_counter()
+    timings: Dict[str, float] = {}
+    from scripts.hybrid.search_service import SearchService  # type: ignore
+
+    service = SearchService(
+        config_path=cfg.config_path,
+        run_dir=cfg.run_dir,
+        chunks_path=cfg.chunks_path,
+        device=cfg.device,
+        batch_size=cfg.batch_size,
+        ef_search=cfg.ef_search,
+        warmup_query="temporary protected status",
+        ce_model_id=cfg.ce_model_id if cfg.ce_filter_enabled else None,
+        ce_device=cfg.ce_device,
+        ce_batch_size=cfg.ce_batch_size,
+        ce_max_chars=cfg.ce_max_chars,
+        timings=timings,
+    )
+    elapsed_ms = round((time.perf_counter() - started) * 1000.0, 2)
+    timings["service.startup_total"] = elapsed_ms
+    print(f"Search service initialized in {elapsed_ms} ms")
+    print(f"Search service timings: {json.dumps(timings, sort_keys=True)}")
+    return service
+
+
 def parse_args() -> argparse.Namespace:
     repo_root = Path(__file__).resolve().parent.parent
     parser = argparse.ArgumentParser(description="IPTP Search HTTP API (RRF hybrid search).")
@@ -412,6 +495,27 @@ def parse_args() -> argparse.Namespace:
         default="cpu",
         help='Embedding device for FAISS query embedding: "cpu", "mps", or "cuda" (default: cpu)',
     )
+    # EXPERIMENTAL CE FILTER FLAGS: remove this block if CE filtering is discarded.
+    parser.add_argument(
+        "--enable-ce-filter",
+        action="store_true",
+        help="Load experimental cross-encoder state for CE filtering.",
+    )
+    parser.add_argument(
+        "--ce-model-id",
+        default="cross-encoder/ms-marco-MiniLM-L-6-v2",
+        help="Cross-encoder model id used when --enable-ce-filter is set.",
+    )
+    parser.add_argument(
+        "--ce-device",
+        default=None,
+        help='Cross-encoder device override: "cpu", "mps", or "cuda" (default: auto).',
+    )
+    parser.add_argument("--ce-batch-size", type=int, default=16, help="Cross-encoder batch size.")
+    parser.add_argument("--ce-max-chars", type=int, default=1500, help="Max candidate text chars sent to CE.")
+    parser.add_argument("--ce-top-k", type=int, default=10, help="How many RRF hits CE should score.")
+    parser.add_argument("--ce-threshold", type=float, default=2.5, help="Minimum CE score to keep a result.")
+    parser.add_argument("--ce-min-return", type=int, default=1, help="Minimum results to return after CE filtering.")
     parser.add_argument("--allow-origin", default="*", help='CORS origin, e.g. "*" or "http://localhost:4173"')
     return parser.parse_args()
 
@@ -424,6 +528,14 @@ def main() -> None:
         chunks_path=Path(args.chunks).resolve(),
         device=str(args.device).strip() if args.device is not None else "cpu",
         allow_origin=str(args.allow_origin),
+        ce_filter_enabled=bool(args.enable_ce_filter),
+        ce_model_id=str(args.ce_model_id).strip() if args.ce_model_id else None,
+        ce_device=str(args.ce_device).strip() if args.ce_device else None,
+        ce_batch_size=int(args.ce_batch_size),
+        ce_max_chars=int(args.ce_max_chars),
+        ce_top_k=int(args.ce_top_k),
+        ce_threshold=float(args.ce_threshold),
+        ce_min_return=int(args.ce_min_return),
     )
 
     handler = SearchAPIHandler
@@ -435,7 +547,7 @@ def main() -> None:
     print(f"  run_dir={config.run_dir}")
     print(f"  chunks={config.chunks_path}")
     print("  endpoints: GET /health, GET/POST /search")
-    warm_search_backend(config)
+    handler.search_service = build_search_service(config)
     try:
         server.serve_forever()
     except KeyboardInterrupt:
