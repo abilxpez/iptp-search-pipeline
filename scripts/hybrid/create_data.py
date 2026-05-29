@@ -165,6 +165,8 @@ def main() -> None:
         "bm25_rank",
         "faiss_score",
         "faiss_rank",
+        "agencies_affected",
+        "subject_matter",
     ]
 
     missing_bm25 = 0
@@ -197,6 +199,8 @@ def main() -> None:
                     "bm25_rank": bm25_rank,
                     "faiss_score": faiss_score,
                     "faiss_rank": faiss_rank,
+                    "agencies_affected": _norm(cleaned.get("agencies_affected")),
+                    "subject_matter": _norm(cleaned.get("subject_matter")),
                 }
             )
 

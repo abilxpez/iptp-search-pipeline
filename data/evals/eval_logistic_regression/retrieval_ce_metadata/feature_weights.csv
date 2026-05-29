@@ -1,0 +1,12 @@
+feature,weight
+intercept,-0.194157
+faiss_score,0.581889
+ce_score,0.518890
+bm25_score,0.422395
+rrf_score,0.413133
+ce_rank,-0.269135
+subject_overlap_ratio,0.220473
+rrf_rank,0.109447
+agency_overlap_ratio,0.100891
+bm25_rank,-0.085575
+faiss_rank,-0.065353

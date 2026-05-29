@@ -80,6 +80,12 @@ def _hit_to_dict(hit: Any) -> Dict[str, Any]:
     data["source_file_name"] = os.path.basename(data["source_path"]) if data["source_path"] else ""
     ce_score = getattr(hit, "ce_score", None)
     data["ce_score"] = float(ce_score) if ce_score is not None else None
+    relevance_probability = getattr(hit, "relevance_probability", None)
+    data["relevance_probability"] = (
+        float(relevance_probability) if relevance_probability is not None else None
+    )
+    relevance_band = getattr(hit, "relevance_band", None)
+    data["relevance_band"] = str(relevance_band) if relevance_band else ""
     return data
 
 
@@ -113,6 +119,7 @@ class APIConfig:
     ce_top_k: int = 10
     ce_threshold: float = 2.5
     ce_min_return: int = 1
+    relevance_model_dir: Optional[Path] = None
 
 
 class SearchAPIHandler(BaseHTTPRequestHandler):
@@ -247,10 +254,11 @@ class SearchAPIHandler(BaseHTTPRequestHandler):
 
         started = time.perf_counter()
         timings: Dict[str, float] = {}
-        timings["api.ce_filter_requested"] = 1.0 if ce_filter else 0.0
-        timings["api.ce_top_k"] = float(ce_top_k)
-        timings["api.ce_threshold"] = float(ce_threshold)
-        timings["api.ce_min_return"] = float(ce_min_return)
+        if ce_filter:
+            timings["api.ce_filter_requested"] = 1.0
+            timings["api.ce_top_k"] = float(ce_top_k)
+            timings["api.ce_threshold"] = float(ce_threshold)
+            timings["api.ce_min_return"] = float(ce_min_return)
         try:
             use_service = (
                 self.search_service is not None
@@ -465,6 +473,7 @@ def build_search_service(cfg: APIConfig) -> Any:
         ce_device=cfg.ce_device,
         ce_batch_size=cfg.ce_batch_size,
         ce_max_chars=cfg.ce_max_chars,
+        relevance_model_dir=cfg.relevance_model_dir,
         timings=timings,
     )
     elapsed_ms = round((time.perf_counter() - started) * 1000.0, 2)
@@ -516,6 +525,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--ce-top-k", type=int, default=10, help="How many RRF hits CE should score.")
     parser.add_argument("--ce-threshold", type=float, default=2.5, help="Minimum CE score to keep a result.")
     parser.add_argument("--ce-min-return", type=int, default=1, help="Minimum results to return after CE filtering.")
+    parser.add_argument(
+        "--relevance-model-dir",
+        default=str(repo_root / "data/models/relevance_filter_logistic_regression"),
+        help="Path to saved logistic-regression relevance model directory. Use empty string to disable.",
+    )
     parser.add_argument("--allow-origin", default="*", help='CORS origin, e.g. "*" or "http://localhost:4173"')
     return parser.parse_args()
 
@@ -536,6 +550,7 @@ def main() -> None:
         ce_top_k=int(args.ce_top_k),
         ce_threshold=float(args.ce_threshold),
         ce_min_return=int(args.ce_min_return),
+        relevance_model_dir=Path(args.relevance_model_dir).resolve() if str(args.relevance_model_dir).strip() else None,
     )
 
     handler = SearchAPIHandler

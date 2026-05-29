@@ -1,0 +1,16 @@
+feature,weight
+intercept,-0.181951
+ce_score,0.635177
+faiss_score,0.510692
+rrf_score,0.455773
+bm25_score,0.405274
+ce_rank,-0.241038
+subject_overlap_ratio,0.215607
+chunk_overlap_ratio,-0.207280
+exact_query_in_title,0.201224
+agency_overlap_ratio,0.123274
+rrf_rank,0.120535
+bm25_rank,-0.104793
+title_overlap_ratio,0.093447
+faiss_rank,-0.063292
+exact_query_in_chunk,0.034385

@@ -1,0 +1,10 @@
+feature,weight
+intercept,-0.197433
+faiss_score,0.610332
+ce_score,0.573875
+rrf_score,0.427459
+bm25_score,0.335800
+ce_rank,-0.228787
+bm25_rank,-0.086014
+rrf_rank,0.057086
+faiss_rank,-0.022876

@@ -1,0 +1,6 @@
+feature_set,rows,queries,positive_rows,negative_rows,positive_label_threshold,roc_auc,analysis_threshold,analysis_precision,analysis_recall,analysis_f1,analysis_accuracy
+retrieval,300,60,103,197,2,0.801143,0.40,0.527273,0.844660,0.649254,0.686667
+retrieval_ce,300,60,103,197,2,0.811739,0.40,0.553459,0.854369,0.671756,0.713333
+retrieval_ce_metadata,300,60,103,197,2,0.791632,0.40,0.547297,0.786408,0.645418,0.703333
+retrieval_ce_text,300,60,103,197,2,0.807895,0.40,0.541401,0.825243,0.653846,0.700000
+retrieval_ce_text_metadata,300,60,103,197,2,0.788625,0.40,0.540000,0.786408,0.640316,0.696667

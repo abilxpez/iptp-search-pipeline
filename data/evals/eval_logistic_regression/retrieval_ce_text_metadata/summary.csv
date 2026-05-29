@@ -1,0 +1,2 @@
+feature_set,rows,queries,positive_rows,negative_rows,positive_label_threshold,roc_auc,analysis_threshold,analysis_precision,analysis_recall,analysis_f1,analysis_accuracy
+retrieval_ce_text_metadata,300,60,103,197,2,0.788625,0.40,0.540000,0.786408,0.640316,0.696667

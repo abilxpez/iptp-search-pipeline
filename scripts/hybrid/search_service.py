@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import time
 from dataclasses import dataclass
+import json
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -53,6 +54,56 @@ class CrossEncoderState:
     device: Any
     batch_size: int
     max_chars: int
+
+
+@dataclass
+class RelevanceModelState:
+    model: Any
+    feature_columns: List[str]
+    high_threshold: float
+    medium_threshold: float
+
+
+def load_relevance_model_state(
+    *,
+    model_dir: Path,
+    timings: Optional[Dict[str, float]] = None,
+) -> RelevanceModelState:
+    started = time.perf_counter()
+    import joblib
+
+    model_dir = Path(model_dir)
+    model_path = model_dir / "model.joblib"
+    metadata_path = model_dir / "metadata.json"
+    if not model_path.exists():
+        raise FileNotFoundError(f"Missing relevance model artifact: {model_path}")
+    if not metadata_path.exists():
+        raise FileNotFoundError(f"Missing relevance model metadata: {metadata_path}")
+
+    model = joblib.load(model_path)
+    metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+    feature_columns = metadata.get("feature_columns")
+    if not isinstance(feature_columns, list) or not feature_columns:
+        raise RuntimeError(f"Invalid relevance model feature_columns in {metadata_path}")
+    supported = ["rrf_rank", "rrf_score", "bm25_rank", "bm25_score", "faiss_rank", "faiss_score"]
+    if [str(col) for col in feature_columns] != supported:
+        raise RuntimeError(
+            "Live relevance model currently supports only retrieval feature columns "
+            f"{supported}; got {feature_columns}"
+        )
+
+    state = RelevanceModelState(
+        model=model,
+        feature_columns=[str(col) for col in feature_columns],
+        high_threshold=float(metadata.get("high_threshold", 0.7)),
+        medium_threshold=float(metadata.get("medium_threshold", 0.4)),
+    )
+    if state.high_threshold <= state.medium_threshold:
+        raise RuntimeError(
+            f"Invalid relevance band thresholds: high={state.high_threshold}, medium={state.medium_threshold}"
+        )
+    _record_timing(timings, "service.relevance.load_model", started)
+    return state
 
 
 def _resolve_cross_encoder_device(device_override: Optional[str]) -> Any:
@@ -134,6 +185,7 @@ class SearchService:
         ce_batch_size: int = 16,
         ce_max_chars: int = 1500,
         ce_warmup: bool = True,
+        relevance_model_dir: Optional[Path] = None,
         timings: Optional[Dict[str, float]] = None,
     ) -> None:
         self.config_path = Path(config_path)
@@ -143,6 +195,7 @@ class SearchService:
         self.batch_size = int(batch_size)
         self.ef_search = ef_search
         self.cross_encoder: Optional[CrossEncoderState] = None
+        self.relevance_model: Optional[RelevanceModelState] = None
 
         total_started = time.perf_counter()
 
@@ -249,7 +302,59 @@ class SearchService:
             if ce_warmup:
                 warm_cross_encoder_state(self.cross_encoder, timings=timings)
 
+        if relevance_model_dir:
+            self.relevance_model = load_relevance_model_state(
+                model_dir=Path(relevance_model_dir),
+                timings=timings,
+            )
+
         _record_timing(timings, "service.init_total", total_started)
+
+    def _relevance_features_for_hit(self, *, hit: RRFHit, rrf_rank: int) -> List[float]:
+        return [
+            float(rrf_rank),
+            float(hit.rrf_score or 0.0),
+            float(hit.bm25_rank if hit.bm25_rank is not None else 999.0),
+            float(hit.bm25_score if hit.bm25_score is not None else 0.0),
+            float(hit.faiss_rank if hit.faiss_rank is not None else 999.0),
+            float(hit.faiss_score if hit.faiss_score is not None else 0.0),
+        ]
+
+    def annotate_relevance_hits(
+        self,
+        hits: List[RRFHit],
+        *,
+        timings: Optional[Dict[str, float]] = None,
+    ) -> List[RRFHit]:
+        if self.relevance_model is None or not hits:
+            return hits
+
+        started = time.perf_counter()
+        phase_started = time.perf_counter()
+        features = [
+            self._relevance_features_for_hit(hit=hit, rrf_rank=rank)
+            for rank, hit in enumerate(hits, start=1)
+        ]
+        _record_timing(timings, "service.relevance.prepare_features", phase_started)
+
+        phase_started = time.perf_counter()
+        probabilities = self.relevance_model.model.predict_proba(features)[:, 1]
+        _record_timing(timings, "service.relevance.predict", phase_started)
+
+        phase_started = time.perf_counter()
+        for hit, probability in zip(hits, probabilities.tolist()):
+            prob = float(probability)
+            if prob >= self.relevance_model.high_threshold:
+                band = "high"
+            elif prob >= self.relevance_model.medium_threshold:
+                band = "medium"
+            else:
+                band = "low"
+            setattr(hit, "relevance_probability", prob)
+            setattr(hit, "relevance_band", band)
+        _record_timing(timings, "service.relevance.assign_bands", phase_started)
+        _record_timing(timings, "service.relevance.annotate", started)
+        return hits
 
     def search_bm25(
         self,
@@ -613,6 +718,8 @@ class SearchService:
                 top_k=int(ce_top_k),
                 timings=timings,
             )
+
+        fused = self.annotate_relevance_hits(fused, timings=timings)
 
         _record_timing(timings, "service.rrf.total", total_started)
         return fused

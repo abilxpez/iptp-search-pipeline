@@ -1,0 +1,2 @@
+feature_set,rows,queries,positive_rows,negative_rows,positive_label_threshold,roc_auc,analysis_threshold,analysis_precision,analysis_recall,analysis_f1,analysis_accuracy,high_threshold,medium_threshold
+retrieval,300,60,103,197,2,0.801143,0.40,0.527273,0.844660,0.649254,0.686667,0.70,0.40

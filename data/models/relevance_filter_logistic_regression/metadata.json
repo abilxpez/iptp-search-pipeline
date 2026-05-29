@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-05-29T04:27:49.129104+00:00",
+  "feature_columns": [
+    "rrf_rank",
+    "rrf_score",
+    "bm25_rank",
+    "bm25_score",
+    "faiss_rank",
+    "faiss_score"
+  ],
+  "feature_set": "retrieval",
+  "high_threshold": 0.7,
+  "medium_threshold": 0.4,
+  "model_type": "logistic_regression",
+  "negative_rows": 197,
+  "positive_label_threshold": 2,
+  "positive_rows": 103,
+  "queries": 60,
+  "random_state": 13,
+  "rows": 300,
+  "training_data": "data/text/results/relevance_training_data_all_ce.csv"
+}

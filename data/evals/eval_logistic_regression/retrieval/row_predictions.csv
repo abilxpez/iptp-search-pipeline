@@ -1,0 +1,301 @@
+query,rrf_rank,title,relevance,is_relevant,relevance_probability,relevance_band,rrf_score,bm25_rank,bm25_score,faiss_rank,faiss_score,ce_rank,ce_score
+CBP expedited inspection and secondary inspection policy guidance updates,3,DHS deports DACA recipient returning with advance parole,3,1,0.422134,medium,0.030679,1,20.687476,10,0.704413,1,-0.565949
+CBP expedited inspection and secondary inspection policy guidance updates,1,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,2,1,0.535696,medium,0.032002,2,14.796441,3,0.729843,2,-2.265016
+CBP expedited inspection and secondary inspection policy guidance updates,2,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",3,1,0.595687,medium,0.031754,4,12.747886,2,0.748198,3,-5.87207
+CBP expedited inspection and secondary inspection policy guidance updates,5,USCIS updates policy on applying discretion in adjudications,1,0,0.151221,low,0.029236,6,12.262089,11,0.703091,4,-6.017571
+CBP expedited inspection and secondary inspection policy guidance updates,4,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.195282,low,0.029857,8,10.686679,6,0.715434,5,-9.873388
+CBP inspection and admissibility policy changes,1,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",2,1,0.417747,medium,0.031498,3,11.632296,4,0.727277,1,-1.701129
+CBP inspection and admissibility policy changes,2,DHS deports DACA recipient returning with advance parole,3,1,0.421276,medium,0.031281,2,12.174504,6,0.721505,2,-3.659253
+CBP inspection and admissibility policy changes,5,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.293941,low,0.03031,5,9.19886,7,0.720643,3,-5.75728
+CBP inspection and admissibility policy changes,4,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.236839,low,0.030366,9,7.857572,3,0.727416,4,-6.822354
+CBP inspection and admissibility policy changes,3,USCIS issues final rule on public charge inadmissibility grounds,2,1,0.428886,medium,0.030886,1,14.027287,9,0.715062,5,-7.457685
+DHS and DOS coordination policies for consular processing during COVID,1,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.752554,high,0.031754,2,13.228743,4,0.776364,1,1.096708
+DHS and DOS coordination policies for consular processing during COVID,5,DOL proposes new collection form for employers seeking to employ H-2B nonimmigrant workers,2,1,0.177129,low,0.02967,10,9.719636,5,0.755101,2,-3.918839
+DHS and DOS coordination policies for consular processing during COVID,2,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",3,1,0.534683,medium,0.031054,7,11.10504,2,0.787557,3,-4.518699
+DHS and DOS coordination policies for consular processing during COVID,4,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.286920,low,0.02971,4,12.665999,11,0.742086,4,-5.12218
+DHS and DOS coordination policies for consular processing during COVID,3,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",2,1,0.254485,low,0.030282,12,9.497983,1,0.787557,5,-8.161418
+DHS policy on administrative closure immigration court,2,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.528144,medium,0.030622,9,8.811094,2,0.779753,1,1.299197
+DHS policy on administrative closure immigration court,4,EOIR Acting Deputy Director issues guidance on the handling of classified information in EOIR proceedings,0,0,0.390778,low,0.029958,11,7.98287,3,0.776295,2,1.062361
+DHS policy on administrative closure immigration court,1,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",3,1,0.913177,high,0.032787,1,13.95707,1,0.802597,3,-0.30341
+DHS policy on administrative closure immigration court,3,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",0,0,0.570884,medium,0.030536,5,10.839277,6,0.770947,4,-0.566301
+DHS policy on administrative closure immigration court,5,USCIS issues final rule on public charge inadmissibility grounds,0,0,0.438023,medium,0.029857,6,9.185436,8,0.767794,5,-1.824576
+DHS rulemaking and litigation regarding visa overstay tracking enforcement,2,EOIR Acting Deputy Director issues guidance on the handling of classified information in EOIR proceedings,0,0,0.491676,medium,0.030579,3,13.706063,8,0.747448,1,-0.871124
+DHS rulemaking and litigation regarding visa overstay tracking enforcement,4,EOIR and USCIS issue communicable-disease security bars to asylum and withholding eligibility,0,0,0.125068,low,0.02885,13,9.341841,6,0.749023,2,-2.520835
+DHS rulemaking and litigation regarding visa overstay tracking enforcement,3,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",1,0,0.376358,low,0.03055,7,10.290578,4,0.750505,3,-3.073389
+DHS rulemaking and litigation regarding visa overstay tracking enforcement,5,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.122687,low,0.02837,11,9.375949,10,0.747144,4,-6.441581
+DHS rulemaking and litigation regarding visa overstay tracking enforcement,1,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",0,0,0.645872,medium,0.032018,4,11.631368,1,0.757662,5,-10.489359
+EOIR classified information guidance,1,EOIR Acting Deputy Director issues guidance on the handling of classified information in EOIR proceedings,3,1,0.970840,high,0.032787,1,18.233579,1,0.839527,1,5.635358
+EOIR classified information guidance,3,"DOJ requests comments on Form EOIR-27, Notice of Entry of Appearance before BIA",1,0,0.650992,medium,0.031054,7,8.642458,2,0.78762,2,1.464362
+EOIR classified information guidance,4,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",1,0,0.664535,medium,0.031025,6,8.783834,3,0.78099,3,1.297756
+EOIR classified information guidance,5,EOIR Acting Deputy Director rescinds prior guidance on naturalization oath ceremonies,0,0,0.171104,low,0.02967,5,8.820299,10,0.71098,4,-0.058181
+EOIR classified information guidance,2,EOIR Director issues guidance to restrict continuances,1,0,0.442137,medium,0.031258,3,8.96924,5,0.749497,5,-0.129635
+ICE detention standards,1,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.772250,high,0.032787,1,12.717622,1,0.760605,1,0.626625
+ICE detention standards,2,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,1,0,0.490870,medium,0.031754,4,8.920385,2,0.744427,2,-0.970903
+ICE detention standards,5,US citizen seek millions in damages after violent ICE arrests (RFC),1,0,0.163384,low,0.029469,11,7.011711,5,0.731865,3,-1.079256
+ICE detention standards,4,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",0,0,0.256582,low,0.030303,6,7.713705,6,0.729424,4,-8.757937
+ICE detention standards,3,Federal judge in Oregon orders immediate release of asylum seeker from ICE detention,1,0,0.464867,medium,0.031054,2,12.350646,7,0.72933,5,-10.863714
+ICE raids Los Angeles,1,COVID-19: ICE reportedly resumes arrests after pausing due to pandemic,3,1,0.940407,high,0.032787,1,20.71681,1,0.778533,1,6.926804
+ICE raids Los Angeles,3,US citizen seek millions in damages after violent ICE arrests (RFC),1,0,0.592549,medium,0.032002,3,15.748004,2,0.705454,2,0.438171
+ICE raids Los Angeles,5,"SSA announces return of ""no-match"" letters",1,0,0.187859,low,0.030536,5,13.52249,6,0.674312,3,-5.825465
+ICE raids Los Angeles,4,DOJ files denaturalization complaints against 3 U.S. citizens,0,0,0.326790,low,0.03125,4,14.954658,4,0.680053,4,-7.658879
+ICE raids Los Angeles,2,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.571290,medium,0.032002,2,16.298274,3,0.701275,5,-8.266763
+OMB pauses agency grant loan financial assistance programs,1,"OMB temporarily pauses agency grant, loan, and financial assistance programs",3,1,0.999676,high,0.032787,1,36.947401,1,0.965075,1,6.56508
+OMB pauses agency grant loan financial assistance programs,2,HHS issues notice excluding undocumented immigrants from additional federal benefits,1,0,0.763672,high,0.032258,2,21.196874,2,0.745564,2,2.256036
+OMB pauses agency grant loan financial assistance programs,4,White House FY2020 Budget Proposal includes $8.6 billion in border wall funding,0,0,0.303211,low,0.03125,4,10.093505,4,0.718007,3,-0.729634
+OMB pauses agency grant loan financial assistance programs,3,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,2,1,0.468134,medium,0.031746,3,12.140663,3,0.729977,4,-1.502014
+OMB pauses agency grant loan financial assistance programs,5,"DOS proposes revisions to Form DS-2019, Certificate of Eligibility for J-1 Status",0,0,0.110498,low,0.029877,9,8.44397,5,0.705423,5,-9.551787
+TPS designation criteria policy,1,DHS terminates Temporary Protected Status for Honduras,3,1,0.826059,high,0.032787,1,14.16389,1,0.763382,1,2.469769
+TPS designation criteria policy,3,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",2,1,0.251513,low,0.031498,3,9.891121,4,0.691239,2,-0.676384
+TPS designation criteria policy,2,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.399382,low,0.032258,2,10.408744,2,0.702365,3,-5.199882
+TPS designation criteria policy,4,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.149057,low,0.03055,4,9.279884,7,0.685973,4,-6.477262
+TPS designation criteria policy,5,"EOIR proposes revisions to Form EOIR-31A, Request for Accreditation of Non-Attorney Representative",0,0,0.124319,low,0.030536,6,6.831582,5,0.689274,5,-8.708574
+USCIS and EOIR policy conflicts regarding continuances and case management,1,EOIR Director issues guidance to restrict continuances,3,1,0.967958,high,0.032787,1,17.024092,1,0.840309,1,-0.52442
+USCIS and EOIR policy conflicts regarding continuances and case management,2,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",2,1,0.608745,medium,0.031025,3,13.234052,6,0.767337,2,-2.793169
+USCIS and EOIR policy conflicts regarding continuances and case management,5,USCIS updates policy on applying discretion in adjudications,1,0,0.347530,low,0.029236,6,11.889562,11,0.751866,3,-2.871529
+USCIS and EOIR policy conflicts regarding continuances and case management,3,"DOJ requests comments on Form EOIR-27, Notice of Entry of Appearance before BIA",0,0,0.526368,medium,0.030415,2,14.217714,10,0.756698,4,-3.644572
+USCIS and EOIR policy conflicts regarding continuances and case management,4,Asylum seekers given less time to prepare for credible fear interviews,1,0,0.320232,low,0.029324,13,8.827189,4,0.770673,5,-5.271983
+USCIS deference policy to prior approvals H1B adjudications changes,1,USCIS updates policy on applying discretion in adjudications,2,1,0.931256,high,0.032787,1,16.196533,1,0.817616,1,0.977155
+USCIS deference policy to prior approvals H1B adjudications changes,3,Asylum seekers given less time to prepare for credible fear interviews,0,0,0.536459,medium,0.03101,4,13.228134,5,0.74619,2,-1.359882
+USCIS deference policy to prior approvals H1B adjudications changes,2,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.520790,medium,0.031025,6,11.288332,3,0.765934,3,-2.027663
+USCIS deference policy to prior approvals H1B adjudications changes,5,USCIS issues final rule on public charge inadmissibility grounds,1,0,0.430685,medium,0.029958,3,14.483005,11,0.730893,4,-3.106252
+USCIS deference policy to prior approvals H1B adjudications changes,4,"USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action)",0,0,0.554813,medium,0.030835,8,9.490111,2,0.777593,5,-6.709513
+USCIS fee rule changes,2,USCIS issues final rule on public charge inadmissibility grounds,0,0,0.543920,medium,0.031498,3,11.597523,4,0.743574,1,4.8187
+USCIS fee rule changes,5,"USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action)",3,1,0.539442,medium,0.031054,2,11.650786,7,0.72556,2,-0.877141
+USCIS fee rule changes,4,USCIS updates policy on applying discretion in adjudications,2,1,0.568784,medium,0.031281,6,10.514423,2,0.763205,3,-3.015879
+USCIS fee rule changes,1,DOS implements $1 fee for Diversity Visa Lottery,1,0,0.471903,medium,0.031498,4,11.518355,3,0.745097,4,-3.585445
+USCIS fee rule changes,3,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",1,0,0.532687,medium,0.031319,7,10.419461,1,0.770681,5,-4.539179
+USCIS policy changes affecting adjustment of status under INA 245(a) and 245(k),1,USCIS updates policy on applying discretion in adjudications,3,1,0.960199,high,0.032787,1,25.228364,1,0.803721,1,5.261792
+USCIS policy changes affecting adjustment of status under INA 245(a) and 245(k),2,USCIS issues final rule on public charge inadmissibility grounds,2,1,0.742834,high,0.031281,2,20.889544,6,0.753478,2,3.295842
+USCIS policy changes affecting adjustment of status under INA 245(a) and 245(k),5,DHS Ends Automatic Extension of Employment Authorization Documents,1,0,0.490842,medium,0.03055,7,12.02114,4,0.763509,3,2.272328
+USCIS policy changes affecting adjustment of status under INA 245(a) and 245(k),4,USCIS waives COVID-19 vaccination requirement for Adjustment of Status applicants,2,1,0.577040,medium,0.030798,3,14.881361,7,0.752112,4,0.195805
+USCIS policy changes affecting adjustment of status under INA 245(a) and 245(k),3,EOIR issues guidance on adjustment of status eligibility for certain Liberians under the NDAA,3,1,0.567204,medium,0.031025,6,12.108396,3,0.764152,5,-2.759456
+USCIS policy manual updates on adjustment of status,2,USCIS issues final rule on public charge inadmissibility grounds,3,1,0.904366,high,0.032018,1,23.643855,4,0.776795,1,6.532619
+USCIS policy manual updates on adjustment of status,3,USCIS waives COVID-19 vaccination requirement for Adjustment of Status applicants,3,1,0.775092,high,0.031498,4,14.881361,3,0.779408,2,4.543342
+USCIS policy manual updates on adjustment of status,1,USCIS updates policy on applying discretion in adjudications,3,1,0.920308,high,0.032522,2,21.003468,1,0.78991,3,1.477714
+USCIS policy manual updates on adjustment of status,4,USCIS issues guidance on derogatory information unknown to the benefit requestor,2,1,0.526831,medium,0.03009,5,13.641019,8,0.765377,4,-0.917757
+USCIS policy manual updates on adjustment of status,5,"USCIS provides new edition of Form N-644, Application for Posthumous Citizenship",0,0,0.521556,medium,0.030077,6,13.045105,7,0.767239,5,-1.095954
+USCIS public charge inadmissibility policy guidance updates,1,USCIS issues final rule on public charge inadmissibility grounds,3,1,0.997530,high,0.032787,1,31.284723,1,0.893483,1,6.822354
+USCIS public charge inadmissibility policy guidance updates,3,USCIS issues guidance on derogatory information unknown to the benefit requestor,0,0,0.723614,high,0.031498,4,12.125554,3,0.773758,2,1.58655
+USCIS public charge inadmissibility policy guidance updates,2,USCIS updates policy on applying discretion in adjudications,1,0,0.896921,high,0.032258,2,15.95598,2,0.796949,3,1.141995
+USCIS public charge inadmissibility policy guidance updates,4,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.301813,low,0.029469,11,8.919511,5,0.760675,4,-0.320663
+USCIS public charge inadmissibility policy guidance updates,5,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,1,0,0.221481,low,0.02901,7,10.686679,11,0.736584,5,-7.832108
+adjustment of status eligibility rules,1,EOIR issues guidance on adjustment of status eligibility for certain Liberians under the NDAA,3,1,0.847889,high,0.032787,1,13.415193,1,0.784158,1,1.545401
+adjustment of status eligibility rules,2,USCIS updates policy on applying discretion in adjudications,2,1,0.782123,high,0.032258,2,12.303765,2,0.777202,2,-1.110291
+adjustment of status eligibility rules,4,USCIS issues final rule on public charge inadmissibility grounds,3,1,0.468982,medium,0.030579,8,9.517749,3,0.766731,3,-1.286112
+adjustment of status eligibility rules,3,EOIR and USCIS issue communicable-disease security bars to asylum and withholding eligibility,0,0,0.429220,medium,0.030798,3,11.768582,7,0.735195,4,-3.512563
+adjustment of status eligibility rules,5,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.362962,low,0.030303,6,10.063465,6,0.735605,5,-6.201946
+administrative processing delays consular policy,3,EOIR Director issues guidance to restrict continuances,1,0,0.423635,medium,0.031025,3,8.98885,6,0.740351,1,-3.793307
+administrative processing delays consular policy,5,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,0,0,0.147484,low,0.029631,7,8.030931,8,0.733682,2,-4.217373
+administrative processing delays consular policy,1,State Department issues final rule implementing Adoptive Family Relief Act,1,0,0.819445,high,0.032522,1,12.861294,2,0.761861,3,-5.699975
+administrative processing delays consular policy,2,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",2,1,0.583362,medium,0.031514,2,10.256003,5,0.750833,4,-7.422385
+administrative processing delays consular policy,4,"State Department Announces Visa Restrictions for Foreign Officials and Others ""Facilitating Illegal Migration""",0,0,0.202626,low,0.029911,4,8.702531,10,0.729021,5,-9.451324
+advance parole policy changes,1,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",3,1,0.680952,medium,0.032522,1,11.724214,2,0.748173,1,0.647815
+advance parole policy changes,2,DHS deports DACA recipient returning with advance parole,3,1,0.646221,medium,0.032522,2,10.725859,1,0.749341,2,0.374526
+advance parole policy changes,5,USCIS updates policy on applying discretion in adjudications,2,1,0.071984,low,0.029631,8,7.353203,7,0.689324,3,-6.538741
+advance parole policy changes,3,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.242886,low,0.03101,4,7.857572,5,0.713609,4,-8.87112
+advance parole policy changes,4,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.225542,low,0.03101,5,7.803907,4,0.714444,5,-9.705497
+asylum cooperative agreements interim final rule,1,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,3,1,0.996459,high,0.032787,1,27.758434,1,0.896517,1,4.971547
+asylum cooperative agreements interim final rule,4,EOIR and USCIS issue communicable-disease security bars to asylum and withholding eligibility,0,0,0.503251,medium,0.03031,5,12.331716,7,0.760579,2,1.576859
+asylum cooperative agreements interim final rule,2,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,0,0,0.780668,high,0.032002,2,14.080795,3,0.768141,3,-0.739517
+asylum cooperative agreements interim final rule,3,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.511289,medium,0.030835,8,11.070053,2,0.769824,4,-1.389304
+asylum cooperative agreements interim final rule,5,USCIS issues final rule on public charge inadmissibility grounds,0,0,0.503927,medium,0.030118,4,13.287058,9,0.755108,5,-4.207736
+asylum policy,3,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,1,0,0.340381,low,0.03101,4,5.745259,5,0.742962,1,3.665846
+asylum policy,4,EOIR Director issues guidance to restrict continuances,2,1,0.273608,low,0.030478,1,7.274623,11,0.728153,2,2.983847
+asylum policy,2,Asylum seekers given less time to prepare for credible fear interviews,3,1,0.534455,medium,0.032002,2,7.050062,3,0.75296,3,1.274888
+asylum policy,1,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",2,1,0.534075,medium,0.032266,3,6.724069,1,0.75655,4,0.985791
+asylum policy,5,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.322597,low,0.030303,6,5.723047,6,0.742872,5,-1.566542
+border wall funding,2,President Trump proposes cutting funding to E-Verify program,2,1,0.887672,high,0.032258,2,16.803361,2,0.795547,1,5.076401
+border wall funding,1,White House FY2020 Budget Proposal includes $8.6 billion in border wall funding,3,1,0.961137,high,0.032787,1,17.374922,1,0.844263,2,3.762429
+border wall funding,3,"OMB temporarily pauses agency grant, loan, and financial assistance programs",0,0,0.416065,medium,0.031258,3,15.079959,5,0.698681,3,0.129437
+border wall funding,4,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.289500,low,0.03125,4,6.719308,4,0.708917,4,-2.052632
+border wall funding,5,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,0,0,0.278015,low,0.031025,6,5.924966,3,0.713725,5,-5.123738
+categorical parole programs CHNV,1,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",3,1,0.974286,high,0.032787,1,18.13297,1,0.834932,1,4.545462
+categorical parole programs CHNV,2,"OMB temporarily pauses agency grant, loan, and financial assistance programs",0,0,0.161775,low,0.031281,2,6.721046,6,0.675724,2,-6.718497
+categorical parole programs CHNV,5,"AG Barr issues Matter of Thomas and Thompson, ruling on the immigration effect of modified criminal convictions",0,0,0.057708,low,0.029762,3,6.364415,12,0.657925,3,-7.452709
+categorical parole programs CHNV,4,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.055171,low,0.030331,8,4.276837,4,0.684109,4,-7.969745
+categorical parole programs CHNV,3,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,1,0,0.063630,low,0.030536,6,5.102091,5,0.676115,5,-8.800017
+changes to H1B lottery selection process rule,2,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.427447,medium,0.031054,2,11.27902,7,0.729173,1,-6.253299
+changes to H1B lottery selection process rule,1,DOS implements $1 fee for Diversity Visa Lottery,0,0,0.557749,medium,0.031778,1,13.619685,5,0.730479,2,-6.580988
+changes to H1B lottery selection process rule,3,EOIR and USCIS issue communicable-disease security bars to asylum and withholding eligibility,0,0,0.383850,low,0.031025,3,10.490335,6,0.729254,3,-7.40769
+changes to H1B lottery selection process rule,4,USCIS allows processing of H-2A petitions for unnamed beneficiaries prior to labor certification approval,1,0,0.267973,low,0.03055,7,9.108001,4,0.731588,4,-8.129307
+changes to H1B lottery selection process rule,5,USCIS issues final rule on public charge inadmissibility grounds,0,0,0.101680,low,0.028595,12,7.49565,8,0.728016,5,-9.787062
+changes to H1B wage level rule and subsequent court vacatur,1,DOL issues interim final rule on Adverse Effect Wage Rate for H-2A agricultural laborers,0,0,0.800125,high,0.032787,1,15.740296,1,0.751317,1,-1.8086
+changes to H1B wage level rule and subsequent court vacatur,3,COVID-19: OFLC announces issuance of electronic PERM labor certifications,2,1,0.241614,low,0.030118,4,13.371631,9,0.711586,2,-6.347703
+changes to H1B wage level rule and subsequent court vacatur,2,USCIS issues final rule on public charge inadmissibility grounds,1,0,0.386168,low,0.031258,3,13.832237,5,0.714233,3,-6.524893
+changes to H1B wage level rule and subsequent court vacatur,5,"AG Barr issues Matter of Thomas and Thompson, ruling on the immigration effect of modified criminal convictions",0,0,0.149667,low,0.029469,5,11.098098,11,0.704803,4,-8.084057
+changes to H1B wage level rule and subsequent court vacatur,4,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",0,0,0.146267,low,0.029857,8,10.195979,6,0.712481,5,-10.232544
+changes to I-601 waiver adjudication standards,2,"AG Bondi issues Matter of S-S-F-M-, restricting asylum claims based on domestic violence",0,0,0.425793,medium,0.031498,4,9.160768,3,0.74008,1,-1.82089
+changes to I-601 waiver adjudication standards,3,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",1,0,0.466455,medium,0.031319,1,13.492787,7,0.724047,2,-2.8703
+changes to I-601 waiver adjudication standards,1,USCIS updates policy on applying discretion in adjudications,2,1,0.709827,high,0.032522,2,12.346711,1,0.758707,3,-5.484175
+changes to I-601 waiver adjudication standards,4,USCIS issues final rule on public charge inadmissibility grounds,1,0,0.243606,low,0.030018,12,7.518173,2,0.740212,4,-9.322607
+changes to I-601 waiver adjudication standards,5,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.234177,low,0.029857,8,8.711976,6,0.72499,5,-9.341006
+changes to STEM OPT extension rules,5,"DOJ requests comments on Form EOIR-27, Notice of Entry of Appearance before BIA",0,0,0.117735,low,0.028739,1,15.619491,21,0.663559,1,-6.69942
+changes to STEM OPT extension rules,1,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",0,0,0.106694,low,0.03031,5,9.116114,7,0.685418,2,-9.031863
+changes to STEM OPT extension rules,4,USCIS issues final rule on public charge inadmissibility grounds,1,0,0.047093,low,0.02879,11,7.244102,8,0.685005,3,-10.551965
+changes to STEM OPT extension rules,2,DHS terminates Temporary Protected Status for Honduras,0,0,0.101296,low,0.030282,12,7.033559,1,0.702152,4,-10.75437
+changes to STEM OPT extension rules,3,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.073236,low,0.029828,13,6.723407,2,0.692934,5,-11.024494
+changes to cancellation of removal eligibility standards,1,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",3,1,0.803983,high,0.032522,1,13.126678,2,0.755497,1,1.061758
+changes to cancellation of removal eligibility standards,3,EOIR and USCIS issue communicable-disease security bars to asylum and withholding eligibility,1,0,0.356120,low,0.030214,2,12.08213,11,0.737502,2,0.98831
+changes to cancellation of removal eligibility standards,2,EOIR issues guidance on adjustment of status eligibility for certain Liberians under the NDAA,2,1,0.740974,high,0.032266,3,10.839868,1,0.761474,3,-0.296381
+changes to cancellation of removal eligibility standards,4,EOIR Director issues guidance to restrict continuances,2,1,0.152727,low,0.029437,6,9.292208,10,0.740524,4,-1.649986
+changes to cancellation of removal eligibility standards,5,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.079127,low,0.029324,13,7.81618,4,0.750837,5,-6.085501
+changes to cancellation of removal hardship standard interpretations,4,EOIR Director issues guidance to restrict continuances,2,1,0.441624,medium,0.030769,5,9.292208,5,0.745362,1,-2.80101
+changes to cancellation of removal hardship standard interpretations,2,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",2,1,0.567798,medium,0.031746,3,11.033226,3,0.749795,2,-3.332725
+changes to cancellation of removal hardship standard interpretations,5,"AG Barr issues Matter of Thomas and Thompson, ruling on the immigration effect of modified criminal convictions",1,0,0.456797,medium,0.030622,9,7.891763,2,0.752514,3,-4.017229
+changes to cancellation of removal hardship standard interpretations,3,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,1,0,0.388311,low,0.030777,6,8.526218,4,0.748084,4,-5.418785
+changes to cancellation of removal hardship standard interpretations,1,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.788302,high,0.032787,1,12.126526,1,0.770155,5,-8.220686
+changes to employment based green card quotas,2,DHS Ends Automatic Extension of Employment Authorization Documents,1,0,0.402590,medium,0.03101,5,11.924425,4,0.735862,1,-2.619254
+changes to employment based green card quotas,1,"USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action)",0,0,0.556438,medium,0.031545,1,16.028735,6,0.726668,2,-3.37221
+changes to employment based green card quotas,5,DOL proposes new collection form for employers seeking to employ H-2B nonimmigrant workers,2,1,0.116596,low,0.029214,18,6.800997,1,0.764187,3,-5.872293
+changes to employment based green card quotas,4,DHS terminates Temporary Protected Status for Honduras,1,0,0.389454,low,0.030214,2,15.932757,11,0.721149,4,-6.391987
+changes to employment based green card quotas,3,"DOJ sues Illinois over ""Right to Privacy in the Workplace Act"" amendments",1,0,0.347112,low,0.030798,7,10.940469,3,0.737982,5,-6.911764
+changes to premium processing eligibility expansion,1,HHS issues final rule making DACA recipients ineligible for ACA health coverage,0,0,0.505555,medium,0.031545,1,21.011675,6,0.703596,1,-3.185697
+changes to premium processing eligibility expansion,4,EOIR and USCIS issue communicable-disease security bars to asylum and withholding eligibility,0,0,0.143628,low,0.029643,2,10.359439,14,0.689277,2,-8.9298
+changes to premium processing eligibility expansion,5,"DOS proposes revisions to Form DS-2019, Certificate of Eligibility for J-1 Status",0,0,0.077136,low,0.02885,6,8.296164,13,0.691168,3,-9.070332
+changes to premium processing eligibility expansion,2,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.277994,low,0.031498,4,9.242242,3,0.709868,4,-9.615801
+changes to premium processing eligibility expansion,3,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.229658,low,0.031099,8,8.151621,1,0.721067,5,-10.032763
+changes to visa overstay enforcement policies,1,"State Department Announces Visa Restrictions for Foreign Officials and Others ""Facilitating Illegal Migration""",1,0,0.512614,medium,0.031545,6,8.444952,1,0.756742,1,-0.996383
+changes to visa overstay enforcement policies,2,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.310730,low,0.031054,2,8.986602,7,0.715463,2,-5.496231
+changes to visa overstay enforcement policies,4,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",1,0,0.203578,low,0.030018,12,7.735086,2,0.742167,3,-5.793577
+changes to visa overstay enforcement policies,3,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.235898,low,0.030579,3,8.596861,8,0.711461,4,-6.014203
+changes to visa overstay enforcement policies,5,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.149946,low,0.029514,4,8.518184,12,0.706701,5,-9.080204
+consular processing shutdown and reopening policy timeline,3,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,2,1,0.382135,low,0.030415,2,11.44402,10,0.736389,1,-4.546728
+consular processing shutdown and reopening policy timeline,2,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.412753,medium,0.030777,4,10.256003,6,0.751216,2,-5.559774
+consular processing shutdown and reopening policy timeline,1,Asylum seekers given less time to prepare for credible fear interviews,0,0,0.519124,medium,0.031498,3,10.352048,4,0.757043,3,-5.957123
+consular processing shutdown and reopening policy timeline,4,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.348906,low,0.03031,7,8.327233,5,0.752309,4,-6.121066
+consular processing shutdown and reopening policy timeline,5,State Department issues final rule implementing Adoptive Family Relief Act,1,0,0.360403,low,0.029907,1,12.480442,14,0.722971,5,-6.783309
+consular processing suspension COVID policy,1,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",2,1,0.934189,high,0.032787,1,13.297519,1,0.807411,1,2.421257
+consular processing suspension COVID policy,2,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",2,1,0.909029,high,0.032258,2,13.297519,2,0.807411,2,2.421257
+consular processing suspension COVID policy,3,"POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals",2,1,0.876836,high,0.031746,3,13.297519,3,0.807411,3,2.421257
+consular processing suspension COVID policy,4,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,0,0,0.420785,medium,0.030777,6,10.49289,4,0.752747,4,-1.408529
+consular processing suspension COVID policy,5,"State Department Announces Visa Restrictions for Foreign Officials and Others ""Facilitating Illegal Migration""",1,0,0.219211,low,0.03009,8,8.702531,5,0.743562,5,-8.482761
+director-level authorization custodial releases unaccompanied minors,3,ORR proposes revisions to forms for services provided to unaccompanied children,2,1,0.533597,medium,0.031498,3,9.942804,4,0.749749,1,0.468361
+director-level authorization custodial releases unaccompanied minors,4,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,1,0,0.265806,low,0.030777,4,9.935589,6,0.716557,2,-1.697715
+director-level authorization custodial releases unaccompanied minors,2,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",2,1,0.794651,high,0.032258,2,11.875234,2,0.779458,3,-1.712561
+director-level authorization custodial releases unaccompanied minors,5,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.179845,low,0.029206,15,7.446072,3,0.756371,4,-6.193035
+director-level authorization custodial releases unaccompanied minors,1,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,3,1,0.998458,high,0.032787,1,40.520896,1,0.892163,5,-7.467308
+diversity visa lottery policy changes,1,DOS implements $1 fee for Diversity Visa Lottery,3,1,0.974057,high,0.032787,1,22.490117,1,0.826459,1,5.051044
+diversity visa lottery policy changes,5,President Trump proposes cutting funding to E-Verify program,1,0,0.196251,low,0.029116,2,18.218571,17,0.695173,2,0.910038
+diversity visa lottery policy changes,2,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",2,1,0.534646,medium,0.031754,4,11.648316,2,0.740147,3,-1.406706
+diversity visa lottery policy changes,3,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.283899,low,0.030777,6,10.383792,4,0.723565,4,-4.717779
+diversity visa lottery policy changes,4,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.191895,low,0.030159,10,7.803907,3,0.735477,5,-10.455966
+employment authorization document renewal rules,2,DHS Ends Automatic Extension of Employment Authorization Documents,3,1,0.670866,medium,0.031099,8,8.998246,1,0.798314,1,4.449264
+employment authorization document renewal rules,5,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",2,1,0.448929,medium,0.030303,6,10.006814,6,0.748405,2,1.798401
+employment authorization document renewal rules,4,"DOJ sues Illinois over ""Right to Privacy in the Workplace Act"" amendments",1,0,0.369880,low,0.030331,4,10.800313,8,0.73766,3,-1.100162
+employment authorization document renewal rules,1,DOL issues guidance requiring work-authorization verification for Employment and Training Administration (ETA) grant programs,2,1,0.670449,medium,0.032018,1,11.617423,4,0.76641,4,-4.183302
+employment authorization document renewal rules,3,"EOIR proposes revisions to Form EOIR-31A, Request for Accreditation of Non-Attorney Representative",0,0,0.591205,medium,0.031054,7,9.532534,2,0.772981,5,-6.456716
+evolution of SIJS eligibility interpretations and state court dependency requirements,1,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.698473,medium,0.032522,1,13.84106,2,0.74186,1,-5.954548
+evolution of SIJS eligibility interpretations and state court dependency requirements,3,"AG Barr issues Matter of Thomas and Thompson, ruling on the immigration effect of modified criminal convictions",1,0,0.311242,low,0.030769,5,8.14134,5,0.732858,2,-8.271524
+evolution of SIJS eligibility interpretations and state court dependency requirements,2,"DOJ sues Illinois over ""Right to Privacy in the Workplace Act"" amendments",0,0,0.485808,medium,0.031754,2,9.550631,4,0.735277,3,-8.91501
+evolution of SIJS eligibility interpretations and state court dependency requirements,4,USCIS updates policy on applying discretion in adjudications,1,0,0.333627,low,0.030579,3,9.069402,8,0.726652,4,-10.266479
+evolution of SIJS eligibility interpretations and state court dependency requirements,5,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",0,0,0.135621,low,0.028986,9,7.797595,9,0.726562,5,-10.304574
+evolution of visa bulletin movement and retrogression policy since 2015,3,"State Department Announces Visa Restrictions for Foreign Officials and Others ""Facilitating Illegal Migration""",0,0,0.073086,low,0.029274,5,8.546223,12,0.711455,1,-6.462651
+evolution of visa bulletin movement and retrogression policy since 2015,2,"POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals",0,0,0.070358,low,0.029762,12,7.399456,3,0.750371,2,-8.961143
+evolution of visa bulletin movement and retrogression policy since 2015,1,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",1,0,0.724302,high,0.032522,2,8.891103,1,0.758942,3,-9.447947
+evolution of visa bulletin movement and retrogression policy since 2015,5,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",0,0,0.021483,low,0.028787,19,6.250148,2,0.750371,4,-10.075236
+evolution of visa bulletin movement and retrogression policy since 2015,4,EOIR Director issues guidance to restrict continuances,2,1,0.030502,low,0.02879,11,7.490905,8,0.718423,5,-10.293306
+expedited removal procedures,3,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,3,1,0.540673,medium,0.031754,2,12.633759,4,0.736883,1,5.732856
+expedited removal procedures,1,Asylum seekers given less time to prepare for credible fear interviews,3,1,0.730219,high,0.032787,1,13.805987,1,0.748502,2,4.087655
+expedited removal procedures,4,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",2,1,0.400144,medium,0.031258,5,9.762866,3,0.739184,3,1.760176
+expedited removal procedures,2,DHS deports DACA recipient returning with advance parole,3,1,0.567000,medium,0.032002,3,10.052987,2,0.747454,4,0.24007
+expedited removal procedures,5,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.363392,low,0.03101,4,9.866985,5,0.733716,5,-5.347967
+h1b visa rule changes,2,DOL proposes new collection form for employers seeking to employ H-2B nonimmigrant workers,1,0,0.151626,low,0.029643,14,6.822354,2,0.760138,1,2.287018
+h1b visa rule changes,1,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",1,0,0.200229,low,0.030579,8,7.678259,3,0.73054,2,-2.929391
+h1b visa rule changes,4,USCIS issues final rule on public charge inadmissibility grounds,0,0,0.075604,low,0.028992,10,7.49565,8,0.715547,3,-6.454417
+h1b visa rule changes,3,COVID-19: OFLC announces issuance of electronic PERM labor certifications,1,0,0.081726,low,0.029274,12,7.261438,5,0.725103,4,-6.610117
+h1b visa rule changes,5,DOL issues interim final rule on Adverse Effect Wage Rate for H-2A agricultural laborers,1,0,0.087519,low,0.028986,9,7.506908,9,0.715398,5,-7.180092
+immigrant visa backlog policy updates,1,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",2,1,0.755837,high,0.032522,1,14.742786,2,0.758336,1,-0.087208
+immigrant visa backlog policy updates,2,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",2,1,0.730354,high,0.032002,2,14.742786,3,0.758336,2,-0.087208
+immigrant visa backlog policy updates,3,"POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals",2,1,0.704766,high,0.031498,3,14.742786,4,0.758336,3,-0.087208
+immigrant visa backlog policy updates,5,"DOS proposes revisions to Form DS-234, Special Immigrant Visa Biodata",1,0,0.181884,low,0.028778,10,9.272837,9,0.740041,4,-1.782024
+immigrant visa backlog policy updates,4,USCIS updates policy on applying discretion in adjudications,1,0,0.362370,low,0.030077,7,10.906717,6,0.744532,5,-7.168738
+immigration fee waiver eligibility policy,1,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",3,1,0.821418,high,0.032522,2,15.729732,1,0.771409,1,0.216067
+immigration fee waiver eligibility policy,5,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.524705,medium,0.030478,1,16.797443,11,0.717384,2,-0.463876
+immigration fee waiver eligibility policy,4,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",2,1,0.457411,medium,0.030777,6,10.162956,4,0.749622,3,-3.764904
+immigration fee waiver eligibility policy,3,"USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action)",3,1,0.528068,medium,0.030798,3,14.566489,7,0.741449,4,-4.714926
+immigration fee waiver eligibility policy,2,USCIS allows processing of H-2A petitions for unnamed beneficiaries prior to labor certification approval,2,1,0.542526,medium,0.031514,5,11.398071,2,0.752003,5,-5.579371
+immigration medical exam requirements policy,2,USCIS waives COVID-19 vaccination requirement for Adjustment of Status applicants,3,1,0.154377,low,0.030886,9,7.364789,1,0.731287,1,0.268902
+immigration medical exam requirements policy,4,EOIR Acting Deputy Director issues guidance on the handling of classified information in EOIR proceedings,0,0,0.110874,low,0.030077,6,8.078148,7,0.702,2,-2.322422
+immigration medical exam requirements policy,1,"OMB temporarily pauses agency grant, loan, and financial assistance programs",1,0,0.539742,medium,0.032018,1,12.518728,4,0.71446,3,-5.02847
+immigration medical exam requirements policy,3,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,2,1,0.231786,low,0.030622,2,10.278074,9,0.698786,4,-8.592247
+immigration medical exam requirements policy,5,DHS terminates Temporary Protected Status for Honduras,1,0,0.121555,low,0.029572,3,9.272613,13,0.693519,5,-10.533106
+litigation impacting public charge inadmissibility rule enforcement timeline,1,USCIS issues final rule on public charge inadmissibility grounds,3,1,0.967361,high,0.032787,1,23.359355,1,0.813733,1,1.893104
+litigation impacting public charge inadmissibility rule enforcement timeline,5,President issues memoranda targeting immigration lawyers with sanctions for alleged misconduct,0,0,0.280368,low,0.029643,2,13.737625,14,0.71648,2,-3.603608
+litigation impacting public charge inadmissibility rule enforcement timeline,3,HHS issues notice excluding undocumented immigrants from additional federal benefits,1,0,0.406552,medium,0.031258,5,9.638311,3,0.735216,3,-8.895684
+litigation impacting public charge inadmissibility rule enforcement timeline,4,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",0,0,0.342754,low,0.030579,3,10.776836,8,0.7237,4,-9.155842
+litigation impacting public charge inadmissibility rule enforcement timeline,2,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,1,0,0.368327,low,0.031281,6,8.687604,2,0.737875,5,-9.352928
+migrant protection protocols,1,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",3,1,0.956170,high,0.032787,1,18.98962,1,0.802949,1,6.994698
+migrant protection protocols,3,DHS terminates Temporary Protected Status for Honduras,2,1,0.622008,medium,0.031754,2,13.7569,4,0.724132,2,4.796936
+migrant protection protocols,4,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",0,0,0.268514,low,0.030777,4,7.045073,6,0.720995,3,0.064679
+migrant protection protocols,2,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",0,0,0.567552,medium,0.032002,3,10.808155,2,0.732355,4,-0.458773
+migrant protection protocols,5,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,1,0,0.108423,low,0.02967,5,6.439669,10,0.70872,5,-7.164551
+naturalization processing delays policy,2,Reports that U.S. Army is discharging immigrant recruits,1,0,0.300450,low,0.030679,1,10.627641,10,0.731435,1,-0.835258
+naturalization processing delays policy,4,EOIR Acting Deputy Director rescinds prior guidance on naturalization oath ceremonies,2,1,0.236624,low,0.029762,3,9.937474,12,0.729329,2,-3.379166
+naturalization processing delays policy,1,USCIS redesigns processing times webpage and tests new way of calculating processing times,3,1,0.703463,high,0.032522,2,10.232705,1,0.766081,3,-4.210011
+naturalization processing delays policy,3,Asylum seekers given less time to prepare for credible fear interviews,0,0,0.238547,low,0.03009,8,7.366817,5,0.742362,4,-6.923594
+naturalization processing delays policy,5,EOIR Director issues guidance to restrict continuances,0,0,0.206823,low,0.029418,9,7.170111,7,0.737184,5,-8.929165
+policy changes affecting marriage based green card interviews,4,Reports that President will attempt to void birthright citizenship for children of undocumented parents via Executive Order,0,0,0.556314,medium,0.030282,1,20.680116,12,0.717306,1,-6.594481
+policy changes affecting marriage based green card interviews,2,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.509360,medium,0.031099,8,12.084759,1,0.761,2,-8.253801
+policy changes affecting marriage based green card interviews,5,DHS terminates Temporary Protected Status for Honduras,1,0,0.274772,low,0.02895,2,15.932757,18,0.714931,3,-8.468961
+policy changes affecting marriage based green card interviews,1,Asylum seekers given less time to prepare for credible fear interviews,0,0,0.552738,medium,0.031514,5,12.2864,2,0.757622,4,-8.753635
+policy changes affecting marriage based green card interviews,3,"USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action)",1,0,0.352088,low,0.030331,4,13.288077,8,0.726131,5,-10.809784
+policy changes governing employment authorization for pending adjustment applicants,1,EOIR issues guidance on adjustment of status eligibility for certain Liberians under the NDAA,1,0,0.814220,high,0.032002,3,17.320862,2,0.77281,1,1.021722
+policy changes governing employment authorization for pending adjustment applicants,2,USCIS updates policy on applying discretion in adjudications,3,1,0.806239,high,0.031754,2,18.184223,4,0.760095,2,-0.076418
+policy changes governing employment authorization for pending adjustment applicants,5,USCIS issues final rule on public charge inadmissibility grounds,1,0,0.687125,medium,0.030478,1,19.058587,11,0.739892,3,-1.526617
+policy changes governing employment authorization for pending adjustment applicants,4,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.429452,medium,0.030536,6,13.2741,5,0.751174,4,-2.919229
+policy changes governing employment authorization for pending adjustment applicants,3,HUD orders immediate citizenship-verification for tenants in HUD-funded housing,2,1,0.757625,high,0.031498,4,16.852969,3,0.765432,5,-4.716668
+policy developments affecting immigrant visa backlogs and per country limits,3,"POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals",3,1,0.272930,low,0.030077,7,9.829622,6,0.734671,1,-4.41732
+policy developments affecting immigrant visa backlogs and per country limits,2,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",1,0,0.590182,medium,0.031778,1,14.490493,5,0.734671,2,-4.589383
+policy developments affecting immigrant visa backlogs and per country limits,1,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",1,0,0.780753,high,0.032266,3,11.997086,1,0.777489,3,-6.51201
+policy developments affecting immigrant visa backlogs and per country limits,4,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,1,0,0.222955,low,0.029877,5,10.957777,9,0.717649,4,-7.358712
+policy developments affecting immigrant visa backlogs and per country limits,5,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.185929,low,0.029206,15,9.115027,3,0.753235,5,-7.794588
+policy shifts in administrative closure authority EOIR and Attorney General decisions,3,EOIR Director issues guidance to restrict continuances,2,1,0.545606,medium,0.030478,1,17.033414,11,0.73867,1,-1.461865
+policy shifts in administrative closure authority EOIR and Attorney General decisions,2,"EOIR issues guidance on Pereira v. Sessions, announcing changes in NTA filings and case scheduling",3,1,0.526112,medium,0.030622,2,15.463575,9,0.743486,2,-7.214702
+policy shifts in administrative closure authority EOIR and Attorney General decisions,4,"OMB temporarily pauses agency grant, loan, and financial assistance programs",0,0,0.396615,low,0.03031,7,12.148499,5,0.750439,3,-8.630581
+policy shifts in administrative closure authority EOIR and Attorney General decisions,1,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.679098,medium,0.031754,4,13.823508,2,0.762762,4,-8.68683
+policy shifts in administrative closure authority EOIR and Attorney General decisions,5,"AG Bondi issues Matter of S-S-F-M-, restricting asylum claims based on domestic violence",0,0,0.259907,low,0.029412,8,12.10789,8,0.74375,5,-10.396142
+public charge rule,1,USCIS issues final rule on public charge inadmissibility grounds,3,1,0.923916,high,0.032787,1,15.44248,1,0.807503,1,6.659944
+public charge rule,2,"AG Barr issues Matter of Thomas and Thompson, ruling on the immigration effect of modified criminal convictions",0,0,0.047145,low,0.029958,3,6.485959,11,0.675889,2,-4.967182
+public charge rule,3,USCIS updates policy on applying discretion in adjudications,0,0,0.040511,low,0.029514,4,6.328516,12,0.673974,3,-5.054302
+public charge rule,5,HHS issues notice excluding undocumented immigrants from additional federal benefits,1,0,0.059391,low,0.029412,8,5.88338,8,0.680749,4,-6.42758
+public charge rule,4,Asylum seekers given less time to prepare for credible fear interviews,0,0,0.055035,low,0.029514,12,5.569059,4,0.687781,5,-9.398911
+refugee resettlement,3,President Trump transfers grant-making authority for initial resettlement grants and contracts from DOS to ORR,3,1,0.670226,medium,0.031746,3,9.13908,3,0.774098,1,6.760491
+refugee resettlement,2,"OMB temporarily pauses agency grant, loan, and financial assistance programs",2,1,0.781132,high,0.032522,1,9.603986,2,0.781207,2,5.089635
+refugee resettlement,1,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,3,1,0.793125,high,0.032522,2,9.336521,1,0.797239,3,4.763195
+refugee resettlement,5,EOIR and USCIS issue communicable-disease security bars to asylum and withholding eligibility,1,0,0.439368,medium,0.030777,6,7.625769,4,0.751507,4,4.036951
+refugee resettlement,4,Foreign Affairs Manual section on Referrals for Refugee Status updated to remove references to transgender and intersex individuals,2,1,0.456152,medium,0.03101,4,7.849234,5,0.75027,5,3.828414
+regulatory changes to premium processing scope and statutory authority expansion,2,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.422217,medium,0.031778,5,12.295896,1,0.717628,1,-7.73315
+regulatory changes to premium processing scope and statutory authority expansion,1,HHS issues notice excluding undocumented immigrants from additional federal benefits,0,0,0.432784,medium,0.032002,3,12.711601,2,0.705336,2,-8.458863
+regulatory changes to premium processing scope and statutory authority expansion,4,USCIS updates policy on applying discretion in adjudications,2,1,0.060330,low,0.029631,8,10.513348,7,0.687708,3,-9.064335
+regulatory changes to premium processing scope and statutory authority expansion,5,DHS terminates Temporary Protected Status for Honduras,0,0,0.044634,low,0.029514,12,9.649875,4,0.697292,4,-9.729416
+regulatory changes to premium processing scope and statutory authority expansion,3,Asylum seekers given less time to prepare for credible fear interviews,0,0,0.273894,low,0.030835,2,13.452215,8,0.687006,5,-10.535677
+special immigrant juvenile status SIJS policy,3,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.527243,medium,0.031746,3,15.747137,3,0.729175,1,3.660448
+special immigrant juvenile status SIJS policy,4,USCIS issues final rule on public charge inadmissibility grounds,2,1,0.293517,low,0.03055,4,14.186395,7,0.712504,2,1.831674
+special immigrant juvenile status SIJS policy,2,"USCIS proposes changes to Form G-325A, Biographic Information (for Deferred Action)",3,1,0.749160,high,0.032522,2,16.610972,1,0.752266,3,0.412632
+special immigrant juvenile status SIJS policy,1,USCIS updates policy on applying discretion in adjudications,2,1,0.686537,medium,0.032522,1,17.976621,2,0.731334,4,-0.588221
+special immigrant juvenile status SIJS policy,5,"DOS proposes revisions to Form DS-234, Special Immigrant Visa Biodata",1,0,0.142196,low,0.029644,9,9.556775,6,0.716511,5,-3.177278
+student visa policy updates,4,"State Department Announces Visa Restrictions for Foreign Officials and Others ""Facilitating Illegal Migration""",1,0,0.113959,low,0.02971,11,8.546223,4,0.720531,1,0.043279
+student visa policy updates,1,DOS opens new investigation into Harvard’s use of international visas,2,1,0.717069,high,0.032787,1,14.881655,1,0.7344,2,-0.670562
+student visa policy updates,5,COVID-19: OFLC announces issuance of electronic PERM labor certifications,1,0,0.160327,low,0.029643,2,11.22974,14,0.693622,3,-5.962326
+student visa policy updates,2,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,0,0,0.300374,low,0.03101,4,10.686679,5,0.716473,4,-6.141972
+student visa policy updates,3,"USCIS provides new edition of Form N-644, Application for Posthumous Citizenship",0,0,0.253319,low,0.030835,8,9.065538,2,0.727811,5,-7.139285
+temporary protected status,1,DHS terminates Temporary Protected Status for Honduras,3,1,0.891445,high,0.032787,1,12.764559,1,0.801646,1,3.335402
+temporary protected status,4,EOIR issues guidance on adjustment of status eligibility for certain Liberians under the NDAA,1,0,0.423007,medium,0.030798,3,10.684282,7,0.734458,2,2.83081
+temporary protected status,3,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",1,0,0.572489,medium,0.031498,4,10.619062,3,0.751035,3,2.12833
+temporary protected status,5,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",1,0,0.150500,low,0.029274,5,9.285365,12,0.713686,4,1.740224
+temporary protected status,2,HUD orders immediate citizenship-verification for tenants in HUD-funded housing,1,0,0.740100,high,0.032258,2,11.922282,2,0.765362,5,1.234907
+unaccompanied children ORR release policies,2,ORR proposes revisions to forms for services provided to unaccompanied children,2,1,0.972693,high,0.032522,1,23.348604,2,0.831178,1,6.359506
+unaccompanied children ORR release policies,1,ORR requires Director-level authorization of custodial releases of certain unaccompanied children,3,1,0.982581,high,0.032522,2,19.986184,1,0.886033,2,6.014701
+unaccompanied children ORR release policies,4,DHS Secretary ratifies interim final rule on Asylum Cooperative Agreements,1,0,0.442090,medium,0.030777,4,13.674402,6,0.721994,3,0.706282
+unaccompanied children ORR release policies,3,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",2,1,0.904571,high,0.031746,3,14.585125,3,0.828618,4,0.6189
+unaccompanied children ORR release policies,5,State Department orders resettlement agencies to stop funded work supporting refugees currently in the U.S.,1,0,0.316300,low,0.03031,7,9.497343,5,0.729289,5,-0.624408
+visa bulletin retrogression policy explanation,2,"State Department Announces Visa Restrictions for Foreign Officials and Others ""Facilitating Illegal Migration""",0,0,0.291422,low,0.030622,2,8.546223,9,0.717777,1,-0.602079
+visa bulletin retrogression policy explanation,1,"POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals",0,0,0.521860,medium,0.031025,6,7.399456,3,0.767563,2,-5.700343
+visa bulletin retrogression policy explanation,5,"DOS proposes rule ending ""B-1 in lieu of H"" policy",0,0,0.152209,low,0.029324,4,7.540788,13,0.712102,3,-5.810737
+visa bulletin retrogression policy explanation,4,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",0,0,0.267149,low,0.029907,14,6.250148,1,0.767563,4,-7.119836
+visa bulletin retrogression policy explanation,3,"EO 14165 § 7(b) directs termination of ""categorical parole programs"" including CHNV Parole Processes",0,0,0.270308,low,0.030579,3,8.327167,8,0.719553,5,-7.602441
+visa interview waiver policy changes,2,"POTUS issues Presidential Proclamation, removing Chad from Travel Ban",1,0,0.682537,medium,0.031498,3,11.861193,4,0.767635,1,-2.192882
+visa interview waiver policy changes,4,"POTUS issues EO 13780, extending travel ban and instructing agencies to enhance screening of certain foreign nationals",2,1,0.641581,medium,0.03101,4,11.861193,5,0.767635,2,-2.192882
+visa interview waiver policy changes,1,"POTUS issues Presidential Proclamation 9983, adding six new countries to Travel Ban",1,0,0.864788,high,0.032522,1,12.228141,2,0.787349,3,-3.65055
+visa interview waiver policy changes,3,Asylum seekers given less time to prepare for credible fear interviews,0,0,0.582068,medium,0.031025,6,11.584877,3,0.768426,4,-5.414128
+visa interview waiver policy changes,5,"EO 14165 § 6 directs DHS, DOS, and DOJ to resume the Migrant Protection Protocols",0,0,0.374742,low,0.03009,5,11.757238,8,0.741516,5,-5.939512
