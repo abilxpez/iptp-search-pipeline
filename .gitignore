@@ -16,3 +16,8 @@ config.local.json
 data/parquet_cache/
 data/db_peek_auto/
 data/private/
+
+.DS_Store
+**/.DS_Store
+*.sqlite-shm
+*.sqlite-wal
