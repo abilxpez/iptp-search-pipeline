@@ -762,7 +762,89 @@ For each knob, document:
 4. Observed effect in metrics/per-query behavior
 5. Operational cost (latency, memory, complexity)
 
-## 12. Threats to Validity and Limitations
+## 12. Logistic Regression Relevance Filter
+
+The logistic regression layer is a lightweight supervised relevance filter added after retrieval. It does not replace BM25, semantic search, or RRF. Instead, it learns from labeled query/result examples and estimates whether each already-retrieved candidate is likely to be relevant enough to show prominently.
+
+### 12.1 What this stage does
+1. Takes the top RRF candidates produced by BM25 + semantic retrieval.
+2. Converts retrieval evidence into numeric model features.
+3. Predicts a relevance probability for each result.
+4. Assigns each result to a display band: high-confidence, medium/relevant, or lower-confidence.
+5. Keeps the model fast enough for live API/UI use because inference is only over a small number of numeric features.
+
+### 12.2 Why this stage was added
+RRF scores are useful for ranking, but they are not an ideal cutoff signal. In practice, RRF scores can be close together even when relevance differs, and the number of truly relevant results varies by query. A fixed hard cutoff can therefore remove too many relevant results. The logistic regression filter provides a learned, query-result-level confidence estimate using multiple retrieval signals instead of a single score threshold.
+
+### 12.3 Model behavior
+Logistic regression learns a weighted combination of input features and converts that weighted score into a probability between 0 and 1. Higher probabilities mean the model believes the result is more likely to be relevant. Because the model is linear and feature-based, it remains relatively interpretable: feature weights can be inspected to understand which retrieval signals are contributing most strongly.
+
+### 12.4 Training labels
+The model is trained on labeled query/result rows from:
+1. `data/text/results/relevance_training_data_all.csv`
+2. `data/text/results/relevance_training_data_all_ce.csv` when cross-encoder features are included.
+
+Labels are treated as binary for the classifier:
+1. Relevance labels greater than or equal to `2` are considered relevant.
+2. Relevance labels below `2` are considered not relevant.
+
+This preserves the graded human labels in the source data while giving the logistic regression model a clear binary target.
+
+### 12.5 Runtime feature set
+The primary runtime feature set is `retrieval`:
+1. `rrf_rank`
+2. `rrf_score`
+3. `bm25_rank`
+4. `bm25_score`
+5. `faiss_rank`
+6. `faiss_score`
+
+These features describe how strongly each retrieval method supported a result. This feature set was chosen for runtime because it does not require an additional model call beyond the semantic query embedding already needed for FAISS search.
+
+### 12.6 Optional ablation feature sets
+Additional feature sets are available for offline comparison:
+1. `retrieval_ce`: retrieval features plus `ce_rank` and `ce_score`.
+2. `retrieval_ce_text`: retrieval + CE features plus title/chunk text-overlap features.
+3. `retrieval_ce_metadata`: retrieval + CE features plus agency/subject overlap features.
+4. `retrieval_ce_text_metadata`: retrieval + CE + text-overlap + metadata-overlap features.
+
+These are useful for experiments, but the deployed/runtime direction currently favors `retrieval` because it is cheaper and avoids adding cross-encoder latency.
+
+### 12.7 Evaluation design
+Evaluation uses query-grouped cross-validation. Rows from the same query are kept together in the same fold, rather than splitting individual results from one query across train and test. This matters because the model should generalize to new queries, not merely memorize score patterns within a query it has already seen.
+
+Evaluation outputs are written to:
+1. `data/evals/eval_logistic_regression/summary.csv`
+2. `data/evals/eval_logistic_regression/threshold_metrics.csv`
+3. `data/evals/eval_logistic_regression/per_query_analysis_threshold_0.40.csv`
+4. `data/evals/eval_logistic_regression/band_metrics.csv`
+5. `data/evals/eval_logistic_regression/feature_weights.csv`
+
+For ablations, each feature set receives its own subdirectory and the overall comparison is written to `data/evals/eval_logistic_regression/ablation_summary.csv`.
+
+### 12.8 Runtime integration
+In the live pipeline, logistic regression is not called manually by the user. It is trained offline and saved to:
+1. `data/models/relevance_filter_logistic_regression/model.joblib`
+2. `data/models/relevance_filter_logistic_regression/metadata.json`
+
+At query time, the API/search service loads the saved model, runs BM25 and semantic search, merges candidates with RRF, generates the retrieval features for each candidate, and asks the saved model for a relevance probability. The API then attaches the probability and band to each result so the UI can group results by confidence.
+
+### 12.9 Confidence bands
+The predicted probability is converted into display bands:
+1. `high`: probability greater than or equal to `0.70`.
+2. `medium`: probability greater than or equal to `0.40` and below `0.70`.
+3. `low`: probability below `0.40`.
+
+The purpose of these bands is to avoid an overly aggressive binary cutoff. High-confidence results can be shown first, medium results can remain visible as relevant AI-augmented results, and low-confidence results can be separated rather than silently discarded.
+
+### 12.10 Key tradeoffs
+1. The model improves over a hard cutoff by learning from several retrieval signals at once.
+2. The model is fast because runtime inference uses numeric features, not a large neural reranker.
+3. The model depends on the quality and size of the labeled training data.
+4. The current `retrieval` feature set does not inspect raw text directly at runtime; it relies on BM25, FAISS, and RRF scores/ranks as compressed evidence.
+5. Probability thresholds should be tuned based on product goals: higher recall keeps more relevant results, while higher precision hides more irrelevant results.
+
+## 13. Threats to Validity and Limitations
 Discuss constraints that affect confidence and generalization:
 1. Limited judged query set size.
 2. Domain/time sensitivity in policy corpora.
@@ -770,7 +852,7 @@ Discuss constraints that affect confidence and generalization:
 4. Partial ablation coverage across all major knobs.
 5. Limited formal latency benchmarking in current reporting.
 
-## 13. Future Work and Experiment Plan
+## 14. Future Work and Experiment Plan
 Convert current findings into a concrete ablation roadmap:
 1. Pooling ablation (`mean` vs `cls`) with fixed index/search settings.
 2. RRF sweep across `rrf_k` and source depths.
@@ -779,7 +861,7 @@ Convert current findings into a concrete ablation roadmap:
 5. Optional larger/domain-adapted reranker benchmark.
 6. Statistical confidence reporting on paired per-query deltas.
 
-## 14. Reproducibility Appendix
+## 15. Reproducibility Appendix
 Current config anchor:
 1. `config.json`
 
@@ -829,13 +911,50 @@ python -m scripts.hybrid.search_cross_encoder_rerank --q "temporary protected st
 python -m scripts.hybrid.export_cross_encoder_results_csv --queries data/text/queries.txt --config config.json --run_dir data/embeddings/bge_mean_norm --chunks data/sample_100/chunks/chunks.jsonl --cross_encoder_model "cross-encoder/ms-marco-MiniLM-L-6-v2" --out data/text/results/cross_encoder_results.csv
 ```
 
-Current evaluation command style:
+Logistic regression relevance filter commands:
+```bash
+# Optional: add cross-encoder scores/ranks to the labeled training data
+python -m scripts.hybrid.export_cross_encoder_relevance_csv \
+  --input data/text/results/relevance_training_data_all.csv \
+  --output data/text/results/relevance_training_data_all_ce.csv
+
+# Evaluate one feature set with query-grouped cross-validation
+python -m scripts.hybrid.logistic_regression.evaluate_relevance_model \
+  --data data/text/results/relevance_training_data_all_ce.csv \
+  --feature_set retrieval
+
+# Compare all named feature sets and write ablation reports
+python -m scripts.hybrid.logistic_regression.evaluate_relevance_model \
+  --data data/text/results/relevance_training_data_all_ce.csv \
+  --ablate
+
+# Train and save the final lightweight relevance filter used by the API/UI
+python -m scripts.hybrid.logistic_regression.train_relevance_model \
+  --data data/text/results/relevance_training_data_all_ce.csv \
+  --feature_set retrieval
+```
+
+Named logistic-regression feature sets:
+1. `retrieval`: `rrf_rank`, `rrf_score`, `bm25_rank`, `bm25_score`, `faiss_rank`, `faiss_score`.
+2. `retrieval_ce`: retrieval features plus `ce_rank` and `ce_score`.
+3. `retrieval_ce_text`: retrieval + CE features plus title/chunk text-overlap features.
+4. `retrieval_ce_metadata`: retrieval + CE features plus agency/subject overlap features.
+5. `retrieval_ce_text_metadata`: retrieval + CE + text-overlap + metadata-overlap features.
+
+Main outputs:
+1. Evaluation reports: `data/evals/eval_logistic_regression/`
+2. Saved model: `data/models/relevance_filter_logistic_regression/model.joblib`
+3. Saved model metadata: `data/models/relevance_filter_logistic_regression/metadata.json`
+
+Current retrieval evaluation command style:
 ```bash
 python tests/eval_ir_metrics.py -i data/text/results/bm25_results_scored.csv -o data/evals/eval_bm25
 python tests/eval_ir_metrics.py -i data/text/results/semantic_results_scored.csv -o data/evals/eval_semantic
 python tests/eval_ir_metrics.py -i data/text/results/rrf_results_scored.csv -o data/evals/eval_rrf
 python tests/eval_ir_metrics.py -i data/text/results/cross_enc_results_scored.csv -o data/evals/eval_ce
 ```
+
+These commands evaluate already-scored result CSVs for each retrieval method. Each input CSV contains query/result rows with human relevance labels, and each output directory receives the same evaluation report files for that method. The main output is `summary_metrics.csv`, which reports aggregate retrieval quality across the judged queries, including `nDCG@5`, `MRR@5`, `Success@5`, and `P@5`. The per-query output is `per_query_metrics.csv`, which shows the same metrics broken down query by query so failures and improvements can be inspected.
 
 Current runtime context:
 1. Development hardware: Apple M2 (Apple Silicon, macOS).
